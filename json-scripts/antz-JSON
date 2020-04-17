@@ -1,0 +1,6560 @@
+    {
+ "movie_url": "http://www.dailyscript.com/scripts/antz.html",
+ "movie_title": "Antz",
+ "movie_year": "1998",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "A N T Z\nCHARACTERS                                            VOICES\n\"Z\"...............................................WOODY ALLEN\n\"WASP #1\".........................................DAN AYKROYD\n\"WASP #2\".........................................JANE CURTIN\n\"GEN. FORMICA\"...................................DANNY GLOVER\n\"MANDIBLE\".......................................GENE HACKMAN\n\"AZTECA\".......................................JENNIFER LOPEZ\n\"DRUNK SCOUT\"....................................JOHN MAHONEY\n\"WEAVER\"...................................SYLVESTER STALLONE\n\"PRINCESS BALA\"..................................SHARON STONE\n\"QUEEN\"..........................................MERYL STREEP\n\"CARPENTER\"................................CHRISTOPHER WALKEN"
+  },
+  {
+   "type": "stage direction",
+   "text": "(over a dark screen)"
+  },
+  {
+   "type": "speech",
+   "character": "Z (O.S.)",
+   "text": "All my life, I've lived and worked in\nthe big city..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. AN ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The camera swoops towards the entrance, then dives inside,\npast a couple of tough-looking soldier ants who stand at the\ngates of the ant colony like insect bouncers...into an access\ntunnel that snakes this way and that, past a row of ants\nplodding along...\n...and into the MAIN CHAMBER of the colony, a huge, teeming\nvista that seems to stretch away forever, filled with ants\nrushing here and there on their business.  We see -- a\n\"traffic cop\" directing foot traffic, waving his arms like\ncrazy so both sides move at once -- a column of\nsoldier ants\nmarching along in formation -- a chain of ants letting down\na\nmatchbox\nelevator filled with workers."
+  },
+  {
+   "type": "speech",
+   "character": "Z (V.O.)",
+   "text": "...which is kind of a problem, since\nI've always felt uncomfortably in\ncrowds."
+  },
+  {
+   "type": "location",
+   "text": "INT. MOTIVATIONAL COUNSELLOR'S OFFICE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "We join Z, a worker ant with issues.  He's lying on a couch,\nrecounting his woes."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I feel...isolated.  Different.  I've\ngot abandonment issues.  My father\nflew away when I was just a larva.\nMy mother didn't have much time for\nme...when you have five million\nsiblings, it's difficult to get\nattention."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I feel physically inadequate -- I've\nnever been able to lift more than ten\ntimes my own weight.  Sometimes I\nthink I'm just not cut out to be a\nworker.  But I don't have any other\noptions.  I was assigned to trade\nschool when I was just a"
+  },
+  {
+   "type": "stage direction",
+   "text": "grub\n.  The"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "whole system just...makes me\nfeel..."
+  },
+  {
+   "type": "stage direction",
+   "text": "insignificant"
+  },
+  {
+   "type": "stage direction",
+   "text": "(enthusiastic)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Terrific!  You"
+  },
+  {
+   "type": "stage direction",
+   "text": "should\nfeel"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "insignificant!"
+  },
+  {
+   "type": "stage direction",
+   "text": "For the first time, we see the ant MOTIVATIONAL COUNSELLOR.\nHe's a mixture of Tony Robbins and Ron Popiel (the\nhyperactive late-night TV huckster, and founder of \"Ronco\")."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "...I should?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(hopping around\nenthusiastically)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "YES!!!  You know, people ask me,\n\"Doctor, why are you always happy?\"\nAnd I tell them it's mind over\nmatter.  I don't"
+  },
+  {
+   "type": "stage direction",
+   "text": "mind\nthat I don't\nmatter\n!  Do you get it?  Do you get"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "it?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z gives a fake smile."
+  },
+  {
+   "type": "stage direction",
+   "text": "(incredibly \"up\")"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Z, we're part of the"
+  },
+  {
+   "type": "stage direction",
+   "text": "fastest growing\nspecies in the whole world\nThe counsellor rolls down a chart from the wall.  An arrow\nshows ant population going up, up, up."
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Ask me why we're so successful."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Why are we so successful?"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "I'm glad you asked me that question!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The motivational counsellor opens some blinds...and we see a\nvista of the ant-filled chamber below."
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "What do you see out there?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "...Ants..."
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Right!  Ants!  Millions of creatures,\neach with his assigned task, all\npulling together!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Down below, we see a group of ants carrying a boulder up an\nincline.  One worker ants slips, and the boulder rolls down,\ncrushing his leg.  The other ants rush over -- it looks like\nthey're going to help their fallen comrade, but instead, they\nclimb right over him, and pick up the boulder, continuing\nwith their task."
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "You see?  Being an ant is being able\nto say, \"Hey --"
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm\nmeaningless,\nyou're\nmeaningless.\""
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "But -- but I've always felt life was\nabout finding meaning...and then\nsharing it with someone special,\nsomeone you love."
+  },
+  {
+   "type": "stage direction",
+   "text": "The motivational counsellor puts his arm on Z's shoulder...he\nseems to understand..."
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Z...you need help."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking at a clock)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Whoops!  We're gonna have to stop\nthere.  Your minute is up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The counsellor ushers Z out of his seat and towards the door."
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "Now back to work!  We've made"
+  },
+  {
+   "type": "stage direction",
+   "text": "real\nprogress\n!  Remember -- let's be"
+  },
+  {
+   "type": "speech",
+   "character": "MOTIVATIONAL COUNSELLOR",
+   "text": "best superorganism we can be!"
+  },
+  {
+   "type": "location",
+   "text": "INT. EARLY MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A\ngigantic\ntunnel, with the size and scale of the \"Chunnel\".\nA banner strung overhead reads: \"The Mega-Tunnel -- Tunneling\nOur Way to a Bright Future!\"  Along the walls hang 50's work-\nincentive style posters with messages like, \"You asked for\nit, you got it -- more work!\" and \"TWO MEALS A WEEK IS\nENOUGH!!!\"  Line after line of ants is working on the tunnel,\ndigging, passing clumps of dirt from ant to ant, everyone\nsynchronized.\nCLOSE on a clump of DIRT being passed from hand to hand.\nPULL OUT TO REVEAL\nAZTECA, a feisty, cynical, female worker ant, who stands\nthere, waiting to pass the dirt on.  Z is daydreaming behind\nher, with clumps of dirt starting to pile up in front of him."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Hello?!  Earth to Z!  You better snap\nout of it, or there's gonna be a lot\nof pissed off ants!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z looks back, and sees the ants behind staring at him angrily."
+  },
+  {
+   "type": "stage direction",
+   "text": "(snapping out of it)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Sorry Azteca.  Here you go, fellas!\nFresh dirt!  Alley oop!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking at the dirt)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Shouldn't we be wearing gloves?  I\nmean this dirt is very...dirty.\nDoesn't anyone think of hygiene?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Z's stomach growls)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Boy am I hungry.  I'm so hungry I'm\nseeing double.  It looks like there's"
+  },
+  {
+   "type": "stage direction",
+   "text": "two\nmillion ants in here.  When's"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "lunch?  Tomorrow, or the day after?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(sweetly)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Z, old pal..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shouts)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "SHUT UP!!!  It's bad enough there's\na food shortage without you\ncomplaining about it every day."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "The squeaky wheel gets the oil."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "No, Z.  The squeaky wheel gets"
+  },
+  {
+   "type": "stage direction",
+   "text": "thrown\naway\n, alright?  You're a good ant, Z,"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "even though you are a pain in my rear-\nsegment.  I don't wanna see\nanything happen to you.  So quit\nmouthing off, before you get in\ntrouble."
+  },
+  {
+   "type": "stage direction",
+   "text": "A WHISTLE BLOWS."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Thank goodness.  Breaktime."
+  },
+  {
+   "type": "stage direction",
+   "text": "All the ants put down their tools.  A beat.  Then the WHISTLE\nBLOWS AGAIN.  All the ants pick up their tools again."
+  },
+  {
+   "type": "stage direction",
+   "text": "(resigned)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Break's over."
+  },
+  {
+   "type": "stage direction",
+   "text": "(getting back to work)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "This colony needs another tunnel like\na hole in the ground.  Why are we\neven digging this thing?"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Who cares, Z.  All I know is, we\ngotta dig.  We're not the ones in\ncharge."
+  },
+  {
+   "type": "location",
+   "text": "INT. TOWN CENTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The huge, spacious main chamber of the colony.  Looming over\nthe scene is the royal palace, which seems to be\ninaccessible, perched on top of a hill-like pedestal.\nAround the base of the pedestal, a crew of workers loiters,\nseemingly aimlessly...can these be the only unemployed ants\nin the place?"
+  },
+  {
+   "type": "speech",
+   "character": "GENERAL FORMICA",
+   "text": "STAIRS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers look up and GROAN.  Then they start forming a\nstairway with their own bodies, linking arms, stepping on\neach other's shoulders.  It's extremely unpleasant work.  One\nant is a little tardy, and just manages to get in place\nbefore...\nGENERAL FORMICA, the Pattonesque military leader of the\ncolony, STEPS ON HIS HEAD, using it as the first step as he\nascends to the palace, his aide-de-camp Carpenter in tow.  As\nFormica mounts the \"stairs\"  we can hear the workers going,\n\"OUCH!  OOF!  YIKES!\" etc."
+  },
+  {
+   "type": "speech",
+   "character": "GENERAL FORMICA",
+   "text": "Cut the chit-chat down there!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(turning to Carpenter)"
+  },
+  {
+   "type": "speech",
+   "character": "GENERAL FORMICA",
+   "text": "We've spoiled these workers,\nCarpenter.  They've never had it so\ngood, and listen to them -- always\ngrumbling and complaining..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica steps on the foot of one of the \"stairway\" ants, who\nmuffles a yelp."
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "...Yes, sir."
+  },
+  {
+   "type": "speech",
+   "character": "GENERAL FORMICA",
+   "text": "What have they got to complain about?\nThree square meals a day..."
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Actually, sir, we've cut them down to\nthree roughly rectangular meals a\nweek."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Don't give me statistics, Carpenter.\nI know what I'm talking about.  DOORS!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica and Carpenter have reached the top of the staircase.\nThere, the two guard ants on either side of the massive\nthrone room doors pull them open -- and one door hinge\nSQUEAKS."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to guard ant, while\npassing)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Oil that, soldier."
+  },
+  {
+   "type": "location",
+   "text": "INT. THRONE ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The QUEEN is on her throne, her huge abdomen sprawled behind\nher."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Ah!  General Formica."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica salutes and marches to her, Carpenter behind him.\nNote:  Throughout this scene, the Queen is giving birth\nrepeatedly.  Each birth is accompanied by a herald playing a\nshort \"Happy Birthday\" fanfare on his trumpet.  Mid-wife ants\nbring each baby to the Queen for inspection, who COOS a few\nwords.  The midwives put the babies on a moving bassinet-\nline, powered by ants on a treadmill."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "General, the severe food shortage\nthat faces the colony..."
+  },
+  {
+   "type": "stage direction",
+   "text": "pains\nme."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "The thought of any of my children\ngoing hungry..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(she shudders; then,\nto baby)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Who's the cutest widdle worker?  You\nare!  Yes, you!  Don't forget to\nbrush your teeth!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to mid-wife)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Ship 'er out."
+  },
+  {
+   "type": "stage direction",
+   "text": "(back to Formica)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "What steps are you taking to remedy\nthe situation?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "We are launching a major offensive to\nexpand our foraging territory..."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Yes, what else?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Please don't worry, your majesty.\nLeave the worrying to me.  As you\nknow, I'm not an ant of half-\nmeasures.  I don't pussyfoot around.\nThis crisis is my number one\npriority, and I promise you it's\nbeing dealt with swiftly, and\ndecisively."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Queen's attention is interrupted by another baby being\nput in her arms."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to baby)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "No snacking between meals!  Off you\ngo!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Formica)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Now -- what were we saying?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(Oliver North-style)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "I do not recollect, your majesty.\nWill that be all?"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Yes, General Formica.  Carry on, my\ngood man!  I don't know what we would\ndo without you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica clicks his heels and bows his head.  Carpenter bows\nlow.  Formica smartly about faces --"
+  },
+  {
+   "type": "speech",
+   "character": "BALA (O.S.)",
+   "text": "General Formica!"
+  },
+  {
+   "type": "stage direction",
+   "text": "PRINCESS BALA hurries through a second doorway, carrying a\nswatch book.  Something about her sets her apart from the\nHANDMAIDEN ANTS with her.  Her tiara, probably.\nFormica tilts his head quizzically to Carpenter behind him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sotto)"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Princess Bala, sir.  Your fiancee."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Princess!  You look -- outstanding.\nIs there anything I can do for you?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Well -- I thought -- since we're\ngetting married...it might be nice if\nwe...got to know one another."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica looks confused."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Bala has always been a hopeless\nromantic, General."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "It's just that -- well, I'm honored\nthat you selected me, and everything,\nI just thought the marriage might go\na little more smoothly if -- we had\na conversation?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(uncomfortable)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Conversation...yes...well..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Carpenter)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Wasn't she briefed?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(holding up a baby)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Look, General!  A darling baby\nsoldier!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(emotionally, to baby)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Don't try to be a hero!  Just make\nsure you come back in one piece!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(handing it off)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Next!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(using the\ninterruption)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "I'll take your suggestion under\nadvisement, Princess.  In the\nmeanwhile --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica turns to go."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "General -- we have to talk sometime!"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Very well.  Carpenter, is there a\nconvenient time to talk vis-a-vis:\nrelationship?"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Actually, sir, we're ahead of\nschedule.  We have thirty-six seconds\navailable right now."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Outstanding.  Princess...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala's a little fazed...but grabs her chance."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "So, um...how was your day?  What did\nyou do?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(scouring his mind)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Well..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(that's it!)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "I declared war!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(sadly)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Oh...and I was afraid we had nothing\nin common..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(under his breath)"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Fourteen-fifty hours, sir."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Duty calls!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He strides across the floor.  Bala watches him go, her\nantennae drooping unhappily."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "No squeak.  Outstanding!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We see through the now-open doors into the throne-room as\nFormica and Carpenter double-time out of the frame.\nThe Queen sees that Bala is unhappy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sympathetically)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "I felt the same way before I got\nmarried.  Confused.  Scared."
+  },
+  {
+   "type": "stage direction",
+   "text": "(hopefully)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You did?"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Yes -- but I did my duty and sorted\nout all those messy feelings.  The\nwonderful thing about ant life is\nthat everything is arranged.  Even\nmarriage.  You're lucky -- General\nFormica is a paragon of anthood."
+  },
+  {
+   "type": "stage direction",
+   "text": "(unconvinced)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Yes...he's wonderful..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The doors swing shut on them -- revealing the two guard ants\nwho were CRUSHED in the wake of Formica's exit."
+  },
+  {
+   "type": "location",
+   "text": "INT. BALA'S QUARTERS - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala enters, followed by her handmaidens, who are in a state\nof giggling infatuation over Formica.  Bala is scowling as\nshe leafs through a wedding catalogue."
+  },
+  {
+   "type": "stage direction",
+   "text": "(swooning over\nGeneral Formica)"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #1",
+   "text": "The General's body segments are\nso...symmetrical."
+  },
+  {
+   "type": "stage direction",
+   "text": "(giggling)"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "I'd let him order me into battle\nanyday."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala hurls the swatch book against the wall."
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #1",
+   "text": "Princess?  What's wrong?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Wrong?  How could anything be wrong?\nI'm going to marry General Formica\nand be a queen and have millions of\nbabies, just like my mom."
+  },
+  {
+   "type": "stage direction",
+   "text": "(concerned)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Do I look fat to you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(knowingly, to\nHandmaiden #2)"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "Pre-wedding jitters."
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #1",
+   "text": "You just need to blow off some steam.\nLet's go to the bar at the Royal Club!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "The Club's so"
+  },
+  {
+   "type": "stage direction",
+   "text": "stuffy\n.  I want to try"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "someplace different."
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "There isn't anyplace else --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(making a joke)"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "Except the worker bar."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "The worker bar!  Yes!  That's where\nI want to go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The handmaidens look shocked."
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #1",
+   "text": "But -- we can't -- there'll be"
+  },
+  {
+   "type": "stage direction",
+   "text": "workers\nthere."
+  },
+  {
+   "type": "location",
+   "text": "INT. ANT BAR - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A long bar filled with ants.  The bar itself seems to stretch\nfor miles, and there are\nhundreds\nof ants trying to get a\ndrink...unfortunately, there's only one bartender.  Z is at\nthe bar with WEAVER, a burly ant soldier."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "We declared war again?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(off Weaver's nod)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Are you scared?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(shrugs)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "I'll be back."
+  },
+  {
+   "type": "stage direction",
+   "text": "The BARTENDER, a grizzled veteran, slaps down what looks like\na couple of large green beer mugs.  Actually, they're aphids,\nlittle green critters he fills up from a number of kegs\nhanging from the ceiling.  The kegs are specialized ants with\nhugely distended stomachs, which spray liquid into the aphids."
+  },
+  {
+   "type": "stage direction",
+   "text": "(as they're slapped\non bar)"
+  },
+  {
+   "type": "speech",
+   "character": "APHIDS",
+   "text": "Ouch!  Ouch!"
+  },
+  {
+   "type": "speech",
+   "character": "BARTENDER",
+   "text": "Two aphid beers."
+  },
+  {
+   "type": "stage direction",
+   "text": "(as Bartender leaves)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Did you see that?  How he gave"
+  },
+  {
+   "type": "stage direction",
+   "text": "you"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "the beers, not me?  I'm telling you,\nhe's got something against workers."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "I don't know what you're talking\nabout, Z."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Come on -- everybody dumps on us\nworkers.  You soldiers get all the\nglory.  Plus you get to go out into\nthe world, meet interesting insects,\nand kill them."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Yeah, but you get to spend all day\nwith those fabulous worker babes."
+  },
+  {
+   "type": "stage direction",
+   "text": "We can see that Weaver is eyeing a nearby table of \"Worker\nBabes\", including Z's friend Azteca."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Weaver, they're career girls.\nThey're obsessed with digging."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sighs)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "No, I'll probably never meet the girl\nfor me."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Who said there was a girl for you?\nI was talking about a girl for me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(quaffing his aphid\nbeer)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Don't you want your aphid beer?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I can't help it.  I have a thing\nabout drinking from the anus of\nanother creature.  Call me crazy."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Z, we've known each other a long\ntime, right?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Of course.  You were born two seconds\nafter me."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "And all the time I've known you,\nyou've been grumping and groaning.\nYou should quit making waves.  Go\nwith the flow."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Weaver, I'm an insect, not a liquid."
+  },
+  {
+   "type": "stage direction",
+   "text": "Down the bar, there's a commotion.  A grizzled old SCOUT ant\nhas had too much to drink."
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "Have"
+  },
+  {
+   "type": "stage direction",
+   "text": "you\nbeen to Insectopia?  Have\nyou\n?  No, ya goddam larvas!  But\nI"
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "have..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(becoming emotional)"
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "...Mosquitos n' caterpillars n'\nbeetles -- all livin' in peace,\nstuffin their guts with food...No\nrules, no regulations...you can be\nyour own ant there..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(howling drunkenly)"
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "It's Insectopia!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Insectopia"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hey, Weaver, listen!"
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "I was cut off from my unit -- found\nit by mistake --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(slurring)"
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "It changed my life!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(spraying another\nsoldier with saliva)"
+  },
+  {
+   "type": "speech",
+   "character": "DRUNK SCOUT",
+   "text": "You see -- ya follow the great yellow\negg, and you come to the land of red\nand white --"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIERS",
+   "text": "You've had enough for one night!\nCome on, Gramps, before you get in\ntrouble."
+  },
+  {
+   "type": "stage direction",
+   "text": "The soldiers pull him from the bar, carrying him out."
+  },
+  {
+   "type": "stage direction",
+   "text": "(excited)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hey, did you hear what he said?!"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Poor guy's had one too many scouting\nmissions."
+  },
+  {
+   "type": "stage direction",
+   "text": "MUSIC STARTS UP."
+  },
+  {
+   "type": "location",
+   "text": "INT. ANT BAR ENTRANCE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Princess Bala is peering in at the entrance to the ant bar,\naccompanied by her worried-looking handmaidens."
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "We shouldn't be doing this -- it\nisn't proper!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm the Princess, aren't I?"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "Of course --"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "And do Princesses do improper things?"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #2",
+   "text": "Of course not --"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Then if I go to the worker bar, it\nisn't improper.  Anyway, don't worry.\nNo one will recognize us in our\ndisguises."
+  },
+  {
+   "type": "stage direction",
+   "text": "She adjusts her \"disguise\", a hardhat, tied down Jackie O.-\nstyle with an ant's version of a Chanel scarf."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm just a common worker, cooling off\nafter a rough day!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Music starts.  An ant BARKER takes the mic at one end of the\ndance floor."
+  },
+  {
+   "type": "stage direction",
+   "text": "(on loudspeaker)"
+  },
+  {
+   "type": "speech",
+   "character": "BARKER",
+   "text": "Okay, folks.  It's six-fifteen, and\nthat means it's time to dance."
+  },
+  {
+   "type": "stage direction",
+   "text": "Every ant gets up to dance.  Weaver turns to Z."
+  },
+  {
+   "type": "stage direction",
+   "text": "(draining his beer)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Time to cut a rug, Z!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I'm not in the mood."
+  },
+  {
+   "type": "stage direction",
+   "text": "(disgusted)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Even when they're off work, they\nfollow orders."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Well, you just sit here and be a\nparty-pooper."
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver joins the rest of the ants who are lining up for the\ndance.  The Barker calls out the steps in a bored monotone --\nall the ants already know the steps.  Everyone dances in\nperfect synch."
+  },
+  {
+   "type": "stage direction",
+   "text": "(southern twang)"
+  },
+  {
+   "type": "speech",
+   "character": "BARKER",
+   "text": "And a left-right-quarterstep-back\nstep-halfstep -- a left-right-\nquarterstep-backstep-halfstep --\na left-right-quarterstep-backstep\nhalfstep --"
+  },
+  {
+   "type": "stage direction",
+   "text": "AT THE ENTRANCE, Bala smiles mischievously at her handmaidens."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm going to ask one of these\nmindless, primitive worker-types to\ndance with me!"
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #1",
+   "text": "But General Formica would be furious!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(enjoying the idea)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I know."
+  },
+  {
+   "type": "stage direction",
+   "text": "The handmaidens are appalled.  Bala whirls away from them,\nsets her sights and searches the crowd -- zeroing in on --\nZ, who's watching the other ants dance."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "What a bunch of losers.  Mindless\nzombies capitulating to an oppressive\nsystem --"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Wanna dance?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala's standing right there.  Z is\ninstantly smitten"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Me?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yes\n!!!  I mean --\n(regaining suavosity)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Just let me finish my beer."
+  },
+  {
+   "type": "stage direction",
+   "text": "Not breaking eye contact with Bala, Z smiles suavely.\nReaches suavely for a beer.  Suavely grabs the candle in a\nglass jar off the bar.  Suavely singes his face.\nHe plays it off with a rakish little laugh.  A bit\napprehensive, Bala heads onto the floor.  Z follows her."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So uh -- how come I haven't seen you\naround here before?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(covering up)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I work in the palace, I don't get out\nmuch."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "The palace, hunh?  I bet those royals\nreally live it up.  Of course they're\nall a little, you know, from\ninbreeding --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(shocked)\nWhat\nZ and Bala step onto the dance floor with the rest of the\nants, but Z can't do any of the steps."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Now, let's see, I -- it's been a\nwhile since I -- I think you --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala watches Z, trying to follow along.  It's the blind\nleading the blind, as Z tries in vain to follow the barker's\nrapid instructions."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Here, I'll lead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z starts doing his own, individual dance.  With a suave\nexpression on his face, he leads Bala in a helter-skelter\nmixture-of Tango, Charleston, and hand-jive."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Are you sure this is a real dance?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, actually, uh -- I'm sort of\nmaking it up --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(surprised)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Really?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Why should everyone dance the same\nway?  It's as exciting as watching\nfungus grow."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You're right!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(surprised)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You -- you think I'm right?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Why can't I just do whatever I want\nto do?  Why can't I just go wild?!\nYahoo!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala starts to get into it, making up her own steps in reply\nto Z's, loosening up, having fun.  For a moment, the two of\nthem are actually sexy together.  Then they get a little\ntoo\nwild -- and the other ants, who are still doing their\nintricate dance, start to collide with Bala and Z.  Z almost\nknocks over a big soldier ant.  We can only see the ant's\nback at the moment."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER",
+   "text": "Hey!  Watch your step,"
+  },
+  {
+   "type": "stage direction",
+   "text": "worker\nZ has turned around to see the soldier ant, MAJOR MANDIBLE,\nglaring at him.  Mandible is about twice Z's size.  He's got\none eye missing, and half of his left antenna his been chewed\noff."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You watch yours, soldier, or my\nworker friend will beat you up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(terrified)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Oh, that's okay, I'll let him off\nthis time."
+  },
+  {
+   "type": "stage direction",
+   "text": "(whispering to Bala)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Are you crazy?  This guy's built like\na pebble!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(ineptly trying to\nplacate the soldier)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You know they do great prosthetic\nantennas nowadays --"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Aren't you gonna stand up for\nyourself?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z's caught between a rock and a hard place.  He doesn't want\nto get beaten up, but on the other hand, he doesn't want to\nlose face in front of Bala.  More soldiers have gathered\naround, looking hostile."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER",
+   "text": "How come you don't dance like the\nrest of us?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z glances over at Bala.  Then, shaking with nervousness, he\nsays defiantly..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Because -- because I'm an"
+  },
+  {
+   "type": "stage direction",
+   "text": "individual"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER #2",
+   "text": "An individual?  Never heard of it."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "You look like a worker to me."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Hey, lay off my little buddy!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z, meanwhile, looks far away, ecstatic, as if he's just\nrealized something very important.  Unfortunately, just at\nthis moment, A soldier pushes Weaver...Weaver pushes him\nback...somebody makes a dive for Z -- and before you know it,\nthere's a regular\nbar brawl\ngoing on, with Weaver in the\nmiddle of it, cracking heads together, punching ants in the\nface, having a great time.  Just then, the Princess'\nhandmaidens hurries over."
+  },
+  {
+   "type": "speech",
+   "character": "HANDMAIDEN #1",
+   "text": "Princess Bala!  Princess Bala!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z, who's scrabbling around on the floor, overhears."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Princess?  You're a"
+  },
+  {
+   "type": "stage direction",
+   "text": "Princess"
+  },
+  {
+   "type": "stage direction",
+   "text": "The police are coming"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Uh oh."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Z)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Goodbye!  Gotta run!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wait!  When can I see you again?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Let me think.  Hmmnn..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(thinks)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Never.  Bye!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala rushes off with her handmaiden, just before a squad of\nwhistle-blowing POLICE wade into the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wait!  Princess!  Wait!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But she's already gone, leaving Z holding her scarf.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. DORMITORY - THE NEXT DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z is talking to Weaver, who's getting ready to go off to war.\nNearby, columns of ant soldiers march by."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Get real, Z!  She just dropped the\nscarf by accident!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Are you kidding?  There were sparks\nbetween us!  This scarf is a sign!"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "It's a sign that you're crazy!  Do\nyou know what the penalty for\nimpersonating a soldier is?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "What's gonna go wrong?!  I take your\nplace for the royal inspection.  Bala\ncomes strolling down the line, she\nsees me --"
+  },
+  {
+   "type": "stage direction",
+   "text": "bingo\n!  Love is rekindled,"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "and she takes me up to the palace for\na little..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(wags his eyebrows\nsuggestively)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "tea and crumpets... and you take your\nplace again, and go march around to\nyour heart's content!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver looks unconvinced."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You have to help me.  Please, Weaver.\nThink of all the things I've done for\nyou!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(thinks)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "I can't think of any."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well I'm gonna"
+  },
+  {
+   "type": "stage direction",
+   "text": "start\ndoing things for"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "you..."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Will you introduce me to some worker\ngirls?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You bet!  They'll really go for a\nsensitive guy like you!"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Maybe I'll get lucky."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Weaver thinks about\nit)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "You know, Z, I wouldn't do this\nfor anyone but you..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver hands Z has helmet."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Wear this."
+  },
+  {
+   "type": "stage direction",
+   "text": "(overjoyed)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You're a real buddy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sourly)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Yeah, I know."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "What do I do?"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Don't tell anyone you're a worker.\nFollow that column over there.  And\ncome right back after the inspection!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver points to a bunch of soldiers hurrying by in formation."
+  },
+  {
+   "type": "stage direction",
+   "text": "(overjoyed)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Thanks!  I owe you!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z skips off and joins the column, marching in time with the\nsoldiers but too excited to keep from jazzing it up a little."
+  },
+  {
+   "type": "location",
+   "text": "INT. TOWN CENTER - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The ant army has gathered in a huge HALL in front of a\nreviewing stand.  We can hear the murmuring of thousands of\nsoldiers -- but all we can see is a HUGE POSTER of an ant\nGeneral pointing right at the camera.  The poster reads,\n\"GENERAL FORMICA WANTS YOU -- to obey\".\nZ turns to some of the soldiers near him."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Any of you guys know when the\nPrincess will show up?  She's kind of\na personal friend."
+  },
+  {
+   "type": "stage direction",
+   "text": "The soldiers look at Z like he's nuts."
+  },
+  {
+   "type": "speech",
+   "character": "LOUD VOICE",
+   "text": "ATTEN-"
+  },
+  {
+   "type": "stage direction",
+   "text": "SHUN\nMARTIAL MUSIC sounds, and we hear\nthousands\nof ant feet as\nthey snap to attention.  Z imitates the soldiers awkwardly.\nGENERAL FORMICA struts to the middle 6f the screen, slapping\nhis thigh with a swagger stick (the antenna of some\nunfortunate insect)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "First of all, let me make one thing\nclear.  Nobody ever won a battle by"
+  },
+  {
+   "type": "stage direction",
+   "text": "thinking for himself\n.  All this"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "\"thinking\" stuff is a"
+  },
+  {
+   "type": "stage direction",
+   "text": "load of crap"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "If the almighty had wanted you boys\nto"
+  },
+  {
+   "type": "stage direction",
+   "text": "think\n, he wouldn't have given you"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "huge mandibles and a brain so small\nyou'd"
+  },
+  {
+   "type": "stage direction",
+   "text": "misplace it\nif it wasn't\ntrapped inside your head\nIn the audience, Z starts laughing -- he thinks Formica's\njust made a joke."
+  },
+  {
+   "type": "stage direction",
+   "text": "(slapping his thigh)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "\"Trapped inside your head\" -- that's\na good one --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z notices nobody else is laughing.  He stops."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Geez -- tough room."
+  },
+  {
+   "type": "stage direction",
+   "text": "From the stage, Formica is squinting at the audience, trying\nto make out who was laughing, but there are just too many\nants.  He continues."
+  },
+  {
+   "type": "stage direction",
+   "text": "(striding back and\nforth)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "We ants survive as a species because\nwe do what we're told.  We survive\nbecause we work together, as one, we\nget the job done, we do whatever it\ntakes to persevere!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(dramatic pause)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Hell, we're not an army of\nants...we're one"
+  },
+  {
+   "type": "stage direction",
+   "text": "giant\nant, with\ngiant fists\n, and\ngiant jaws\nThe soldiers CHEER!  Z CHEERS along with the rest of them."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to the soldier ant\nnext to him)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Lays it on a little thick, doesn't\nhe?  If you ask me, he's one giant\nbore."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Now I've heard a lot of scuttlebutt\nabout a"
+  },
+  {
+   "type": "stage direction",
+   "text": "food shortage\n.  Well you boys"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "are gonna be taken care of.  But in\nthe meantime we're gonna eat the\nenemy for"
+  },
+  {
+   "type": "stage direction",
+   "text": "breakfast\n, we are gonna"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "eat the enemy for"
+  },
+  {
+   "type": "stage direction",
+   "text": "lunch\n, and we are"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "gonna eat the enemy for"
+  },
+  {
+   "type": "stage direction",
+   "text": "dinner"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Geez, and I forgot my toothbrush."
+  },
+  {
+   "type": "stage direction",
+   "text": "(reflective moment)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Dammit, I'm proud to be an ant."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he looks out at his\narmy)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "And I know each and every one of you\nboys will do your duty.  Dismissed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z applauds and whistles as the other ants look at him in\nconfusion."
+  },
+  {
+   "type": "stage direction",
+   "text": "(clapping)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bravo!  Bring on the Princess!"
+  },
+  {
+   "type": "speech",
+   "character": "COLONEL",
+   "text": "Stow the gab there, soldier!  Let's\nmove 'em out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The soldiers turn to the right and start to march out past\nthe reviewing stand.\nA COLONEL marches at the head of Z's column as Z looks around\nfor the Princess."
+  },
+  {
+   "type": "speech",
+   "character": "COLONEL",
+   "text": "Eyes..."
+  },
+  {
+   "type": "stage direction",
+   "text": "left\nFinally, as Z's part of the army marches past the end of the\nreviewing stand, he sees her, looking bored, standing next\nto the Queen, who is giving the royal wave."
+  },
+  {
+   "type": "stage direction",
+   "text": "(waving)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Princess!  Princess Bala!  Hey!  It's\nme!  Z!  I've got your scarf!"
+  },
+  {
+   "type": "stage direction",
+   "text": "ON THE REVIEWING STAND, Bala sees Z -- that is to say, she\nsees one of the thousands upon thousands of ants marching\nby..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(peering out)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Who is that idiot?"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Darling, you must encourage the\ntroops -- wave!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala waves unenthusiastically, little more than flopping her\nhand back and forth on her wrist.\nDown below, Z takes this as a sign that Bala has seen him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(excited)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Excuse me, guys -- That's my date.\nWell, it's been fun.  Have a great\nwar!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z tries to squeeze his way back towards the royals, but he's\nsurrounded by a solid wall of soldiers -- and they're\ncarrying him along with them."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hey!  Wait!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z loses sight of the Princess as he's carried away.\nBARBATUS, a hard-as-nails \"grunt\" soldier ant, taps Z on the\nshoulder."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "You new, kid?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I just joined up.  But I'm quitting!\nI got a trial membership!"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Trial membership?  Kid, when you join\nthis ant's army, you're in for the\nfull hitch."
+  },
+  {
+   "type": "stage direction",
+   "text": "At that moment, Z is swept out of the cramped corridor\nthey've been marching along, as the army emerges into the\nOPEN AIR outside of the colony."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "It's a starry, moonlit night.  The shadows crowd around the\npanicked Z, who looks up at the sky as we see the army on the\nmarch..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wait a minute, there's been a\nmistake!  I've got to get back to the\ncolony!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z starts to fall out of line, but Barbatus, looking\nconcerned, stops him."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Are you crazy, kid?  They shoot\ndeserters!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z swallows hard."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "You just stick by old Barbatus.\nHe'll watch out for you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(off Z's look)"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Whatsamatter, kid?  Leave a girl\nbehind?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yeah.  Well -- no.  She's kind of\nplaying hard to get.  As a matter of\nfact, she's playing completely\nunattainable."
+  },
+  {
+   "type": "stage direction",
+   "text": "(nervously)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So, what's on the schedule?  A brisk\nwalk?  a foraging expedition?"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "No -- we're going to attack the\ntermites!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(alarmed)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Attack?  But -- I hate attacking!\nIt's so hostile!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Around Z and Barbatus, the ants start up a marching song,\nwhich we intersperse with dialogue between Barbatus and Z to\nform a montage/time-cut as the ant army marches on to the\ntermite capital."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to the tune of \"When\nJohnny Comes\nMarching Home\")"
+  },
+  {
+   "type": "speech",
+   "character": "ANT SOLDIERS",
+   "text": "We ants go marching one by\none, hurrah, hurrah!  We slaughter\ntermites just for fun, Hurrah!\nHurrah!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So -- these termites, they're little,\nshy, retiring insects?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(grim smile)"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "No such luck.  Those dirty terms are\nfive times bigger than us, and they\nshoot acid from their foreheads!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER ANTS",
+   "text": "We ants go marching two by two,\nhurrah!  Hurrah!  We'll all be dead\nbefore we're through, hurrah!  Hurrah!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Montage shots of an ant column marching diagonally across the\nscreen, fading into another column marching diagonally\ndownwards across the screen..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, what exactly does our platoon\ndo?  Serve beverages?  Process\npaperwork?"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Our platoon has the best assignment\nof all.  We're the first into battle!"
+  },
+  {
+   "type": "speech",
+   "character": "ANT SOLDIERS",
+   "text": "We ants are marching three by three,\nhurrah!  Hurrah!  Dead ants is what\nwe soon will be, hurrah!  Hurrah!"
+  },
+  {
+   "type": "stage direction",
+   "text": "...montage shot of Z's column crossing a bridge composed of\nliving ants -- all of whom look extremely uncomfortable as\nthey're getting stepped on..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So we're going back for more armor,\nright?  I mean, these guys are from\nouter space, how are we supposed to\nbeat them?!"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Superior numbers, kid!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. TERRAIN NEAR TERMITE STUMP - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z looks up to see...looming high above them...the TERMITE\nCITY, which is built in the stump of a dead tree.  From here\nit looks like a demonic Mount Fuji.  The COLONEL ANT shouts\nan order."
+  },
+  {
+   "type": "speech",
+   "character": "COLONEL",
+   "text": "ATTAAAAAAAAACK!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The front line of ants starts rushing towards the termite\ncolony...Z is swept along..."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Over the TOOOOOOOOOOOOO-OP!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z is swept along and up the side of the stump as thousands of\nants invade the colony through every possible entrance.\nUp...over the lip of the stump...and down inside, to the very\nmiddle of the termite colony...\nInto a disquietingly\npeaceful\nscene.   They're in the middle\nof the hollowed-out trunk, and ants keep pouring in -- but\nthere's not a termite to be seen.  Barbatus looks around\nsuspiciously."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "It's too damn quiet."
+  },
+  {
+   "type": "stage direction",
+   "text": "Then we hear a strange\ntapping\nnoise.  Barbatus looks over,\nand sees that Z's teeth are chattering with fear."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Don't be scared, kid.  Barbatus's\ngot yer back."
+  },
+  {
+   "type": "stage direction",
+   "text": "(petrified)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Maybe they went out for the evening.\nLet's leave them a message and head\nhome."
+  },
+  {
+   "type": "stage direction",
+   "text": "(ignoring him)\nLight it up\nA nearby soldier ant take a\nfirefly\nout of his knapsack and\npinches him\n.  The firefly, yelling \"Yipe!  Yipe!  Yipe!\",\nshoots into the air like a flare, lighting up the interior of\nthe stump with eery, shifting luminescence.\nThen we notice, hollowed into the inside of the stump like\ninnumerable pockmarks,\ntermite holes\nstaring out upon the\nstump...and, with an unearthly\nROAR\n, we see the first of\nhundreds of termites\nemerging to pour into the center of the\ntree, right onto the ant army."
+  },
+  {
+   "type": "speech",
+   "character": "COLONEL",
+   "text": "They're here!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Z)"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Keep your head down!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Within moments, Z finds himself in the middle of a\nBLOODBATH\n.  The ants have broken into the colony, but are\ntaking heavy losses from the gigantic, blind, acid-spewing\ntermites.  The battle scene is as sprawling and chaotic as\nsomething out of\nBraveheart\n. In a few QUICK SHOTS from Z's\nperspective, we see:\n-- A squad of ants rushes towards a termite soldier, but are\nliterally\nmelted\ninto smoking heaps of flesh by a\njet of acid\nfrom its forehead...\n-- A termite warrior is overwhelmed by a crowd of ants and is\npulled to pieces\nwith hideous\nripping\nsounds...\n-- Another termite warrior takes on an ant soldier one on one\nand slowly\ncrushes\nhis head in his huge jaws..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking around)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Guys!  Guys!  It isn't too late for\nall of us to just talk this over!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Just then, a termite burst up from the ground and turns to\nface Z.  Z is\ndwarfed\nby this hulking, roaring, drooling\nmonstrosity."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wait!  Please!  Acid makes me come\nout in spots!  -- Could I just say I\nhave always had the greatest respect\nfor your species?  I mean, eating\nwood -- why didn't"
+  },
+  {
+   "type": "stage direction",
+   "text": "I\nthink of that?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I --"
+  },
+  {
+   "type": "stage direction",
+   "text": "The termite rears, getting ready to melt Z, when OOF! he's\nknocked backwards by..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "BARBATUS!  You -- you saved my life!"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Don't get all sappy about it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "As Barbatus and some other soldiers kill the termite, the\nColonel strides up to Z, puffing on a cigar."
+  },
+  {
+   "type": "speech",
+   "character": "COLONEL",
+   "text": "I love the smell of formic acid in\nthe morning."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Look out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A stream of termite acid\nengulfs\nthe colonel, instantly\nburning him to a cinder clutching a still-burning cigar; Z's\nparatroop buddies turn in terror to see a\nherd\nof termites\nrumbling towards them.  Z, terrified, dives into the hole\nthat the huge termite made..."
+  },
+  {
+   "type": "location",
+   "text": "INT. TERMITE TUNNEL - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "...and tumbles headlong into a corridor of the termite mound.\nThe corridors here are primitive, caveman-like, pocked with\njagged access holes.\nNo sooner has Z landed in the tunnel than a termite comes\nburrowing out from one of the side walls, snapping at Z's\nhead.  Z just avoids getting decapitated, and digs\nstraight\nthrough the wall\nin order to escape..."
+  },
+  {
+   "type": "location",
+   "text": "INT. TERMITE QUEEN'S CHAMBER - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "...straight into the hub of the entire termite complex -- the\nQueen's chamber.  This is nothing like the civilized court of\nthe ant colony -- it's a huge, stinking, fetid dungeon whose\nwalls are held up by one massive (to Z) column of piled\nstones.\nThe termite queen, a repulsive, slimy, squirming, foot-long\nmonster, is attended by a crew of diminutive, blind termite\nnurses.  The queen turns to look Z right in the eye."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Excuse me.  I seem to be lost, and I\nwas wondering if you could give me --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Before Z can say, \"directions\", the queen gives out a\npiercing, blood-curdling\nshriek\n.  The nurses start shrieking\ntoo."
+  },
+  {
+   "type": "stage direction",
+   "text": "(backing away)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I'll let myself out."
+  },
+  {
+   "type": "stage direction",
+   "text": "But the queen's shriek has summoned a soldier termite -- the\nbiggest\none we've seen yet -- who is charging headlong at Z,\njaws snapping open and shut like huge scissors."
+  },
+  {
+   "type": "stage direction",
+   "text": "(backing away)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Shoo! -- Torro!  Torro!"
+  },
+  {
+   "type": "stage direction",
+   "text": "At the last moment, Z jumps out of the way -- and the termite\nruns\nheadfirst\ninto the supporting column of the chamber.  As\nif on a spring release, the termite's jaws clamp shut -- and\nshatter\nthe base of the column.  The walls of the room begin\nto rumble...\nThe termite turns to eat Z...but is\ncrushed\nby a stone\nfalling from the ceiling, which gives a final shudder and\ncollapses\n, raining earth and stones down on the queen.\nAs the walls of the chamber crumble, melees of ants and\ntermites pour into the room from the corridors around and\nabove...they keep struggling until..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(points at Z)"
+  },
+  {
+   "type": "speech",
+   "character": "ANT OFFICER",
+   "text": "He's killed their Queen!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hey, I'm sorry, it was a mistake --"
+  },
+  {
+   "type": "speech",
+   "character": "ANT OFFICER",
+   "text": "VICTORY!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We can see that the termite warriors, deprived of their\nleader, are suddenly confused and directionless, easy prey\nfor the ants."
+  },
+  {
+   "type": "stage direction",
+   "text": "(facetious)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "This is terrific!   Let's exact\ncrippling war reparations!  Let's set\nup a puppet government!"
+  },
+  {
+   "type": "speech",
+   "character": "ANT OFFICER",
+   "text": "Let's slaughter them all!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The ants set about killing the disoriented termites when...we\nhear another\nrumble\ncoming from the outside...the ants look\nup confusedly...\n...And a (from the ant's point of view)\nfive-hundred foot\nlong tongue\nbursts through the top of the chamber with a\nCRASH.  The ten or so ants standing directly below are\nsmashed\nby the tongue, which squirts out a spray of saliva\naround the crater.  As quick as it appeared, the tongue\nretracts, with a hideous SLUUURPING sound.  We can now see\nthe end of the snout of an ant-eater poking through a hole in\nthe ceiling high above..."
+  },
+  {
+   "type": "speech",
+   "character": "ANT OFFICER",
+   "text": "INCOMING!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The tongue comes down again, smashing some more ants, whose\nbodies are slurped up by the tongue...the ants scatter, but\nto no avail, as the tongue comes smashing down again and\nagain...\nZ heads into a side corridor as the tongue smashes down\nagain, barely missing him!\nZ retreats along the corridor as the tongue searches for him,\nacross the tunnel from intersecting access-tunnels, getting\ncloser and closer to Z, dragging more and more screaming ants\nand struggling termites...\n....Then the tongue disappears.  Silence.  Z wipes his brow...\nAnd we hear a thunderous SNIFFING noise as the anteater\nsearches for more prey... and the tongue starts\nrumbling\ndown\nthe corridor\nright towards Z\n, the tip squirming as it\nricochets along the walls!\nZ gets up and runs, the tongue lapping towards him,\nreminiscent of the stone sphere that nearly crushed Indiana\nJones in\nRaiders of the Lost Ark\n!  The walls disintegrate\nunder the pressure of the tongue, which gets closer to\nZ...closer...\n...and\njust misses him\nas Z tumbles out of the stump and down\nto the ground...Z sits there, dazed, as we see the huge form\nof the anteater withdraw its tongue and, with a final\ncontented burp, shuffle off into the distance."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TERMITE STUMP - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z makes his way across the corpse-strewn battlefield, an\nexpression of horror on his face."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS (O.S.)",
+   "text": "Z!  Over here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(hopeful)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Barbatus?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z looks down at his feet, where Barbatus's still-living,\ndecapitated\nhead\nis looking up at him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shocked)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Barbatus!"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Be honest, kid -- am I hurt bad?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "No, no, you're...lookin' good.\nYou've got good color in your cheeks."
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "No -- I can see it in your eyes.  I'm\na goner.  It's alright, Z.  In this\nant's army, a soldier's life ain't\nworth a sack of fungus."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he winces)"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "I can't feel my legs..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hang in there, buddy!  You can make\nit!  Just -- take deep breaths, I'll\ntry and find your body -- it's gotta\nbe around here somewhere!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(gasping)"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "I wonder...what...was it all...for..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Barbatus, hang on -- Barbatus!!"
+  },
+  {
+   "type": "speech",
+   "character": "BARBATUS",
+   "text": "Don't make my mistake, kid...\ndon't...be a grunt...your whole\nlife..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Barbatus dies, leaving Z heartbroken.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. EARLY MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver is \"passing\" as a worker, working alongside much\nsmaller worker ants.  He actually\nloves\nthe work.  He's\nthrowing up dirt like a bulldozer.  He's so enthusiastic, he\nscoops up a WHOLE ANT in his shovel and tosses him aside.\nAzteca, who's standing next to him in line, is shocked by,\nand a little attracted to, this turbo-worker."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Hey, slow it down, big boy.  You're\nmaking the rest of us look bad...How\ncome I haven't seen you around here\nbefore?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(covering)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "I'm new...I was born yesterday."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Tell me about it."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Nobody told me digging was so much\nfun!  You pick up the dirt, you move\nit, you pick it up again, you move it\nagain -- lots of repetitions, you\nexercise the forceps, and the\npincers --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(ogling him)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Mmm, yes, I see what you mean..."
+  },
+  {
+   "type": "stage direction",
+   "text": "While Azteca is checking out the hunky new worker, work has\neffectively stopped...clods are piling up behind Weaver.  A\nForeman comes striding down the line, furious."
+  },
+  {
+   "type": "speech",
+   "character": "FOREMAN",
+   "text": "What's the holdup here?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver whips his shovel up to his shoulder and salutes, as if\nhe's dealing with a superior officer."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Sorry, sir -- I was just having a\nlittle chat with my friend --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(yelling at Weaver)"
+  },
+  {
+   "type": "speech",
+   "character": "FOREMAN",
+   "text": "Who said you could have a"
+  },
+  {
+   "type": "stage direction",
+   "text": "chat"
+  },
+  {
+   "type": "speech",
+   "character": "FOREMAN",
+   "text": "You're not a chatter, you're a\ndigger!  So shut up and dig!"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Leave him alone!  He's new."
+  },
+  {
+   "type": "speech",
+   "character": "FOREMAN",
+   "text": "You  too?  Well just for that, you\nlose your day's rations!  Now get\nback to work!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Foreman heads down the line, shoving and berating the\nother workers as he goes along."
+  },
+  {
+   "type": "stage direction",
+   "text": "(surprised at herself)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "I don't know what came over me,\ntalking back like that.  I must be\ngoing crazy..."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Sorry I got you in trouble.  But\nlisten, you can share my rations."
+  },
+  {
+   "type": "stage direction",
+   "text": "(flirting)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Are you asking me out to dinner?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(blushing)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "No -- I mean yes -- I mean -- if you\ndon't have other plans."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "I'll make myself available...Listen,\nbetter watch out with the\nbacktalk.  I don't know want you to\nend up like the guy who used to work\nnext to me.  I'm afraid he got..."
+  },
+  {
+   "type": "stage direction",
+   "text": "downsized"
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Some guard ants are looking out across the sandy main\nentrance to the hive."
+  },
+  {
+   "type": "speech",
+   "character": "GUARD ANT",
+   "text": "Look!  They're back!  The army's\nback!  Alert the colony!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The other ant starts ringing a bell, rushing down into the\ncolony.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. TOWN CENTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A huge crowd is forming, eager to welcome the army back.  A\nband is striking up a triumphant victory song, confetti and\nstreamers are being thrown, as General Formica strides in,\nfollowed by Carpenter."
+  },
+  {
+   "type": "speech",
+   "character": "EXCITED ANTS",
+   "text": "The army's returned!  Our brave boys\nare back! (etc.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "Everyone waves little flags as the tuba player Oompah-oompah-\noompahs...\n...and Z walks into the hall, looking bedraggled and\nexhausted, his helmet hanging over his ears.\nThe band slows to a halt.\nAt the edge of the crowd, Azteca, sitting on Weaver's\nshoulders, can just about see over the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "It looks like only one soldier made\nit back!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver looks distraught."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to himself)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Poor Z -- I should never have let you\ngo!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Far down the hall, Z is describing the battle."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "It was horrible...a massacre, a\nmassacre upon a massacre.  First we\nmassacred them, then they massacred\nus, then it was halftime.  I've never\nseen such violence, such\nbloodthirstiness, such bad\nmanners...I'm the only one that made\nit!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The atmosphere is somber.  This is a tough one to try and put\na spin on...but that doesn't stop Formica from trying."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "ONE TO NOTHING!  WE WIN!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The band strikes up again, and everyone cheers."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "No -- you -- you don't understand!"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Damn, I'm proud of you, boy.  I wish\nI had a hundred ants of your caliber.\nThe world would tremble.  Now, time\nfor some R and R.  You're invited to\nthe royal victory party!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Royal victory party?  Will...will\nPrincess Bala be there?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Of course.  The entire royal family\nwill be there to honor you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(thinks)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "ONE TO NOTHING!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Renewed CHEERS, as Z is lifted onto the shoulder of some of\nthe soldiers who stayed behind."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Wait a minute, that's no soldier --\nthat's Z!"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Z?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Our\nZ?  The little guy made it!\nZ is following Formica away from the cheering crowd."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ABOVE TOWN CENTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z and Formica are going up the royal \"stairway\" together."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Son, you're an ant after my own\nheart.  A warrior.  An ant that looks\ndeath right in the face and"
+  },
+  {
+   "type": "stage direction",
+   "text": "laughs"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, I generally just make\nbelittling comments and snicker\nbehind death's back.  So, tell me,\nfellow war-monger...do you think\nPrincess Bala likes men in uniform?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Well she better -- she's engaged to\none."
+  },
+  {
+   "type": "stage direction",
+   "text": "Me"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Engaged?  As in you're getting\nmarried?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Affirmative."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So...you two are in love?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "In love?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(shakes his head)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "I'm just a plain old soldier at\nheart.  I'll tell you what I love --\nthe field -- blood -- death --\norders...and the company of other\nwarriors."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica gives Z a manly slap on the back.  Z looks a little\nuncomfortable as we...\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. THRONE ROOM - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z follows Formica and Carpenter into the throne room.  At the\nend of the hall, a society band is playing.  The room is full\nof courtier ants and officers.\nWaiters are gliding around holding trays of hors d'ouevres."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wow, what a spread -- you know,\nthere's a food shortage in the rest\nof the colony."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Yes, and do you know"
+  },
+  {
+   "type": "stage direction",
+   "text": "why\nthere's a"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "food shortage?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "...Not enough food?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Negatory."
+  },
+  {
+   "type": "stage direction",
+   "text": "Too many ants\n.  And while"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "we soldiers go out there, and fight,\nand bleed, and die for the colony,\nthe namby-pamby workers live it up\nback home."
+  },
+  {
+   "type": "stage direction",
+   "text": "Feeling a little hot, Z wipes his brow."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well I, I don't think \"living it up\"\nis the right term -- how about\n\"working themselves to death\"?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "I tell you son, sometimes, at night,\nI see myself in battle, fighting a\nhorrible, faceless enemy, with the\nfuture of our whole species at stake.\nAnd always, the dream ends with each\nof us plunging his sword into the\nother's heart..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(spooked)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Oh, hey, that's great, I think I see\nan old war buddy over there, it's\nbeen fun chatting.  Good luck with\nthe hallucinations."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z escapes from Formica, who gazes after him suspiciously.\nZ mingles in with the crowd, then he sees Princess Bala\nstanding with a group of officers who are eating hors\nd'oeuvres."
+  },
+  {
+   "type": "stage direction",
+   "text": "(telling a joke)"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER",
+   "text": "What do you call it when 10,000\nworkers are killed in a tunnel cave-\nin?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(a beat)"
+  },
+  {
+   "type": "speech",
+   "character": "OFFICER",
+   "text": "Who cares?  They're workers!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The officers laugh, but Bala looks bored in this stuffy\nsocial scene."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "But...don't you think the worker\nclass is the very foundation of the\ncolony --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(realizes he's\ngetting odd looks)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I mean, uh, without them, who would\nwe stand on?"
+  },
+  {
+   "type": "stage direction",
+   "text": "More laughter."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You're the hero of the recent termite\ncampaign, aren't you?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, if single-handedly vanquishing\nthe enemy and slaughtering a whole\nnestful of termites makes someone a\nhero, yes I am."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z reaches for a tray of canapes that a waiter is carrying by,\nand KNOCKS the whole thing CLATTERING to the ground."
+  },
+  {
+   "type": "stage direction",
+   "text": "(feigning nonchalance)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "And you are...?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm Princess Bala."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Ah, yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "(affected)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, charmed, I'm sure.  So,\nPrincess, have you ever danced with\na hero?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Yes."
+  },
+  {
+   "type": "stage direction",
+   "text": "(deflated)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Oh...oh well then, one more won't\nmatter."
+  },
+  {
+   "type": "stage direction",
+   "text": "She moves towards the dance floor.  Z spit-combs his\nantennae, struts after her -- until he trips on his sword.\nHe tumbles, falls, but hops to his feet just as Bala turns\ntoward him, turning it into a ballet plies."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Just warming up..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She frowns...there's something familiar about this guy.  But\nthen they start dancing.\nACROSS THE ROOM: The Queen and General Formica watch the\nparty."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "All these parties are so marvellously"
+  },
+  {
+   "type": "stage direction",
+   "text": "alike"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "They should be..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(suspicious)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "But there's something funny about\nthat soldier."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica strides over to where Z and Bala are dancing."
+  },
+  {
+   "type": "stage direction",
+   "text": "(glowering)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "May I cut in?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(intimidated)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Oh, of course --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(pulling Z back)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "No, General.  I'm dancing with the\nwar hero."
+  },
+  {
+   "type": "stage direction",
+   "text": "(trying to placate\nFormica)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Uh, sorry, General, I...I've always\nhad this animal magnetism, it --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala YANKS Z back onto the dance floor, dancing away from\nFormica."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You dance..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Divinely?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "No weirdly...You remind me of\nsomeone..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica catches Bala's eye.  She frowns at him, and decides\nto get a little shocking."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "He was swarthy...primitive...\nearthy...sensual."
+  },
+  {
+   "type": "stage direction",
+   "text": "As she says these things, Z tries to act accordingly."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "He was a worker.  I danced with him\nat a"
+  },
+  {
+   "type": "stage direction",
+   "text": "worker's bar\njust the other day."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm not shocking you, am I?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(proudly)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "No...as a matter of fact..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shocked)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "OH MY GOD, IT'S YOU!  YOU'RE A\nWORKER!!!  A filthy, stupid,\ndisgusting WORKER!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Everybody gasps.  The dancing stops cold."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Gee, uh, could you say it a little\nlouder, I think there are some ants\nin the next colony who didn't hear\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I CAN'T DANCE WITH A WORKER!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(offended)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "That's not what you said the"
+  },
+  {
+   "type": "stage direction",
+   "text": "other\nnight"
+  },
+  {
+   "type": "stage direction",
+   "text": "(now she's panicked)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Quiet -- sshhh!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(digging it in)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "-- At the"
+  },
+  {
+   "type": "stage direction",
+   "text": "worker bar\n!  You were"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "pretty hot to trot then!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "SSHH!!!  SSHH!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A livid Formica is stalking over towards them."
+  },
+  {
+   "type": "stage direction",
+   "text": "(furious)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "What's this?  A"
+  },
+  {
+   "type": "stage direction",
+   "text": "worker\nhas been"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "masquerading as a war hero?!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well it wasn't a masquerade, really,\nit was more what I'd call a clever\nruse --"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "ARREST HIM!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Can't we all settle this like\nadults -- we're not larvae anymore --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Angry officers begin to surround Z, who hides behind Bala in\nfear, using her as a shield."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Oh my god!  He's taking her hostage!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "No I'm not -- I mean -- nobody move!\nOr the Princess gets it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "People shout and scream, as Z backs up with the\nPrincess...into the kitchen."
+  },
+  {
+   "type": "location",
+   "text": "INT. KITCHEN - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z backs up into the kitchen, still pulling Bala along with\nhim.  Here, ant chefs are preparing food for the party,\nvomiting\nlittle florets onto a platter.  Formica and the\nsoldiers follow them in."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Formica)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Stay back, you"
+  },
+  {
+   "type": "stage direction",
+   "text": "lunatic\n!  Do you think"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I don't know how to use this?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z realizes that he's\npointing his finger at them"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Uh-oh."
+  },
+  {
+   "type": "stage direction",
+   "text": "The officers rush for...and Z, with Bala in tow, falls\nbackwards into an opening marked, \"GARBAGE\"."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "HOLD ON: the GARBAGE CHUTE EXIT.  Nothing happens for a\nmoment.  Then --\nFrom a distance, we hear the faint sound of SCREAMING,\ndopplering closer --\n-- and then Z and Bala come flying out of the exit, right\ninto the mud, cutting off the scream abruptly.\nBala sits up, coated in mud.  Z is nowhere to be seen.\nBecause she's on top of him."
+  },
+  {
+   "type": "speech",
+   "character": "PRINCESS",
+   "text": "This is thoroughly unacceptable!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You're telling me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She gets up and runs back towards the colony entrance, where\nsoldiers are already issuing to get her..."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm coming!  I'm coming!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But...just as Bala'a about to be rescued...what looks like a\ngigantic LASER BEAM sweeps along the rim of the colony,\nsizzling the ground as it moves along...and IGNITES the lead\nsoldier into FLAMES!  Bala looks stunned.\nZ watches in horror as another soldier ant is FRIED, and we\nlook up to see a GIGANTIC MAGNIFYING GLASS casting the\nbeam...we can just about make out the huge, grotesque figure\n(a seven year old kid) holding it.\nBala, who has no idea what's really going on, turns from the\ncolony and runs the other way."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm going!  I'm going'"
+  },
+  {
+   "type": "stage direction",
+   "text": "...unfortunately, this draws the fire of the laser, which\nfollows after her in what looks like a strafing run, SIZZLING\nin her footsteps.\nZ, who's running towards the princess, suddenly realizes that\nhe's running towards certain doom...and joins Bala in legging\nit away from the colony; under a\nbrown leaf\n, which\nbursts\ninto flames\n...between the redwood-like stalks of some\nflowers...and finally into the relative safety of some\ngrass...where they throw themselves on the ground, exhausted.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. WEED CLUMP - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z and Bala dust themselves off."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "What"
+  },
+  {
+   "type": "stage direction",
+   "text": "was\nthat thing?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "How should"
+  },
+  {
+   "type": "stage direction",
+   "text": "I know"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I order you to find out where we are!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Alright, alright, I'll try to get\ndirections from one of the locals."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z tries to flag down some passing bees."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Excuse me, I --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(it passes him by;\nhe tries the next)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Pardon me --"
+  },
+  {
+   "type": "stage direction",
+   "text": "(same response)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "And they call them social insects."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Climb up that tree and get a better\nview!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala points to a thin blade of grass.  Gingerly, Z tests the\ngrass and starts climbing up it...but his weight bends it, so\nthat he's lowered back to the ground, face to upside-down\nface with Bala."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I've been kidnapped by the village\nidiot."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Who's the bigger idiot -- the idiot\nwho gets kidnapped, or the idiot who\nlets herself get kidnapped by the\nidiot?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "How dare you speak to me like that?\nI'm the Princess!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z squares up with her."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Theoretically, yes.  But is the\nmonarchical hierarchy applicable\nwithout the underlying social\nstructure to support it?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Of course!  It defines society!  To\ndeny the precept is to say that order\nis an arbitrary distinction applied\nby the society itself!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "But can there be a society composed\nof just two ants?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "No!  There's no such thing as \"just\ntwo ants.\"  You never see just two\nants -- you see a million ants!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Look around, sweetheart."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks around.  She doesn't like what she sees.  She\nglowers at Z."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I --"
+  },
+  {
+   "type": "stage direction",
+   "text": "hate\n-- you."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well I guess that makes us even."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Ha!  Don't make me laugh.  You're\ncrazy about me!  That's why you lied\nand cheated to get near me!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Oh come on,"
+  },
+  {
+   "type": "stage direction",
+   "text": "you're\nthe one who came"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "after me -- the swarthy, earthy,\nsensual worker!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(repulsed)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I was"
+  },
+  {
+   "type": "stage direction",
+   "text": "slumming it\n!  I danced with you"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "because you were the most pathetic\nspecimen in the place!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Is that the same standard you used to\nchoose General Formica?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I"
+  },
+  {
+   "type": "stage direction",
+   "text": "didn't\nchoose him.  What kind  of\nidiot\nwould...\n(unconvincingly)\nchoose\nwho she wanted to marry?\nShe shakes herself out of it."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Now, worker, you shall take me back\nto the colony, and have your head cut\noff and stuck on a sharp pole!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, that's an appealing offer,\nbut...considering the options..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he decides)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You go back.  Me, I'm going to\nInsectopia."
+  },
+  {
+   "type": "stage direction",
+   "text": "Insectopia\n?  You stupid worker,"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "that's just a fairy tale!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yeah, well I have it on a reliable\nsource..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(he knows that was\nmaybe stretching it)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "that it exists.  Now you follow\nthe yellow egg..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking around)\nThat\ndirection."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Worker!  Come back here now!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I've got a"
+  },
+  {
+   "type": "stage direction",
+   "text": "name\n.  It's"
+  },
+  {
+   "type": "speech",
+   "character": "Z\nBALA",
+   "text": "That's not a name!  That's just a\nletter!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z, meanwhile, hits the road.  Bala has no idea of where to\ngo.  Just then, the scariness of the outside world comes\nthrough to her.\nWe start hearing NOISES -- the equivalent of scary jungle\nsounds in a Tarzan movie -- the HISSING, CROAKING,\nCHIRRUPING... Bala sees\neyes\nlooking out at her from all\ndirections...and spots a colossal monster (a sparrow) fixing\nher with his beady gaze."
+  },
+  {
+   "type": "stage direction",
+   "text": "(clears her throat)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Worker?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(no response...louder\nnow)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Oh WORKER?  Where are you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(getting desperate)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z?  Z?  Wait for me!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala heads off after Z."
+  },
+  {
+   "type": "location",
+   "text": "INT. MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The mass of worker ants are swinging pick-axes in the tunnel.\nThe foreman moves up the line, BERATING the workers, yelling\nat them to dig faster."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "I tell ya, I'm gettin' sick of bein'\nyelled at."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "What do you want, we're just workers."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "You know, you're not just workers --\nyou can be whatever you want to be!\nLook at Z!  He started as a worker --\nthen he became a soldier!"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "That's right!  He slaughtered\nhundreds of termites single-handedly!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "I heard about this guy."
+  },
+  {
+   "type": "stage direction",
+   "text": "(turning to the other\nworkers)"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "He crashed a party at the palace.\nThen he took a hike with one of the\nroyal babes!  And when they tried to\nstop him, he just"
+  },
+  {
+   "type": "stage direction",
+   "text": "looked\nat a"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "couple'a guards, and they burst into\nflames!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER ANT #1",
+   "text": "You're nuts, how could a worker do\nall that?"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Well, because he's more than a\nworker...he's a...what did he call\nit, Azteca..."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Invisible!"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "No -- an"
+  },
+  {
+   "type": "stage direction",
+   "text": "individual"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "What's"
+  },
+  {
+   "type": "stage direction",
+   "text": "that"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Well, it's...someone with his own\npoint of view...someone who does what\nhe wants, not whatever he's told to\ndo!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(eyes lit up,\nwatching Weaver)"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Someone who follows his heart!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(taking Azteca's hand)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Right...because every ant's important!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(scoffs)"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "But that would mean"
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm\nimportant."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "I'm outta here, this sounds like\ntrouble to me."
+  },
+  {
+   "type": "stage direction",
+   "text": "But more ants are gathering 'round."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "We can"
+  },
+  {
+   "type": "stage direction",
+   "text": "all\nbe individuals!  Just like"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Z!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver and Azteca hold hands.  More ants are gathering\naround, dropping their tools..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BIKE PATH - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "LONG SHOT.  A glimmering desert landscape (think of \"The\nSun's Anvil\" in\nLawrence of Arabia\n).  Two small figures can\nbe seen, tiny dots moving across the arid whiteness.\nThey're Bala and Z, who are crossing a concrete path in the\npark, which they perceive to be a \"desert\"."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Water...water..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Water...water -- oh, you already said\nthat."
+  },
+  {
+   "type": "stage direction",
+   "text": "(walking along)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "My skin's dry, my exoskeleton is\ncracking...I wish I'd never met you,\nyou ruined my life."
+  },
+  {
+   "type": "stage direction",
+   "text": "I\nruined\nyour\nlife?  Look, I was"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "perfectly happy until I met you --\nalright, I was miserable, but I was"
+  },
+  {
+   "type": "stage direction",
+   "text": "happily miserable\nOver Z's line, we can see a GIGANTIC WHEEL, getting larger\nand larger and heading right towards them, a GIGANTIC WHEEL\n(the front wheel of a bicycle which is heading right towards\nthem)."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Look out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala pushes Z out of the way just as the wheel rolls past\nwith a cacophonous CRUNCHING, GRINDING noise -- like a\ngigantic millwheel."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "We're going to die!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Come on -- it's gone!  What are the\nchances of that happening again?"
+  },
+  {
+   "type": "stage direction",
+   "text": "No sooner has he said it than the\nrear wheel\nof the bike\nthunders past."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well I'll be."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala notices that they're clutching one another in fear; she\npushes him away."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Why didn't I listen to my mother\n...why'd I have to go looking for\ntrouble? Any ant would have given\ntheir left legs to be in my\nposition...what's"
+  },
+  {
+   "type": "stage direction",
+   "text": "wrong\nwith me?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Want a list?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(urgent)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Wait, I hear something!"
+  },
+  {
+   "type": "stage direction",
+   "text": "We can, in fact, hear a low, musical PLUNK.. there's a pause\nand then we can hear it again...\nZ and Bala walk over a rocky \"dune\" (the soft shoulder of the\npath).  Beyond, the grass starts up again.  They have come to\nthe end of the \"desert\" (i.e. the other side of the path)\nThrough the blades of grass, we can see..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "It's...it's..."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "WATER!!!"
+  },
+  {
+   "type": "location",
+   "text": "EXT. LAKE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A LAKE (a puddle) stretches before them.  It is, in fact, the\noverflow of a drinking-fountain whose drain is jammed...as Z\nand Bala run to the lake, water dribbles from the fountain\nand into one edge of the pool (to the ants, it's a waterfall).\nBala and Z run to the edge of the water and start slurping.\nThey smile at each other, until they remember that they don't\nlike each other."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "This lake is huge!  And so close to\nthe colony!  Think of the vacation\npotential!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Cut me down a soft leaf so I can take\na nap."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Listen, \"Princess\", you can't order\nme around.  Out here, you're not the\nboss anymore -- out here, you're\njust --"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- But before he can finish, a\nwater droplet\nfrom the\nfountain falls on him.  It may not sound like much, but to Z\nit's as though a ten-foot diameter sphere of jello had\nengulfed him.\nZ's stuck inside because of the surface tension of the\ndroplet, which doesn't burst, just quivers up and down.\nInside, Z is slowly, frantically\ndrowning\nand screaming for\nhelp.  But his screams are muffled in the water."
+  },
+  {
+   "type": "stage direction",
+   "text": "(annoyed)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Out here I'm just what?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(through the water)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hlllllllp!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(hands on hips)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Stop fooling around in there."
+  },
+  {
+   "type": "stage direction",
+   "text": "By now the droplet has started\nrolling\n, and Z is being turned\nupside-down.  He manages to get one foreleg out of the\ndroplet, and, in a frantic attempt to pull himself out,\npulls\nBala in by the leg"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Let me go!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But it's too late -- they're now\nboth\nstuck in the droplet,\nand, as Z continues to drown, he also has to deal with Bala\nyelling at him\n-- though we can't hear exactly what it. is\nshe's yelling through the water.\nThen, having run out of air, she too starts thrashing,\nalternately trying to\nswim\nand trying to\nslap him\nas Z tries\nto\ndefend himself\n.  Finally all this commotion is enough to\nmake the droplet\nburst\n, spilling the two coughing,\nsputtering, drenched ants onto the ground.\nThey both lie there, miserable, wet, and cold."
+  },
+  {
+   "type": "stage direction",
+   "text": "(chants to herself)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm going to be rescued soon.  I'm\ngoing to be rescued soon.  I'm going\nto be rescued soon."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z watches her incredulously."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Princess, has it ever occurred to you\nthat they're"
+  },
+  {
+   "type": "stage direction",
+   "text": "not going to rescue you"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "General Formica won't let me die out\nhere.  I'm his fiancee."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Look.  How many other Princesses are\nthere?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Five thousand three hundred and\nninety -- no.  About five thousand\nfour hundred by now."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "And only you can become a Queen?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Well...no, but --"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So what makes you so special?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(hesitates)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Well...I"
+  },
+  {
+   "type": "stage direction",
+   "text": "am\nthe oldest.\nBala turns from Z.  She's thinking things over, realization\ndawning on her."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "By three seconds..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks out into the grass forest."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to herself)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You're right.  There are as many\nPrincesses...as there are blades of\ngrass."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z, overhearing her, slowly puts his hand on her shoulder."
+  },
+  {
+   "type": "location",
+   "text": "INT. MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica and Carpenter are walking into the entrance of the\ntunnel with a squad of soldiers."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Dammit, this tunnel is priority A-1!\nWe can't afford"
+  },
+  {
+   "type": "stage direction",
+   "text": "any delays\non this"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "project!"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "I've never seen anything like it,\nGeneral, they're they're...well, look!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ahead of them, a group of a few hundred workers have stopped\nwork and are sitting down, chanting..."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER ANTS",
+   "text": "Z!  Z!  Z!  Z!"
+  },
+  {
+   "type": "stage direction",
+   "text": "A worker moves forward to join the strikers, tossing down his\ntool."
+  },
+  {
+   "type": "stage direction",
+   "text": "(yelling at him)"
+  },
+  {
+   "type": "speech",
+   "character": "FOREMAN",
+   "text": "Where do ya think"
+  },
+  {
+   "type": "stage direction",
+   "text": "you're\ngoing?  Get"
+  },
+  {
+   "type": "speech",
+   "character": "FOREMAN",
+   "text": "back to work!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "Buzz off, I'm important!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(joining the others)"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "Z!  Z!  Z!  Z!"
+  },
+  {
+   "type": "stage direction",
+   "text": "At the center of the group, Weaver and Azteca are holding\nhands, leading the chant."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Notice the big one, holding hands\nwith the female?"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Well, uh, who notices workers, sir?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(calculating)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "No one should have to.  Have him\nbrought to me."
+  },
+  {
+   "type": "location",
+   "text": "INT. FORMICA'S CHAMBERS - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "A nervous Weaver is sitting across from Formica, flanked by\na couple of stoic guards.  Carpenter stands smiling by the\nside door.  There is no obvious threat to Weaver, but the\natmosphere is truly intimidating."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "So this Z...he fancies himself an\nindividual?"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Yeah...I mean...well...I don't know,\nreally, sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "(patronizing)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Well now"
+  },
+  {
+   "type": "stage direction",
+   "text": "you\nhaven't fallen for this"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "silly idea of individuality, have\nyou?"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Oh, no, sir!"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Good.  You're a good soldier."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Thank you, sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver begins to relax a bit."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "So tell me.  Where's Z?"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "I...I have no idea, sir."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Okay, son."
+  },
+  {
+   "type": "stage direction",
+   "text": "He pats Weaver on the shoulder."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "We know what makes an ant colony\nstrong, don't we?  We know that no\nant can be an individual.  No"
+  },
+  {
+   "type": "stage direction",
+   "text": "single"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "ant matters, right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(enthusiastically)"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "That's correct, sir!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(points at a guard)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Not that one."
+  },
+  {
+   "type": "stage direction",
+   "text": "(another guard)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Or that one."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "No, sir!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica nods at Carpenter, who smiles and opens a door.  Two\nsoldiers walk in, holding\nAzteca\n.  The color drains from\nWeaver's face."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calmly, with\nsatisfaction)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Or that one?  Her life doesn't\nmatter, does it?"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Don't tell that tightass anything,\nWeaver!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver starts to get up, but the guards behind him hold him\ndown."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Wait!  Just let her go!  Z's long\ngone anyway, following some golden\negg to Insectopia!  You'll never\ncatch him!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica's face lights up."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Insectopia, hunh?...See why\nindividuality is so dangerous?  It\ncan always be used against you."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to the guards)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "If this sissy here wants to dig,\nhe'll dig.  Send them both back to\nthe tunnel project.  Double their\nworkload."
+  },
+  {
+   "type": "stage direction",
+   "text": "The guards exit with Weaver and Azteca."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "What do we have on this \"Insectopia\"?"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Scattered reports, sir.  Rumors.\nNothing reliable."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Desperate times call for desperate\nmeasures.  Get me Ant Team Six."
+  },
+  {
+   "type": "stage direction",
+   "text": "(frightened)"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Ant Team Six..."
+  },
+  {
+   "type": "location",
+   "text": "EXT.  GRASS JUNGLE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z and Bala are lost, wandering through the grass"
+  },
+  {
+   "type": "stage direction",
+   "text": "(looking hopeless)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I swear, we've passed this blade of\ngrass three times."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z keeps marching on."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Face it, Z, we're lost!  We must have\nwalked halfway across the world by\nnow!  How did I get into this mess..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(too shy to look at\nher)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Come on...tell me there wasn't just\na little...something between us that\nfirst night at the bar.  The night we\ndanced."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sadly)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "What difference does it make...we're\nboth going to starve to death, or get\nsquished, or set on fire..."
+  },
+  {
+   "type": "stage direction",
+   "text": "But Z is just gawking.  The shot expands to show that they\nhave stumbled onto..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "...The land of red and white..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. FALSE INSECTOPIA - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A PICNICGROUNDS...A red and white\npicnic blanket\n, which to\nthe ants looks like a vast, undulating\npavilion\n, stretches\nbefore them.  They gaze up at two obelisks: a salt and pepper\nshaker.\nBehind that is a gigantic tupperware jar full of potato\nsalad, and sandwiches stacked high.  It all looks perfect,\nwith the clean lines and monumental proportions of fascist\narchitecture.  In fact, it looks a little too perfect."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "We've found it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Insectopia\n!  Look at"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "all this food'"
+  },
+  {
+   "type": "stage direction",
+   "text": "(amazed)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You were right...you were right!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(smiling happily)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z, it's"
+  },
+  {
+   "type": "stage direction",
+   "text": "beautiful"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Let's dig in!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z goes over to a gigantic sandwich, but -- BOOIIING! -- he's\nprevented from getting at it by the\nsaran wrap\ncovering it."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "There's - there's some kind of force\nfield!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala joins him, laboring against the saran wrap.  Then both\nof them hear\nlaughter\nfrom above."
+  },
+  {
+   "type": "stage direction",
+   "text": "(lockjawed accent)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP (O.S.)",
+   "text": "Muffy, look, party-crashers."
+  },
+  {
+   "type": "stage direction",
+   "text": "(laughing)"
+  },
+  {
+   "type": "speech",
+   "character": "FEMALE WASP (O.S.)",
+   "text": "They're simply"
+  },
+  {
+   "type": "stage direction",
+   "text": "too much\n, Chip!\nBala and Z look up to see two large, yellow WASPS hovering in\nthe air above them.  The husband and wife wasps have\nlockjawed, William F. Buckleyesque accents."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Z and Bala)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "You down there, haven't you ever been\nto a"
+  },
+  {
+   "type": "stage direction",
+   "text": "picnic"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hunh?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Habla Ingles\n(to Male Wasp)"
+  },
+  {
+   "type": "speech",
+   "character": "FEMALE WASP",
+   "text": "Well I really don't know who they are."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "We're ants!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Male Wasp zooms in closer."
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Poopsie, we know some ants, don't we?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Z)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Are you related to the Fifth Avenue\nants?"
+  },
+  {
+   "type": "speech",
+   "character": "FEMALE WASP",
+   "text": "Darling, do you have to talk to any\ninsect from off the street?"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Just being friendly, Poopsie."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Hello?  I'm not just \"any insect\".\nMy mother is the Queen."
+  },
+  {
+   "type": "stage direction",
+   "text": "(momentously)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I'm Princess Bala!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(under his breath)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "They're Eurotrash, dear."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a loud RUMBLING noise -- the family is about to sit\ndown for their picnic lunch.  Gigantic\nhands\nreach down and\npull away the \"force fields\"."
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Lunch!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Z)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "A little piece of advice, sport --\nbob and weave!  Bob and weave!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "What do you mean?"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Well -- like my father used to say --\nthere's no such thing as a free meal!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The wasps dive in to the picnic, darting in for a bite, and\nthen dashing away again..."
+  },
+  {
+   "type": "speech",
+   "character": "THE WASPS",
+   "text": "Excuse me -- I'll have some potato\nsalad -- thank-"
+  },
+  {
+   "type": "stage direction",
+   "text": "you\n! -- don't mind if"
+  },
+  {
+   "type": "speech",
+   "character": "THE WASPS",
+   "text": "I do!  After you! (etc.)"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- But all is not well.  We pull back to reveal that Z and\nBala are standing in front of a giant sneaker logo, which is\nattached to a\ngiant sneaker\n.  Which\nmoves"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I sort of imagined Insectopia a\nlittle differently --"
+  },
+  {
+   "type": "stage direction",
+   "text": "Just at that moment, we hear a whistling in the air -- and\nthe female wasp is crushed by a huge swatter that sweeps out\nof the sky, sending the picnic blanket billowing up in an\naftershock that throws Bala and Z to the ground."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Oh...my...God."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shaking her)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Muffy!  Muffy!  Wake up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But she doesn't move.  The Male Wasp stares up at the sky."
+  },
+  {
+   "type": "stage direction",
+   "text": "(heartbroken)"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "WHYYYYYYYYYYYYY????"
+  },
+  {
+   "type": "stage direction",
+   "text": "But Z, also looking up, has no time to commiserate."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bala, look out!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They are only saved by the fact that they are so small - .the\nholes of the swatter pass over them.\nThe woman, realizing that the swatter won't work on ants,\nthrows it to the side and tries stomping on them...\nBefore Bala can get away, a sneaker falls on her with a\nthunderous BOOM that shakes the ground."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "MMMffllmmm..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The shoe rises, as the person wearing it steps away...and we\nsee that Bala is stuck in one of the ridges of the waffle-\nsoled sneaker, adhering to a big piece of\nbubblegum"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!  Help me!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "But Bala is carried off on the sneaker in a huge, looping,\nferris-wheel-like motion.  BOOM.  The sneaker on which Bala\nis stuck falls again, as the woman tries to step on Z, too --"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bala!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(mournfully)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I'll never see her again..."
+  },
+  {
+   "type": "stage direction",
+   "text": "-- But he does, instantly, as the shoe rises again, showing\nBala stuck deeper in the bubblegum --"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!!!  Get me out of heeeeere!"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- The woman has decided to walk away from the picnic to get\nthe bubblegum off her shoe...Z heart sinks as the shoe Bala's\nstuck on lopes off into the distance..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(thinks)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "These things always come in twos..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He sees a SECOND SHOE starting to rise --"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Take me to your leader!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z runs towards the shoe as it rises... and at the last moment\ncatches on to the snaky, swinging\nshoe-lace"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Whoooooooaaaa!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The sneaker lifts off into the air, with Z holding on for\ndear life to the lace, and getting further and further away\nfrom Bala as he's drawn to a vertiginous height...the\nlandscape can be seen rolling and pitching crazily in the\nbackground..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bala!  Come back here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "For a moment, the sneaker seems to pause in the air...then it\ndescends again, in a stomach-churning, roller-coaster free-\nfall as the sneaker on which Bala is stuck rises up again..."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!!!!!!!  I'm stuck!"
+  },
+  {
+   "type": "stage direction",
+   "text": "--  But Z is trying to keep his lunch down as he descends.\nThe sneaker hits the ground, and Z can feel himself\nagain...it's now or never."
+  },
+  {
+   "type": "stage direction",
+   "text": "(Tarzan whoop)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Aa-ee-ya-ee-yaaaaaaaah!!!!!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "As the sneaker rises again, he\nswings\noff the lace, hurtling\nthrough the air and catching one of the laces of Bala's\nsneaker...the momentum swings him up and under the sole..."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!  You're here!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z gets smashed into the bubblegum next to Bala.  Now he's\nstuck too."
+  },
+  {
+   "type": "stage direction",
+   "text": "(ruefully)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yeah.  I'm here."
+  },
+  {
+   "type": "stage direction",
+   "text": "The sneaker descends again.  Z and Bala hold hands and SCREAM\nas they see the ground rise too meet them...\nTHUD!  They're squished deeper into the bubblegum.  The\nsneaker rises again..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(emotional)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z...if we don't make it...I just want\nyou to know...."
+  },
+  {
+   "type": "stage direction",
+   "text": "(touched)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yes?"
+  },
+  {
+   "type": "stage direction",
+   "text": "This is all your fault\nThe sneaker rises, and seems ready to fall again...but\ninstead it just hovers there.  (The person wearing it is\nbalancing on one leg and about to scrape off the bubblegum\nwith a penny)."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "We're safe..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Just then, the hand holding the\npenny\nlooms up...the penny\nis, by ant standards, about sixty feet high.  The huge image\nof\nAbraham Lincoln\nstares down at them."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Who the"
+  },
+  {
+   "type": "stage direction",
+   "text": "hell\nis\nthat\nThe penny starts scrapes the bubblegum off the sneaker,\nbringing Bala and Z along with it.  They're carried through\nthe air as the penny gets thrown away...turning over and over\nin a lopsided orbit as Bala and Z SCREAM...\n...and land with a CRASH in total\ndarkness"
+  },
+  {
+   "type": "location",
+   "text": "EXT. LAKE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The \"lake\" where Z and Bala were nearly drowned by the water\ndroplet.\nThe earth shakes as a HUGE, MONSTROUS creature approaches the\nlake - and begins to drink from it.  The creature seems to\nhear something, and,\ngrowling\n, turns its ugly head.  It's a\nPomeranian, one of those yappy little lap-dogs -- but seen\nfrom ant perspective, it's something out of a\nhorror movie"
+  },
+  {
+   "type": "speech",
+   "character": "TOUGH VOICE (O.S.)",
+   "text": "Ant Team Six --"
+  },
+  {
+   "type": "stage direction",
+   "text": "take him out\nThe monster bears its huge fangs at the approaching\nintruders -- a bunch of\nflying ants\nwho look as though\nthey're attacking the\nDeath Star\nThe monster rears and snaps at two of the ants, who are\nmaking a diversionary run...\nand then\ngets it\nfrom the rest of the ants, who land on his\nsoft, wet nose and start\nstinging away like crazy\nThe monster rears back in pain -- and runs away, YIPPING!\nThe members of ANT TEAM SIX, a crack team of hardcore flying-\nant commandoes a la Seal Team Six, break off the attack and\nland."
+  },
+  {
+   "type": "speech",
+   "character": "MAJOR MANDIBLE",
+   "text": "And don't come back, you"
+  },
+  {
+   "type": "stage direction",
+   "text": "sissy\nMAJOR MANDIBLE, Ant Team Six's lethal commander, steps into\nframe.  He's the one-eyed killer we met in the bar earlier.\nThe rest of his team fan out to search the area."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Talk to me."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDO ANT",
+   "text": "Z and the Princess were here, sir.\nSigns of a struggle."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Let's get a read on that feremone\ntrack."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to the others)\nGet the sniffer\nTwo other commandoes come running up with what looks like a\npiece of machinery on a tripod -- only it's an ant -- a\nhighly specialized, blind ant with an incredibly acute sense\nof smell."
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Bala...find Bala..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The tracker, drool running out of its long proboscis, sniffs\nthe air and starts signalling like a geiger counter..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(as he's swivelled)"
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Nnononononononoyeahyeahnononononono\nno..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Finally the tracker stops swivelling, pointing in one\ndirection and saying, \"Yeahyeahyeahyeah...\""
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDO ANT #3",
+   "text": "Got 'em!  Ten clicks from here!"
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Z -- you dirt-digging, fancy-dancing,\nwisecracking, royalty-grabbing, rebel\nSCUM!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(yelling into the\ndistance)"
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "I AM COMING FOR YOU!  YOU ARE ONE\nDEAD ANT, MISTER!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Mandible's muscles bulge.  The veins in his head throb.  This\nis one ass-kicking ant.  Even Mandible's troops look scared\nof him."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Let's MOVE!  GO, people!  GO!  GO!\nGO!  GO!  GO!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ant Team Six takes to the air, heading in the direction\nindicated by the tracker ant."
+  },
+  {
+   "type": "location",
+   "text": "INT. TRASH BAG - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Darkness.  Out of it we hear the voices of Z and Bala."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Come on, Z."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Forget it.  You go ahead, I give up.\nI...I don't know what I was thinking.\n\"Insectopia\"."
+  },
+  {
+   "type": "stage direction",
+   "text": "In one corner of the screen, we can see an irregular little\nhole through which a\nshaft of light\nis falling.  Bala\nproceeds towards it, the hole appears to get bigger and\nbigger..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(defeated)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "There's only one thing worse than an\nant who goes around mindlessly\nfollowing orders, and that's an ant\nwho's"
+  },
+  {
+   "type": "stage direction",
+   "text": "too dumb\nto go around"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "mindlessly following orders."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala stops...she notices that they're being watched.  She's\nemerging from a tied off\ngarbage bag\n-- the yellow ties loop\naway gracefully.  Bala and Z have been tossed into a garbage\narea.  And above them and below them, peering from garbage\ncans, recycling containers, bags, etc., a multi-cultural\nassortment of insects are regarding them.\nA laid-back FLY voices their thoughts."
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "What's with the bummer attitude?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A nearby BUTTERFLY joins in."
+  },
+  {
+   "type": "speech",
+   "character": "BUTTERFLY",
+   "text": "Yeah -- nobody stresses out in"
+  },
+  {
+   "type": "stage direction",
+   "text": "Insectopia"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Did you say..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(joining Bala)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "...Insectopia?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z and Bala look around.  Just to get things straight, the\ngarbage dump doesn't look disgusting -- that would be seeing\nit through human eyes.  Instead, we're looking at it through\nant eyes\n-- and, reimagined this way, it's\nParadise\n.  Not the\nordered, sterile, paradise of the picnic, but an earthly land\nof plenty.\nThe sides of the plastic garbage bags are sheer, reflective\nwalls of smoothest obsidian...the garbage cans are gigantic,\nthick metal columns put there by the gods (think the\npyramids); a coke bottle, refracting the sunlight into a\ngorgeous rainbow, trickles a fountain of sweet nectar into\nthe pink, bittersweet flesh of a grapefruit half, which\nappears as a multi-chambered concave dome.  Everywhere,\ninsects are disporting themselves -- a multi- species love-in\nthat's like an insect version of Woodstock.\nBala and Z are awe-struck.  Bala turns to Z."
+  },
+  {
+   "type": "stage direction",
+   "text": "(happily)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z, we made it!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(alighting on the\ngrapefruit)"
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "C'mon in!  The nectar's fine!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Like a kid at an amusement park, Z slides down the smooth\nside of the garbage bag, whooshing this way and that until he\nslides into one end of a straw (a red and white striped\ntunnel), and is\nshot out"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yippeeeeee!"
+  },
+  {
+   "type": "stage direction",
+   "text": "...into a bottle-cap filled with lemonade, which he\nalternately drinks and swims through...\nDown at the bottlecap, Z is drying himself off.  Then he\nsees, emerging from behind a lemon peel, a gigantic TERMITE."
+  },
+  {
+   "type": "stage direction",
+   "text": "(terrified)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "AAAAAGH!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Surprisingly, the termite seems\nequally\nterrified..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Z)"
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Hey, take it easy!  There's nothin'\nto be afraid of!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yeah, well, I make it a practice not\nto trust anyone who shoots acid out\nof their forehead."
+  },
+  {
+   "type": "speech",
+   "character": "CRICKET",
+   "text": "Dude, here in Insectopia, we don't\njudge people by how many arms and\nlegs we've got."
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Yeah, back home, they called me a\nfruitfly.  But here, I'm known\nas..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(with attitude)"
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Superfly."
+  },
+  {
+   "type": "speech",
+   "character": "CRICKET",
+   "text": "Anyway, big Gus is mellow."
+  },
+  {
+   "type": "stage direction",
+   "text": "The termite sticks his hand out.  A drop of acid drips from\nhis head and splashes at Z's feet."
+  },
+  {
+   "type": "stage direction",
+   "text": "(taking his hand,\ndisgusted)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Charmed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z reaches out and shakes the termite's hand, as Bala watches,\nsmiling.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. INSECTOPIA - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The insects are having a\ncookout\n, their faces illuminated by\nthe still-red ember of a\nmatch\n.  Platters heaped with food\nlie untouched as they pat their bellies...\nZ and Bala sit next to one another, smiling shyly as if they\nhad just met for the first time."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So...you never did tell me...what\nmade you come out to the worker bar\nthat night?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Just looking for fun, adventure,\ntrouble, I guess."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, \"trouble\" is my middle name.\nActually, my  middle name is .985,\nbut I don't tell people.  Hey, Bala,\nI...I actually have something of\nyours...you left it at the bar that\nnight."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z takes out Bala's scarf, which he's been keeping folded in\na pocket."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Sorry, it's been through a war, not\nto mention everything else..."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You held onto this all that time?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, I...I know it's a little\nstrange, but...I thought it might\ncome in handy if I...needed a scarf\nsomeday."
+  },
+  {
+   "type": "stage direction",
+   "text": "(embarrassed)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, to be honest, I just liked\nhaving it."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hands it back to her.  Bala looks at Z, frankly, openly.\nFor a moment Z is shy.  Then he looks at her too.  They're\ntwo lovers, leaning closer, about to have their first kiss,\nwhen --"
+  },
+  {
+   "type": "speech",
+   "character": "BEETLE",
+   "text": "Hey"
+  },
+  {
+   "type": "stage direction",
+   "text": "The moment is wrecked.  Z looks up.  A chubby beetle stands\nthere with Gus the termite."
+  },
+  {
+   "type": "speech",
+   "character": "BEETLE",
+   "text": "Wanna bring back dessert?  There's a\nthirty foot long blimp in the next\ncan, made completely of chocolate!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(annoyed)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Sure.  I wasn't busy or anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z gets up to go with them."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Great timing, guys.  Ever wonder why\nthey call you \"pests\"?"
+  },
+  {
+   "type": "location",
+   "text": "EXT.  INSECTOPIA, TOP OF CAN - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "As\nAnt Team Six\nlands and takes up position above the feast.\nThe tracker ant is going nuts."
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Yesyesyesyesyes --"
+  },
+  {
+   "type": "stage direction",
+   "text": "One of the commandoes puts his hand over the tracker's mouth\nto shut him up.  Mandible communicates with his troops by\npulling down his one functional antenna and gruffly\nwhispering into it, as though it were one of those commando\nheadsets.  His troops do likewise."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Talk to me."
+  },
+  {
+   "type": "speech",
+   "character": "COMMANDO #1",
+   "text": "I've got a read on the Princess --\nbut target Z isn't accounted for."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Let's move in."
+  },
+  {
+   "type": "location",
+   "text": "EXT. INSECTOPIA - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Back at the feast, a cricket strums on his legs like a\nguitar, opining about life and the universe to a bunch of\nother chilled-out, hippyesque insects...Bala taps her feet to\nthe song."
+  },
+  {
+   "type": "speech",
+   "character": "CRICKET",
+   "text": "What if, like...we're just these tiny\nlittle things, and we're just like\npart of this whole other huge\nuniverse, that's like, so big we\ndon't even know it exists?"
+  },
+  {
+   "type": "speech",
+   "character": "LADYBUG",
+   "text": "Man...that's so deep..."
+  },
+  {
+   "type": "stage direction",
+   "text": "At that moment Ant Team Six rapels down from the top of the\ngarbage bin, landing amongst the insects."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "EVERYBODY DOWN!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The cricket gets up to confront Mandible, but Mandible\ncold\ncocks\nhim with a right to the jaw.  The other insects, too\nsurprised to fight, just do as they're told."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Alright, you hippy scum!  Make one\nmove and I'll"
+  },
+  {
+   "type": "stage direction",
+   "text": "exterminate\nyou!\nA couple of commandoes grab Bala by the arms and heave her up."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Stop!  You don't understand!"
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "I don't have to understand, Missy --\nI've got"
+  },
+  {
+   "type": "stage direction",
+   "text": "orders\n.  Now\nwhere's Z\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. INSECTOPIA - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z, the termite, the beetle and the fly are happily carrying\na huge M&M back to the feast."
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Man, your girl is"
+  },
+  {
+   "type": "stage direction",
+   "text": "fly\n, know what I'm"
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "saying?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(overdoing it)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Oh, Bala?  I guess she's okay, you\nknow, for a princess.  I mean, I\nusually date queens, or you know,\nempresses, because sometimes the\nlesser nobility are too much in awe\nof my smouldering sensuality.  Please\nstop me if I'm making you feel\ninadequate."
+  },
+  {
+   "type": "stage direction",
+   "text": "They throw down the M&M, which lands with a THUD.  Z notices\nthat the rest of the insects look spooked."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "What's the matter?  This place is as\ncheery as a Roach Motel at check-out\ntime."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z looks around."
+  },
+  {
+   "type": "speech",
+   "character": "LADYBUG",
+   "text": "Bala's been kidnapped!  Some flying\nants took her back to the colony!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "She's been kidnapped?!  But I can't\nlive without her!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z just stands there, heartbroken."
+  },
+  {
+   "type": "stage direction",
+   "text": "(determined)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I'm going back.  I've got to get her.\nWho'll come with me?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z looks around.  Nobody's volunteering.  Nothing but sheepish\nlooks and shuffling from the insects of Insectopia.\nZ looks disheartened.  He's about to leave when --"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP (O.S.)",
+   "text": "I'll go."
+  },
+  {
+   "type": "stage direction",
+   "text": "The male wasp is hovering nearby."
+  },
+  {
+   "type": "stage direction",
+   "text": "(surprised)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You?!"
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "I know what it's like to lose\nsomeone...I keep hearing the sound of\nMuffy's flapping wings...so I'll take\nyou."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z hops on the wasp's back."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Let's go, pal!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The wasp takes off, leaving the other insects looking a\nlittle chastized."
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Geez.  I feel like a real stinkbug."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. SKY ABOVE COLONY - MORNING"
+  },
+  {
+   "type": "stage direction",
+   "text": "The wasp and Z fly high above the colony..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wow...I never saw things this way..."
+  },
+  {
+   "type": "stage direction",
+   "text": "From here, we can see the whole layout of the land around the\ncolony...the \"desert\" (an asphalt path) and across it, the\n\"lake\" (the overflowing water fountain)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Things look so close together from up\nhere...there's the desert...and the\nlake..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(thinking about\nsomething)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "it's not far from the colony at all..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly, the wasp bounces up and down in the air."
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Sorry.  Turbulence."
+  },
+  {
+   "type": "location",
+   "text": "INT. FORMICA'S CHAMBERS - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica sits at his desk, going over some plans.  Formica's\nchambers are located inside a snake skull, with the eye\nsockets serving as windows, and the mouth serving as a door.\nThe walls are hung with trophies -- the heads of other\ninsects.\nAnt Team Six burst in the doors of Formica's office, carrying\nthe struggling and kicking Bala.  One of the commandoes sets\nthe tracker ant one the floor...then Formica gets up from his\ndesk as the commandoes bring the princess to him."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Princess Bala.  Good."
+  },
+  {
+   "type": "stage direction",
+   "text": "(with urgency)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Where's Z?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala replies warily."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "He's...he's dead."
+  },
+  {
+   "type": "stage direction",
+   "text": "(covering for Z)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "You don't have to look for him\nanymore.  He was eaten by a praying\nmantis."
+  },
+  {
+   "type": "stage direction",
+   "text": "(regretfully)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "It's a shame he died prematurely...I\nwas hoping to kill him myself."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Well you'll never be able to hurt him\nwhere he is now."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sadly)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "I miss him already."
+  },
+  {
+   "type": "stage direction",
+   "text": "(surprised)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "You miss him?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Why"
+  },
+  {
+   "type": "stage direction",
+   "text": "(angry)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Because...because he's"
+  },
+  {
+   "type": "stage direction",
+   "text": "twice\nthe ant"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "that you are.  I could"
+  },
+  {
+   "type": "stage direction",
+   "text": "never\ngo"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "through with marrying you.  I'm --\nI'm an"
+  },
+  {
+   "type": "stage direction",
+   "text": "individual\n, and when I get"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "married, it'll be to someone"
+  },
+  {
+   "type": "stage direction",
+   "text": "I\nchoose.\nThe soldiers look shocked.  For a moment, Formica looks\nfurious.  Then he just shrugs."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shaking his head)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Princess Bala, I'm just a simple old\nsoldier, and the ways of the feminine\nmind are a little too complex for me.\nBut one thing I do know is, there are\nmore Princesses where you came from.\nI just hope they're not all like you.\nIn the meantime, maybe we can arrange\nfor you to see Z again after all."
+  },
+  {
+   "type": "stage direction",
+   "text": "He gestures to the commandoes, who drag her out the door.  We\nnotice that the tracker ant has been left behind."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z hops down from the wasp, who has landed near the entrance\nto the colony."
+  },
+  {
+   "type": "speech",
+   "character": "MALE WASP",
+   "text": "Good luck, Z.  For a wingless insect,\nyou're alright by me."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Thanks, Chip."
+  },
+  {
+   "type": "stage direction",
+   "text": "They shake hands and the wasp flies off."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to himself)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "How am I going to get in?  The place\nis crawling with soldiers!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z starts for the nearest entrance -- but he's spotted by a\ncouple of SOLDIER ANTS."
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER ANT",
+   "text": "You there!  Worker!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z's caught -- it's over.  He turns around with his hands up."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Don't bite!  I surrender!"
+  },
+  {
+   "type": "speech",
+   "character": "SOLDIER ANT",
+   "text": "What are you doing out here!  All\nworkers are to remain inside the\ncolony, by orders of General Formica!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z can't believe his luck -- and his curiosity is piqued."
+  },
+  {
+   "type": "stage direction",
+   "text": "(heading inside)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well...if you insist..."
+  },
+  {
+   "type": "location",
+   "text": "INT. MEGATUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Queen, with Formica striding at her side, is carried by\na personal escort of fifty or so struggling workers to the\nbottom end of the Mega Tunnel, where a red ribbon waits to be\ncut."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Very impressive, General."
+  },
+  {
+   "type": "stage direction",
+   "text": "Behind her,\nhundreds of thousands\nof workers are crowded,\nlooking confused and expectant.  Some of them clutch little\nflags and noisemakers..."
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Wave that flag, you maggot!"
+  },
+  {
+   "type": "stage direction",
+   "text": "...which we see are being handed out to them by Ant Team Six."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Is there anything wrong, your majesty?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Queen is looking around unhappily."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "It's just...How I miss Bala.  I wish\nshe were here for this special moment."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica warmly places his hand on the Queen's shoulder."
+  },
+  {
+   "type": "stage direction",
+   "text": "(falsely supportive)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "She is, your majesty."
+  },
+  {
+   "type": "stage direction",
+   "text": "She is\nThe CAMERA heads up the long, long tunnel, where we see..."
+  },
+  {
+   "type": "location",
+   "text": "INT. MID SKYLIGHT TUNNEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala, tied and gagged.  She's at the point in the Megatunnel\nwhere it begins to curve upwards towards the surface.  She\nstruggles against her bonds, but can't get loose.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Elsewhere in the colony, a column of soldiers marches by, and\nwe hear the TROMP-TROMP-TROMP of their boots.  When they've\ngone, Z pokes his head out from behind a pile of dirt...he\nheads in the opposite direction of the soldiers..."
+  },
+  {
+   "type": "location",
+   "text": "INT. OUTSIDE FORMICA'S CHAMBERS - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z creeps around the outside of Formica's chambers.  This part\nof the colony seems to be deserted."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Geez, this place really empties out\nin August.  Where is everybody?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z walks up to the skull that houses Formica's chambers and\npeeks in the eye socket."
+  },
+  {
+   "type": "location",
+   "text": "INT. FORMICA'S CHAMBERS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Inside, the Tracker Ant, who's been left behind, switches\n\"on\", eyes glowing.  Z enters the chamber cautiously."
+  },
+  {
+   "type": "stage direction",
+   "text": "(sniffing)"
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Z!  Z!  I smell Z!"
+  },
+  {
+   "type": "stage direction",
+   "text": "For a moment, Z's afraid.  Then he sees the small Tracker Ant\ndoesn't seem hostile."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You \"smell\" me?  Well look, I -- I've\nbeen out in the wilderness for a\nwhile, and --"
+  },
+  {
+   "type": "stage direction",
+   "text": "The tracker ant keeps sniffing.  Z waves his hand in front of\nthe blind ant's eyes."
+  },
+  {
+   "type": "stage direction",
+   "text": "(getting it)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Hey, wait, you're...you're one of\nthose pheremone sniffers, aren't you?\nMaybe you can help me...I'm looking\nfor a friend of mine, Princess Bala."
+  },
+  {
+   "type": "stage direction",
+   "text": "(enthusiastic)"
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Bala!  Yeahyeahyeahyeahyeah!  Find\nBala!  Yeahyeahyeahyeah!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z picks up the tracker ant."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Just remember, I met her first."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z, carrying the little tracker ant, heads out, following its\nlead...\nThrough this and that passage, as the Tracker Ant gets more\nand more insistent...And finally straight to a\nblank wall"
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Yeahyeahyeahyeahyeahyeahyeah..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bala's through there?"
+  },
+  {
+   "type": "speech",
+   "character": "TRACKER ANT",
+   "text": "Bala...Yeahyeahyeahyeahyeahyeah..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Great.  More digging.  This is why I\nleft in the first place."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z can answer his own question.  He puts down the tracker ant,\nwith a look on his face like a kid forced to eat broccoli,\nstarts\ndigging\nthrough the wall..."
+  },
+  {
+   "type": "location",
+   "text": "INT. SKYLIGHT APEX - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Meanwhile, A member of Ant Team Six -- the stupidest member,\nin fact, waits at the\nvery top of the tunnel\n, where it\nnarrows almost to a point.  He's hanging from a winch, and\nhas a little hammer and chisel in his hand.  He's WHISTLING,\nawaiting instructions."
+  },
+  {
+   "type": "location",
+   "text": "INT. MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z emerges from the tunnel he's dug, spits a load of dirt out\nof his mouth and wipes his hands off.  Nearby, Bala lies\nthere, bound and gagged."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bala!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z unties Bala and undoes her gag."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!  You came back!"
+  },
+  {
+   "type": "stage direction",
+   "text": "They HUG."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Why do they have you tied up here?"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "There's something going on, Z --"
+  },
+  {
+   "type": "stage direction",
+   "text": "From here, Z can see far down the tunnel to where the crowd\nis gathering."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "They're having a ceremony to open the\nMegatunnel..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We can hear the sound of WATER SHIFTING somewhere above.  He\nlooks up the tunnel...in the distance, we can make out the\nsilhouete of the commando set to break open the wall..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Bala, that -- that lake we found --\nI think the tunnel's right underneath\nit!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(horrified)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "-- Formica's going to"
+  },
+  {
+   "type": "stage direction",
+   "text": "flood the\ncolony\n!!!  That's what he meant when"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "said there were too many ants!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Oh no..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala looks too shocked to move.  Z starts pushing her into\nthe tunnel he made, and starts heading down towards the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!  what are you doing?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I know it's crazy, but -- I can't\njust leave.  Don't argue with me.  If\nI've learned anything, it's that the\nproblems of two people don't add up\nto a hill of ants in this world.  Or\nbeans.  Something like that.  Anyway,\nI've"
+  },
+  {
+   "type": "stage direction",
+   "text": "got to warn the others\nZ looks into Bala's eyes."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Head for the surface, Bala.  If I\ndon't make it, well...we'll always\nhave Insectopia."
+  },
+  {
+   "type": "stage direction",
+   "text": "kisses\nBala.  Then he starts running down the tunnel\ntowards the crowd..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(following him)"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z!!! Wait for me!"
+  },
+  {
+   "type": "location",
+   "text": "INT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "All the SOLDIERS are filtering out of the assembly area,\nleaving the workers behind.  As his troops march by, Formica\nsteps to the side and hands the Queen a pair of scissors to\ncut the ribbon strung across the Megatunnel."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Your majesty, I'm afraid matters of\nstate keep me from attending the\nceremony."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "But General -- this tunnel is your\nbaby!  You're sure you can't stay ?"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "'Fraid not, your majesty."
+  },
+  {
+   "type": "stage direction",
+   "text": "(with regret)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Goodbye, your majesty."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Very well, General -- I know you --\nall work and no play!"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Alright, let's move out!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica, surrounded by his bodyguards, hurries off as the\nQueen readies to cut the ribbon..."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "In the name of the colony, I declare\nthis tunnel open!"
+  },
+  {
+   "type": "location",
+   "text": "INT. MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z and Bala sprint towards the bottom end of the tunnel..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Stoooooop!"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- and then pull back to see Queen cut the ribbon -- she\nlooks up and sees --"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Bala!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Mom!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z calls out to the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Listen up!  We've all got to get out\nof here!  This place is going to\nflood!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers are unconvinced."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "Are you"
+  },
+  {
+   "type": "stage direction",
+   "text": "nuts"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "You've got to believe me!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "Oh yeah?  What makes you so special,\nMr. Know-It-All?"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I'm Z."
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers are even more sceptical.  A laugh goes up from\nthe crowd."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #3",
+   "text": "You're Z?  Gimme a break!  Z's ten\nmilimeters tall!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #4",
+   "text": "-- and he can kill termites with his\nbare hands!  You're just some scrawny\nworker with a mental problem!"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I"
+  },
+  {
+   "type": "stage direction",
+   "text": "am\nZ!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "No you're not!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Yes he is\nWeaver steps out of the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Weaver!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Weaver runs up to Z and hugs him, starting to cry."
+  },
+  {
+   "type": "speech",
+   "character": "WORKERS",
+   "text": "Hey...it"
+  },
+  {
+   "type": "stage direction",
+   "text": "is\nZ...listen to what he"
+  },
+  {
+   "type": "speech",
+   "character": "WORKERS",
+   "text": "says! [etc]."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "Z...I'm so sorry!  I --"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Don't worry about it, pal."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nearby, Bala and the Queen hug.  The Queen looks over at Z."
+  },
+  {
+   "type": "stage direction",
+   "text": "(distastefully)"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "Oh...it's that social-climbing worker\nagain -- what does he want?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(in response)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "To save you all!  Now we've got to go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Outside of the colony, where Formica, surrounded by the army,\ngives a signal to Mandible by drawing his finger across his\nthroat..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(talking into his\nantenna)"
+  },
+  {
+   "type": "speech",
+   "character": "MANDIBLE",
+   "text": "Let 'er rip!"
+  },
+  {
+   "type": "location",
+   "text": "INT. SKYLIGHT APEX - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "AT THE TOP OF THE TUNNEL, the commando starts chiseling away\nfuriously at the wall...and nothing but dust falls down.  The\ncommando looks at the dust as it falls down, down the long\ntunnel...he looks up at the dry wall...Hmmm...\nThen...\nTHE WALL BURSTS OPEN.\nAnd a TORRENT starts pouring out -- swallowing the terrified\ncommando as if he were a crumb and heading down the tunnel\nlike a freight train, ripping up the walls as it goes..."
+  },
+  {
+   "type": "location",
+   "text": "INT. EARLY MEGA-TUNNEL - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Everyone turns to hear the\nrumbling sound\ncoming down the\ntunnel --"
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "Listen!"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "He's right!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "From here, we can see deep into the tunnel, at the point\nwhere it levels out...and the torrent can be seen rushing\ndown at them..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "LET'S MOVE IT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "All of a sudden there's\npanic\nas every ant tries to scramble\naway from the oncoming water...in the confusion, the Queen's\nbearers drop her and scramble over her."
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "You there!  Stop!  I say!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Queen turns, and for a brief moment is silhouetted\nagainst the white-capped torrent of water...\n...and then she picks her abdomen up like a skirt and\nhigh\ntails it away from the torrent\n, running so fast that she\npasses some of her bearers on the way...\nAnd then the torrent\nspits out of the mouth of the\nMegatunnel\n, quickly filling up the chamber and branching into\nall of its side tunnels, as we see:\nA group of workers RUNNING up a side tunnel and getting\nconsumed\nby a wave, which crashes down on them like a hand\nslapping a table...\nAnother group\n, the members of which are getting swallowed up\none by one; one of the ants runs up on the ceiling of the\ntunnel and keeps on going, upside-down...it works for a while\nbut eventually he, too is swallowed up...\n-- In the\nNursery\n, nurses are evacuating\nstacks\nof crying ant\nbabies...\nIn one of the larger access-tunnels, down which thousands of\nworkers are fleeing, a group of ants turns and decides to\nmake a stand for it -- they link up in a mass and form a\nLIVING DAM.  It holds for a while but then BURSTS scattering\nand smashing ants along the sides of the tunnel before eating\nthem up...\nAnd we...\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. TOWN CENTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The huge main chamber of the colony, where most of the\nworkers -- as well as Z, Bala, Weaver, Azteca, and the\nQueen -- have run to.\nThe chamber is rapidly flooding from all sides.  Water flows\nout of every escape tunnel the workers try...and the crowd is\nbecoming more and more closely packed together as the waters\nrise around them."
+  },
+  {
+   "type": "speech",
+   "character": "AZTECA",
+   "text": "There's no way out!"
+  },
+  {
+   "type": "speech",
+   "character": "QUEEN",
+   "text": "We're all going to drown!!!"
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "Z...what can we do?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z clenches his fist...he feels utterly powerless...then he\nshouts..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dig\nThe workers turn to look at him questioningly."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "We've got to dig a trench around us!"
+  },
+  {
+   "type": "stage direction",
+   "text": "-- But one of the workers raises his hands."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #1",
+   "text": "Uh...we don't dig any more.  We're\nindividuals."
+  },
+  {
+   "type": "speech",
+   "character": "WORKER #2",
+   "text": "Yeah.  We're too important to dig.\nYou taught us that, Z.  You hate\ndigging!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(at his wits end)"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Yeah, but I hate drowning more!  Now"
+  },
+  {
+   "type": "stage direction",
+   "text": "dig"
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "You heard the ant -- DIG!!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers start to dig a circular moat around themselves,\npassing the dirt back into the middle of what remains of the\ndry ground.\n-- But they seems to be making little headway against the\nwater as it continues to rush in...\nThe ant labor we saw up to now were nothing compared to\nthis.   As the moat gets deeper, the pile grows higher and\nhigher...Weaver is digging up huge chunks of earth...nearby,\nAzteca is digging like crazy too...Z runs around, directing\ntraffic and encouraging the workers..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "That's it!  Pass the dirt back to the\ncenter!  Go on!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Nearby the Queen stands there, looking squeamish."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Your highness...time to get your\nhands dirty!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Gingerly, the Queen reaches out for a clod of dirt...and\npasses it along.  Next thing you know, she's practically\ncrushed\nby a huge load thrown up by Weaver.\nThe water keeps rushing in...but now we notice that...\n...the pile of dirt in the middle of the \"island\" created by\nthe digging of the moat is growing higher and higher,\nreaching up towards the ceiling of the chamber...\n...And the water is getting swallowed up by the moat,\nswirling around angrily.\nNow Z looks up, and sees that with a little more effort they\ncan reach the top --"
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "We need to form a scaffolding around\nthis mound -- let's DO IT!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers start to cluster around the mound, covering it,\nforming a tight network of living bodies around the mound up\ntowards the ceiling..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Now"
+  },
+  {
+   "type": "stage direction",
+   "text": "climb\nThe ants start to scale the scaffolding, up towards the top\nof the chamber...it's a swarming mass of ants, hauling each\nother up, giving each other legs up, climbing ever and ever\nhigher towards the top...\nWhere they start to dig through the very ceiling...\n...as, at the bottom of the mound, Z starts to organize the\nhauling away of the Queen, as though she were a big cargo\ncontainer..."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Okay boys -- take her up!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z slaps the Queen on the butt, and she's winched away on a\ncable composed entirely of ants linked arm in arm like those\nplastic toy monkeys..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "...And Azteca's head pokes through the ground...she hauls\nherself up, and hundreds of ants pour up from the ground,\nwidening the hole..."
+  },
+  {
+   "type": "location",
+   "text": "INT. TOWN CENTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The water is rising...but almost all of the ants have\nescaped...Z clambers up the mound, as the scaffolding of ants\nrolls up from the bottom....\nAnd the rushing water finally wears down the earthen core of\nthe structure.  As Z hauls himself through the hole in the\nceiling.\nThe entire structure collapses into the angry waters below,\nwhich seem furious to have missed their prey..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ANT MOUND - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "WORKER",
+   "text": "He did it!  Z!  Z!  Z!  Z!  Z!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The \"Z\" cheer goes up, with everyone joining in.  But the\njubilation is short-lived, for, appearing on the ridge,\nsurrounding the workers, is FORMICA'S ARMY, circling the mass\nof workers, backing them in towards the roiling water behind\nthem.  Formica himself appears in the front lines, with\nCarpenter and Mandible at his side."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Z.  I should have known.  All that\nwork, all that preparation, come to\nnothing.  All because of one stinking\nant."
+  },
+  {
+   "type": "stage direction",
+   "text": "He steps forward to address the surrounded, trapped workers."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "ALRIGHT.  WHICH ONE OF YOU IS Z?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers, trembling but silent, cower inside the unbroken\ncircle of soldiers."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "WHAT ARE YOU, DEAF?  I ASKED YOU,\nWHERE'S Z?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica laughs, shaking his head."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Folks, you may have survived that\nflood, but there's"
+  },
+  {
+   "type": "stage direction",
+   "text": "no way\nyou're"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "gonna escape from"
+  },
+  {
+   "type": "stage direction",
+   "text": "me\n.  I'll make you"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "a deal.  Hand over the rebel leader\nZ, and you survive."
+  },
+  {
+   "type": "stage direction",
+   "text": "This sends a ripple of murmurs through the workers."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "But if you don't hand him over,\nyou're"
+  },
+  {
+   "type": "stage direction",
+   "text": "all\ngoing to die, each and"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "every single...\"individual\" one of\nyou."
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers all look at each other."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "What shall it be, workers?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The workers remain frightened but silent.  Z trembles,\nterrified."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Have it your way."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Formica raises his swagger stick to order the attack, a\nlone figure steps out from the crowd."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Wait..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z stands there, shivering with fear."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "...I'm Z."
+  },
+  {
+   "type": "stage direction",
+   "text": "For a moment, Z stands alone, under the glare of Formica's\ngaze.\nThen another figure steps out from the throng of workers."
+  },
+  {
+   "type": "speech",
+   "character": "WEAVER",
+   "text": "No,"
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm\nZ.\nZ turns, astonished, to see Weaver, still and unwavering,\nbravely risking his life for his friend.  Then, AZTECA also\nsteps forward."
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm\nZ!\nNext, Bala comes forward."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "No,"
+  },
+  {
+   "type": "stage direction",
+   "text": "I'm\nZ.\nMore and more ants step forward."
+  },
+  {
+   "type": "speech",
+   "character": "WORKERS",
+   "text": "I'm Z!  I'm Z!  I'm Z and so is my\nbrother!  I've been Z for weeks now!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(regally)\nWe\nare Z.\nNow, the workers are all shouting the same declaration."
+  },
+  {
+   "type": "speech",
+   "character": "ALL",
+   "text": "I am Z!  I am Z!  I am Z!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z is plainly flabbergasted.  Formica is outraged.  He gives\nthe signal."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "ATTACK!"
+  },
+  {
+   "type": "stage direction",
+   "text": "The army swells forward on all sides, pushing the workers\ntowards the swirling water.  Some workers surround the Queen\nto protect her.  All seems lost, when THE FLY from Insectopia\nalights on the rim of the horizon."
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Hey, guys!"
+  },
+  {
+   "type": "stage direction",
+   "text": "THE WASP appears on the other side of the horizon."
+  },
+  {
+   "type": "speech",
+   "character": "WASP",
+   "text": "It's them!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly, on all sides, A MASSIVE INSECT ARMY appears on the\nridge, looking not unlike ambushing Indians in a John Ford\nfilm.  Formica's soldiers stop in their tracks, awed by the\nunfolding spectacle.  It looks like all of Insectopia has\nturned out: spiders, caterpillars, rhinoceros beetles, all\nmanner of creatures crawling and flying have shown up, and\nnow surround the army, dwarfing them."
+  },
+  {
+   "type": "speech",
+   "character": "WASP",
+   "text": "Are these hooligans giving you\ntrouble, Z?"
+  },
+  {
+   "type": "speech",
+   "character": "FLY",
+   "text": "Say the word, Z, and we kick their\nbutts."
+  },
+  {
+   "type": "stage direction",
+   "text": "The ant army remains frozen, unsure of what to do next.\nFormica is furious.  If ants had veins, Formica's would be\nbulging out of his face."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "What are you doing?!  ATTACK!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(berating his army)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Come on, you yellow-bellies!"
+  },
+  {
+   "type": "stage direction",
+   "text": "(turning on Carpenter)"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Don't just stand there, Carpenter!\nMake an example of yourself!"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Uh, actually, we"
+  },
+  {
+   "type": "stage direction",
+   "text": "are\noutnumbered"
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "sir..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica turns towards the insects gathered against him.  With\nhis chin raised pridefully, Formica steps forward, and\nCHARGES Z!"
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "AHHHHHHH!!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica runs so quickly and with such force that his helmet\nblows off his head.  Z's eyes get big, he stumbles backwards,\nslipping, and Formica goes flying over him, toward the\nwhirlpool behind.  He scrabbles at the edge of the water, and\nthen tumbles over.\nFor a moment, it looks as if he's gone."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA (O.S.)",
+   "text": "Help...help me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Z goes to the edge of the precipice and looks over.  Formica\nis struggling in the waters of the very flood he created,\nwhich are roiling not far below.  He looks up into Z's eyes,\na new expression crossing his features: fear."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "Please...I...I can't swim...Help me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica goes under for a bit, then his head comes up again --\nbut he's not going to be able to stay afloat for long...\nSuddenly he sees a line dropped down.  Above, Z looks down on\nhim."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I thought you said that the life of\none ant doesn't matter."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica looks at the line...and in that moment seems to\nrealize his error..."
+  },
+  {
+   "type": "speech",
+   "character": "FORMICA",
+   "text": "I guess it does...to the ant."
+  },
+  {
+   "type": "stage direction",
+   "text": "Formica reaches up and takes the line, and is pulled up by Z\nand a bunch of other ants (the line, we see, extends from a\nnearby spider, one of the cavalry from Insectopia).\nFormica is left, broken and alone, by the precipice, while\nHORDES OF ANTS surround Z to congratulate him.  Bala fights\nher way to his side and the two of them embrace.  Then the\nants pick up Z and Bala, and, CHEERING, bear them away.\nOnly Carpenter stays behind.  He walks up to Formica,\ncarrying his dented and dusty helmet.  He cleans it the best\nhe can with his jacket sleeve and hands it to his fallen\ngeneral."
+  },
+  {
+   "type": "speech",
+   "character": "CARPENTER",
+   "text": "Sir, if it's any consolation, I still\nthink you're completely worthless as\nan individual."
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE TO:\nCLOSE UP OF Z\nAs he addresses the audience, stand-up style."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "So, uh, that's pretty much it.  Just\nyour basic \"simple worker overthrows\nthe government and winds up with the\nprincess\" kind of a story.\nYou know: there was the big parade\nand everything..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. TOWN CENTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "A HUGE ASSEMBLY OF ANTS applauds as Z who is given a medal by\nthe Queen.\nCUT TO:\nGENERAL FORMICA'S FACE, looking extremely dispeptic."
+  },
+  {
+   "type": "speech",
+   "character": "Z (V.O.)",
+   "text": "General Formica was almost\nunemployable.  He eventually got a\ngig as a honeydew keg."
+  },
+  {
+   "type": "stage direction",
+   "text": "PULL BACK TO REVEAL Formica clinging to a wall, his belly\nhideously distended with honeydew."
+  },
+  {
+   "type": "speech",
+   "character": "Z (V.O.)",
+   "text": "The Queen asked me to take over his\njob, but I said \"Sorry, but I'm\nreally not the general type.  I'm\nmore the specific type.\"  So they\ngave the job to Weaver instead."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:\nWEAVER, in Formica's old office, in a general's uniform, his\nfeet up on Formica's desk, smoking a cigar.  Carpenter is on\nhis hands and knees scrubbing the floor."
+  },
+  {
+   "type": "speech",
+   "character": "Z (V.O.)",
+   "text": "Weaver cut the defense budget in\nhalf.  Now we only have an army of\nfive million."
+  },
+  {
+   "type": "stage direction",
+   "text": "cut back to\nZ, ADDRESSING THE AUDIENCE."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "And me, I guess you could say that I\nlived happily ever after."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bala enters the frame, embraces and kisses him."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "I mean, I've got the whole package,\nright?  A great life, a beautiful\nwife, and a few kids."
+  },
+  {
+   "type": "speech",
+   "character": "BALA",
+   "text": "A"
+  },
+  {
+   "type": "stage direction",
+   "text": "few\nWE PULL BACK TO REVEAL"
+  },
+  {
+   "type": "location",
+   "text": "INT. Z'S HOUSE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Z and Bala stand in the midst of their living room, up to\ntheir knees in THOUSANDS OF CHILD ANTS.  The children cover\nevery horizontal surface.  They run around, cry, laugh, and\ntease each other.  Z looks around the room, looks back at us,\nand shrugs."
+  },
+  {
+   "type": "speech",
+   "character": "Z",
+   "text": "Well, so nothing's perfect.  But you\nknow?  I wouldn't change a thing."
+  },
+  {
+   "type": "stage direction",
+   "text": "The camera pulls up...and away from the ground...to reveal\nthat this whole story has been taking place in a small area\nof CENTRAL PARK.  We pull back and back, and see all the\nfamiliar landmarks from the story: the bike path, the\ndrinking fountain, etc.  We tilt up into the NEW YORK\nSKYLINE.  BIG MUSICAL FLOURISH.\nFADE OUT.\nTHE END"
+  }
+ ]
+}
