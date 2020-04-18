@@ -15,16 +15,13 @@ def add_character_speech(json_file, dictionary):
             if '(' in character_name and ')' in character_name:
                 start_index = character_name.find('(')
                 end_index = character_name.find(')')
-                character_name = character_name[:start_index-1]
+                character_name = character_name[:start_index - 1]
 
             if character_name not in dictionary:
                 dictionary[character_name] = word_tokenize(block['text'])
             else:
                 dictionary[character_name] = dictionary[character_name] + word_tokenize(block['text'])
 
-
-# with open("json-scripts/antz-JSON") as f:
-#     data = json.load(f)
 
 speech_by_character = {}
 
@@ -37,4 +34,19 @@ for subdir, dirs, files in os.walk('json-scripts'):
 for character in speech_by_character:
     print(character)
 
-print(speech_by_character['deckard'])
+#print(speech_by_character['deckard'])
+
+# adding protagonist speech
+good_speech = []
+good_speech.append(speech_by_character['deckard'])
+good_speech.append(speech_by_character['z'])
+good_speech.append(speech_by_character['bourne'])
+good_speech.append(speech_by_character['steve'])
+good_speech.append(speech_by_character['lydia'])
+
+# adding antagonist speech
+bad_speech = []
+bad_speech.append(speech_by_character['betelgeuse'])
+bad_speech.append(speech_by_character['mandible'])
+bad_speech.append(speech_by_character['roth'])
+bad_speech.append(speech_by_character['batty'])
