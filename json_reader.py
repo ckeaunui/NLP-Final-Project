@@ -19,9 +19,15 @@ def removePunctuation(wordFile):
     return content
 
 
-def stemWords(wordFile):
-    stemmer = PorterStemmer()
-    content = [stemmer.stem(w) for w in wordFile]
+# def stemWords(wordFile):
+#     stemmer = PorterStemmer()
+#     content = [stemmer.stem(w) for w in wordFile]
+#     return content
+
+
+def lemmatizeWords(wordFile):
+    lemmatizer = WordNetLemmatizer()
+    content = [lemmatizer.lemmatize(w) for w in wordFile]
     return content
 
 
@@ -29,7 +35,7 @@ def prepareText(wordFile):
     wordFile = removeStopWords(wordFile)
     wordFile = removePunctuation(wordFile)
     wordFile = np.char.lower(wordFile)
-    wordFile = stemWords(wordFile)
+    wordFile = lemmatizeWords(wordFile)
     return wordFile
 
 
@@ -81,4 +87,4 @@ bad_speech.append(prepareText(speech_by_character['roth']))
 bad_speech.append(prepareText(speech_by_character['batty']))
 bad_speech.append(prepareText(speech_by_character['conklin']))
 
-print("Deckard speech (stopwords, punctuation removed, lowercase, words stemmed): " + str(good_speech[0]))
+print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech[0]))
