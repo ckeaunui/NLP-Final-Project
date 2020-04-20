@@ -19,10 +19,17 @@ def removePunctuation(wordFile):
     return content
 
 
+def stemWords(wordFile):
+    stemmer = PorterStemmer()
+    content = [stemmer.stem(w) for w in wordFile]
+    return content
+
+
 def prepareText(wordFile):
     wordFile = removeStopWords(wordFile)
     wordFile = removePunctuation(wordFile)
     wordFile = np.char.lower(wordFile)
+    wordFile = stemWords(wordFile)
     return wordFile
 
 
@@ -37,7 +44,6 @@ def add_character_speech(json_file, dictionary):
 
             if '(' in character_name and ')' in character_name:
                 start_index = character_name.find('(')
-                end_index = character_name.find(')')
                 character_name = character_name[:start_index - 1]
 
             if character_name not in dictionary:
@@ -75,4 +81,4 @@ bad_speech.append(prepareText(speech_by_character['roth']))
 bad_speech.append(prepareText(speech_by_character['batty']))
 bad_speech.append(prepareText(speech_by_character['conklin']))
 
-print("Deckard speech (stopwords, punctuation removed, lowercase): " + str(good_speech[0]))
+print("Deckard speech (stopwords, punctuation removed, lowercase, words stemmed): " + str(good_speech[0]))
