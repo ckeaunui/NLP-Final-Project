@@ -97,6 +97,11 @@ good_speech.append(prepareText(speech_by_character['z']))
 good_speech.append(prepareText(speech_by_character['bourne']))
 good_speech.append(prepareText(speech_by_character['steve']))
 good_speech.append(prepareText(speech_by_character['lydia']))
+good_speech.append(prepareText(speech_by_character['somerset']))
+good_speech.append(prepareText(speech_by_character['mills']))
+good_speech.append(prepareText(speech_by_character['red']))
+good_speech.append(prepareText(speech_by_character['andy']))
+good_speech.append(prepareText(speech_by_character['truman']))
 
 # adding antagonist speech
 bad_speech = []
@@ -105,8 +110,14 @@ bad_speech.append(prepareText(speech_by_character['mandible']))
 bad_speech.append(prepareText(speech_by_character['roth']))
 bad_speech.append(prepareText(speech_by_character['batty']))
 bad_speech.append(prepareText(speech_by_character['conklin']))
+bad_speech.append(prepareText(speech_by_character['john doe']))
+bad_speech.append(prepareText(speech_by_character['norton']))
+bad_speech.append(prepareText(speech_by_character['bogs']))
+bad_speech.append(prepareText(speech_by_character['travis']))
+bad_speech.append(prepareText(speech_by_character['christof']))
 
 print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech[0]))
+print("TRAVIS: " + str(bad_speech[len(bad_speech)-1]))
 
 # this is what makes the CSV file!
 # takes both lists and adds them to CSV in randomized order
