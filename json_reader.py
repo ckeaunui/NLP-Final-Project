@@ -1,7 +1,9 @@
 import json
 import os
+import csv
 import numpy as np
 from nltk import *
+import random
 import nltk
 import random
 from nltk.corpus import PlaintextCorpusReader
@@ -58,6 +60,23 @@ def add_character_speech(json_file, dictionary):
                 dictionary[character_name] = dictionary[character_name] + word_tokenize(block['text'])
 
 
+def make_csv(good_speech, bad_speech):
+    row_list = []
+
+    for dialogue in good_speech:
+        row_list.append([" ".join(dialogue), 0])
+
+    for dialogue in bad_speech:
+        row_list.append([" ".join(dialogue), 1])
+
+    random.shuffle(row_list)
+
+    with open('dialogue_data.csv', 'w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["text", "character role"])
+        writer.writerows(row_list)
+
+
 speech_by_character = {}
 
 for subdir, dirs, files in os.walk('json-scripts'):
@@ -88,3 +107,7 @@ bad_speech.append(prepareText(speech_by_character['batty']))
 bad_speech.append(prepareText(speech_by_character['conklin']))
 
 print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech[0]))
+
+# this is what makes the CSV file!
+# takes both lists and adds them to CSV in randomized order
+make_csv(good_speech, bad_speech)
