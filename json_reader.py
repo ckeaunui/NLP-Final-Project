@@ -63,17 +63,19 @@ def add_character_speech(json_file, dictionary, name):
 def make_csv(good_speech, bad_speech):
     row_list = []
 
-    for dialogue in good_speech:
-        row_list.append([" ".join(dialogue), 0])
+    for character in good_speech:
+        dialogue = good_speech[character]
+        row_list.append([character, " ".join(dialogue), 0])
 
-    for dialogue in bad_speech:
-        row_list.append([" ".join(dialogue), 1])
+    for character in bad_speech:
+        dialogue = bad_speech[character]
+        row_list.append([character, " ".join(dialogue), 1])
 
     random.shuffle(row_list)
 
     with open('dialogue_data.csv', 'w', newline='') as file:
         writer = csv.writer(file)
-        writer.writerow(["text", "character role"])
+        writer.writerow(["character name", "text", "character role"])
         writer.writerows(row_list)
 
 
@@ -95,34 +97,34 @@ for film in speech_by_character:
 print("Deckard speech: " + str(speech_by_character['blade-runner']['deckard']))
 
 # adding protagonist speech
-good_speech = []
-good_speech.append(prepareText(speech_by_character['blade-runner']['deckard']))
-good_speech.append(prepareText(speech_by_character['antz']['z']))
-good_speech.append(prepareText(speech_by_character['bourne-identity']['bourne']))
-good_speech.append(prepareText(speech_by_character['independence-day']['steve']))
-good_speech.append(prepareText(speech_by_character['beetlejuice']['lydia']))
-good_speech.append(prepareText(speech_by_character['seven']['somerset']))
-good_speech.append(prepareText(speech_by_character['seven']['mills']))
-good_speech.append(prepareText(speech_by_character['shawshank-redemption']['red']))
-good_speech.append(prepareText(speech_by_character['shawshank-redemption']['andy']))
-good_speech.append(prepareText(speech_by_character['truman-show']['truman']))
-good_speech.append(prepareText(speech_by_character['alien']['ripley']))
+good_speech = {}
+good_speech['deckard'] = (speech_by_character['blade-runner']['deckard'])
+good_speech['z'] = (speech_by_character['antz']['z'])
+good_speech['bourne'] = (speech_by_character['bourne-identity']['bourne'])
+good_speech['steve'] = (speech_by_character['independence-day']['steve'])
+good_speech['lydia'] = (speech_by_character['beetlejuice']['lydia'])
+good_speech['somerset'] = (speech_by_character['seven']['somerset'])
+good_speech['mills'] = (speech_by_character['seven']['mills'])
+good_speech['red'] = (speech_by_character['shawshank-redemption']['red'])
+good_speech['andy'] = (speech_by_character['shawshank-redemption']['andy'])
+good_speech['truman'] = (speech_by_character['truman-show']['truman'])
+good_speech['ripley'] = (speech_by_character['alien']['ripley'])
 
 # adding antagonist speech
-bad_speech = []
-bad_speech.append(prepareText(speech_by_character['beetlejuice']['betelgeuse']))
-bad_speech.append(prepareText(speech_by_character['antz']['mandible']))
-bad_speech.append(prepareText(speech_by_character['godfather-2']['roth']))
-bad_speech.append(prepareText(speech_by_character['blade-runner']['batty']))
-bad_speech.append(prepareText(speech_by_character['bourne-identity']['conklin']))
-bad_speech.append(prepareText(speech_by_character['seven']['john doe']))
-bad_speech.append(prepareText(speech_by_character['shawshank-redemption']['norton']))
-bad_speech.append(prepareText(speech_by_character['shawshank-redemption']['bogs']))
-bad_speech.append(prepareText(speech_by_character['taxi-driver']['travis']))
-bad_speech.append(prepareText(speech_by_character['truman-show']['christof']))
+bad_speech = {}
+bad_speech['betelgeuse'] = (speech_by_character['beetlejuice']['betelgeuse'])
+bad_speech['mandible'] = (speech_by_character['antz']['mandible'])
+bad_speech['roth'] = (speech_by_character['godfather-2']['roth'])
+bad_speech['batty'] = (speech_by_character['blade-runner']['batty'])
+bad_speech['conklin'] = (speech_by_character['bourne-identity']['conklin'])
+bad_speech['john doe'] = (speech_by_character['seven']['john doe'])
+bad_speech['norton'] = (speech_by_character['shawshank-redemption']['norton'])
+bad_speech['bogs'] = (speech_by_character['shawshank-redemption']['bogs'])
+bad_speech['travis'] = (speech_by_character['taxi-driver']['travis'])
+bad_speech['christof'] = (speech_by_character['truman-show']['christof'])
 
-print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech[0]))
-print("TRAVIS: " + str(bad_speech[len(bad_speech)-2]))
+print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech['deckard']))
+print("TRAVIS: " + str(bad_speech['travis']))
 
 # this is what makes the CSV file!
 # takes both lists and adds them to CSV in randomized order
