@@ -1,0 +1,5666 @@
+{
+ "movie_url": "http://www.dailyscript.com/scripts/the-man-who-wasn't-there.html",
+ "movie_title": "The Man Who Wasn't There",
+ "movie_year": "2001",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "\"THE MAN WHO WASN'T THERE\"\nBY\nEthan Coen & Joel Coen"
+  },
+  {
+   "type": "stage direction",
+   "text": "Black."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Yeah, I worked in a barbershop. But\nI never considered myself a barber..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We track back from a barber's pole."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I stumbled into it--well, married\ninto it more precisely..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We track back from a shopkeeper's bell triggered by an opening\ndoor. The pull back and tilt down show the top of the head\nof a customer entering in slow motion."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I wasn't my establishment. Like\nthe fella says, I only work here..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We track along a shelf backed by a mirror and holding pomade,\naftershave, hair tonic, a whisk brush."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...The dump was 200 feet square,\nwith five chairs, or stations as we\ncall 'em, even though there were\nonly two of us working..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We track in on a big man in a barber's smock scissoring across\na lock of hair that he pulls taut between two fingers of one\nhand. In slow motion, he laughs and chats."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Frank Raffo, my brother-in-law,\nwas the principal barber. And man,\ncould he talk..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another man in a barber's smock is running electric clippers\nacross a child's head. A cigarette between his lips."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Now maybe if you're eleven or\ntwelve years old, Frank's got an\ninteresting point of view, but\nsometimes it got on my nerves. Not\nthat I'd complain, mind you. Like I\nsaid, he was the principal barber.\nFrank's father August--they called\nhim Guzzi--had worked the heads up\nin Santa Rosa for thirty-five years\nuntil his ticker stopped in the middle\nof a Junior Flat Top. He left the\nshop to Frankie free and clear. And\nthat seemed to satisfy all of Frank's\nambitions: cutting the hair and\nchewing the fat. Me, I don't talk\nmuch..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He plucks the cigarette from his mouth and taps its ash into\na tray."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I just cut the hair..."
+  },
+  {
+   "type": "stage direction",
+   "text": "LATE IN THE DAY\nThe barbershop is empty of customers. Late sun slants in\nthrough the front window. The two barbers--the narrator and\nhis brother-in-law--sit in two of the barber chairs, idly\nreading magazines."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Says here that the Russians exploded\nn A-bomb and there's not a damn thing\nwe can do about it."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "How d'ya like them apples?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Beat."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...Ed?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Russians exploded an A-bomb."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "(shaking his head)"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Jesus..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Now, being a barber is a lot like\nbeing a barman or a soda-jerk; there's\nnot much to it once you've learned\nthe basic moves. For the kids there's\nthe Butch, or the Heinie..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We cut to examples of the haircuts as they are ticked off:"
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...the Flat Top, the Ivy, the Crew,\nthe Vanguard, the Junior Contour\nand, occasionally, the Executive\nContour. Adults get variations on\nthe same, along with the Duck Butt,\nthe Timberline..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed trims the fringe around a balding head."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and something we call the Alpine\nRope Toss."
+  },
+  {
+   "type": "stage direction",
+   "text": "He snips one long lonely strand of hair and carefully drapes\nit across a bald pate."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I lived in a little bungalow on\nNapa Street. The place was OK, I\nguess; it had an electric ice box,\ngas hearth, and a garbage grinder\nbuild into the sink. You might say I\nhad it made."
+  },
+  {
+   "type": "stage direction",
+   "text": "We float slowly toward a white bungalow on a quiet street as\na black coupe pulls into the driveway."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Oh yeah. There was one other\nthing..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We track in through a bedroom door to discover a woman putting\non a girdle."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Doris kept the books at\nNirdlinger's, a small department\nstore on Main Street. Unlike me,\nDoris liked the work, accounting;\nshe liked knowing where everything\nstood. And she got a ten per cent\nemployee discount on whatever she\nwanted--nylon stockings..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Close on her legs as she rolls up a stocking and clips it to\nthe garter."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...make-up, and perfume..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Close on an atomiser misting her bosom with Jungle Gardenia\nby Tuvache."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...She wore a lot of perfume."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris in a flouncy dress is setting coasters on a coffee\ntable."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Doris's boss, Big Dave Brewster,\nwas married to Ann Nirdlinger, the\ndepartment store heiress. Tonight\nthey were coming over for dinner--as\nDoris said, we were 'entertaining'..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sits on the living-room davenport in an uncomfortable\nsuit, smoking."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Me, I don't like entertaining."
+  },
+  {
+   "type": "stage direction",
+   "text": "The doorbell rings.\nTHE DOOR\nEd opens it to reveal a large man in a suit and his demure,\nbird-like wife."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "How ya doin', Ed?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "OK. Take your coat, Ann?"
+  },
+  {
+   "type": "stage direction",
+   "text": "DINNER TABLE\nThe two couples are in the middle of the meal."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Japs had us pinned down in Buna for\nsomething like six weeks. Well, I\ngotta tell ya, I thought *we* had it\ntough, but, Jesus, we had supply.\n*They* were eating grubs, nuts,\nthistles. When we finally up and\nbust off the beach we found Arnie\nBragg, kid missing on recon; the\nJaps had *eaten* the sonofabitch, if\nyou'll pardon the, uh... And this\nwas a scrawny, pimply kid too, nothin'\nto write home about. I mean, I never\nwould've, ya know, so what do I say,\nhoney? When I don't like dinner,\nwhat do I say?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ann smiles wanly."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I say, Jesus, honey, Arnie Bragg--\n*again*?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He roars with laughter.\nEd gives an acknowledging smile."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Arnie Bragg--*again*?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He dries his eyes with the corner of a napkin."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Were you in the service, Ed?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No, Dave, I wasn't."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Ed was 4F on account of his fallen\narches."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Mm, that's tough."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRONT PORCH\nEd is standing alone on the porch, watching the sun go down.\nCrickets chirp. From inside the house we hear laughter and\nclattering dishes."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Yeah... I guess Doris liked all\nthat he-man stuff. Sometimes I had\nthe feeling that she and Big Dave\nwere a lot closer than they let on..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He turns and looks through the screen door into the house.\nAcross the dim living room we can see a sliver of the brightly\nlit kitchen. Big Dave, wearing a frilly apron, stands at the\ncounter drying dishes. His broad back heaves with laughter\nwhile Doris, just hidden by the wall, chats away, handing\ndishes across."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...The signs were all there plain\nenough--not that I was gonna prance\nabout it, mind you. It's a free\ncountry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Footsteps approach the front porch.\nWith the squeak of the screen door, Big Dave emerges."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Holding down the porch area?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed gives a half-grin of wry acknowledgement. Big Dave relaxes,\nforearms against the porch railing, gazing out at the front\nlawn."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...That's quite a wife you got there."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Mm."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "She's a rare one."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "How's business, Dave?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Couldn't be better. These're boom\ntimes in retailing. We're opening\nanother store, Big Dave's Annex,\nthere on Garson. This is strictly\nhaberdashery--casual wear, pyjamas,\nladies' foundations and undergarments.\nMatter of fact, I'm thinking of making\nDoris the comptroller. How're things\nat the, uh, the barbershop?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "All right, I guess."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Fine. Fine. Well, you might want\nto drop by the Annex when we open,\nupdate your suit--'course, you're in\nthe smock all day."
+  },
+  {
+   "type": "stage direction",
+   "text": "He chuckles."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Say, where do you get those things\nanyway?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Specialty store down in Sacramento."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "stage direction",
+   "text": "There is a silence. At length, gazing out at the lawn, Big\nDave clears his throat.\nCHURCH"
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Doris and I went to church once a\nweek..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We are tilting down a long stained-glass window depicting\nthe resurrection of Christ."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Usually Tuesday night..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Faintly, we hear an amplified voice:"
+  },
+  {
+   "type": "speech",
+   "character": "CALLER",
+   "text": "I... seven..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sits at a long table, staring at the window, a lit\ncigarette in his mouth."
+  },
+  {
+   "type": "speech",
+   "character": "CALLER",
+   "text": "...Bee... Four..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Doris wasn't big on divine worship..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris is concentrating on the six cards spread in front of\nher."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and I doubt if she believed in\nlife everlasting; she'd most likely\ntell you that our reward is on this\nearth and bingo is probably the extent\nof it..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Still focused on her cards, Doris mutters to Ed:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Watch your card, honey."
+  },
+  {
+   "type": "speech",
+   "character": "CALLER",
+   "text": "I... sixteen..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed continues to gaze off at the window, smoke pluming from\nhis cigarette."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I wasn't crazy about the game, but,\nI don't know, it made her happy, and\nI found the setting peaceful."
+  },
+  {
+   "type": "speech",
+   "character": "CALLER",
+   "text": "Gee... nine..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris sucks in her breath."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Jesus, bingo--BINGO!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nSun slants in through the big window at the end of the day.\nEd sweeps hair trimmings, looking intently down at the floor,\na cigarette dangling from his lip. Frank sits on one of the\nvinyl waiting chairs, talking at Ed's back."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...so you tie your own flies, Ed. I\nmean, if you're really serious. You\ntie your own flies, you do a--I know\nit's matickless, I know, people say,\nhey, you can buy flies at the store--\nbut you can buy your fish at the\nstore, Ed, you see what I'm saying?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "The point is there's a certain art\nto the process. The point is not\nmerely to provide, and let me point\nout, these fish are not as dumb as\nyou might think."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Sportsmanship! That's my point. June\nfly, Ed? Mosquito? Which of these?\nWell, what fish do you seek?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Sure, go to the store. Go there,\ndescribe to the man where you will\nbe fishing, and for what, and the\nweather conditions, sun, no sun,\nwhatnot, and so forth, and then you\nmight as well have the man go ahead\nand sell you the goddamn FISH, Ed..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We see a black-suited figure approaching through the windows\nat the far end of the shop. He is almost blown out by the\nlate-day sunlight hitting the window."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...My point is, this is a man who\nknows nothing no matter how much you\ntell him, so sell him the goddamn\nFISH, Ed."
+  },
+  {
+   "type": "stage direction",
+   "text": "The bell over the front door tinkles, and the swarthy middle-\naged man walks in. He is well dressed--perhaps a little too\nsnazzily for this small town--and has a sporty pencil\nmustache."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "OK, boys, which of you gets the\nprivilege?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "We're just closing, friend."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Oh, happy days! I wish I was doing\nwell enough to turn away business!\nMore power to ya, brother! The public\nbe damned!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Hey, what's your problem, friend?\nThis is a business establishment\nwith posted hours--"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed cuts in with a jerk of the head."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'll take care of him, go ahead,\nFrank. Have a seat, mister."
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank looks sourly at the stranger."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...You sure, Eddie?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah, yeah--go home."
+  },
+  {
+   "type": "stage direction",
+   "text": "As Frank leaves:"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "In your ear, mister."
+  },
+  {
+   "type": "stage direction",
+   "text": "The stranger chuckles."
+  },
+  {
+   "type": "speech",
+   "character": "STRANGER",
+   "text": "Oh, those fiery Mediterraneans. Say!\nNot so fast there, brother--"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed has switched on the clippers, but the stranger waves him\nback; he lifts off a toupee."
+  },
+  {
+   "type": "speech",
+   "character": "STRANGER",
+   "text": "...Pretty good, huh? Fools even the\nexperts. 100 percent human hair,\nhandcrafted by Jacques of San\nFrancisco, and I'd hate to have to\ntell you what I paid for it."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "STRANGER",
+   "text": "Yes, it's a nice rug. I'm paying for\nit down on the installment plan..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed starts to trim the stranger's fringe."
+  },
+  {
+   "type": "speech",
+   "character": "STRANGER",
+   "text": "...A lot of folks live with the pate\nexposed. They say the dames think\nit's sexy. But for my money it's\njust not good grooming--and grooming,\nmy friend, is probably the most\nimportant thing in business--after\npersonality, of course..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He twists around to offer his hand."
+  },
+  {
+   "type": "speech",
+   "character": "STRANGER",
+   "text": "...Creighton Tolliver, pleased to\nknow ya."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ed Crane. What brings you to Santa\nRosa?"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "A goose, friend. I was chasing a\nwild goose. Ed, have you ever heard\nof venture capital?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh--"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Well, it's the wildest goose there\nis. Risk money. Very speculative.\nExcept, Ed, in certain situations,\nit's not, see? I thought I had a\nprospect here. Well, I make the haul\nup and this lousy so-and-so tells me\nhis situation has changed--all his\ncapital's gonna be tied up in\nexpansion plans of his own. Thank\nyou, mother! Pop goes another bubble!\nIt's only the biggest business\nopportunity since Henry Ford and I\ncan't seem to interest a soul!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That right."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "It's called dry cleaning. You heard\nme right, brother, 'dry cleaning'--\nwash without water, no suds, no\ntumble, no stress on the clothes.\nIt's all done with chemicals, friend,\nand your garments end up crisp and\nfresh. And here's the capper: no\nshrinkage."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Huh."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "That's right! Dry cleaning--remember\nthe name. It's going to revolutionize\nthe laundry industry, and those that\nget in early are gonna bear the fruit\naway. All I need is $10,000 to open\nmy first store, then I use its cash\nflow to finance another, and so on--\nleap frog, bootstrap myself a whole\nchain. Well, me and a partner.\nCleanliness, friend. There's money\nin it. There's a future. There's\nroom to grow... Say, that's looking\npretty good. Let's see it with the\nhairpiece on..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BATHROOM DOORWAY\nIt is evening. Ed leans against the bathroom doorjamb\ncontemplatively off, hands thrust into his pockets, a\ncigarette between his lips pluming smoke."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Dry cleaning..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The reverse show Doris soaking in the tub, reading a magazine."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Was I crazy to be thinking about\nit? Was he a huckster, or opportunity,\nthe real McCoy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed takes the cigarette from his mouth, exhales."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...My first instinct was, no, no,\nthe whole idea was nuts. But maybe\nthat was the instinct that kept me\nlocked up in the barbershop, nose\nagainst the exit, afraid to try\nturning the knob. What if I could\nget the money?"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Honey?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Mm."
+  },
+  {
+   "type": "stage direction",
+   "text": "She lifts one leg and rests the heel on the rim of the tub."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Shave my legs, will ya?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed saunters over, perches on the tub and puts the cigarette\nback in his mouth to free his hands. He picks up a bar of\nsoap and starts soaping the leg.\nHe sets down the soap and picks up a safety razor.\nThe razor takes long slow strokes along the lather, dark\nbits of hair flecking the white foam."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...It was clean. No water. Chemicals."
+  },
+  {
+   "type": "stage direction",
+   "text": "He shakes the razor in the tub. Shavings float away across\nthe soap-slicked water."
+  },
+  {
+   "type": "stage direction",
+   "text": "(absently, as she\nreads)"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Gimme a drag."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed pulls the cigarette from his mouth between two fingers,\nuses the two fingers to flip it over, and holds it for Doris\nas she sucks.\nHe brings the cigarette, now marked with lipstick, back to\nhis own mouth. She murmurs:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...Love ya, honey."
+  },
+  {
+   "type": "stage direction",
+   "text": "A DOOR\nWe hear a voice, muffled through the door, breaking into\nlaughter.\nA hand enters to knock."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Yeah, come in."
+  },
+  {
+   "type": "stage direction",
+   "text": "The door swings open to show Creighton in his shirtsleeves\nsitting on the bed, talking on the phone. A tray of room-\nservice dishes sits near him.\nHe is bald; his hairpiece sits on the pillow next to him."
+  },
+  {
+   "type": "stage direction",
+   "text": "(into the phone)"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "OK... yeah. I'll see you tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hangs up, looks quizzically at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...Oh, I thought you were the\nporter... Can I help you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed stands awkwardly by the door."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I'm, uh, Ed."
+  },
+  {
+   "type": "stage direction",
+   "text": "The stranger's look does not show recognition."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Ed Crane. Remember? Today?"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Sorry, friend, I, uh, you got me at\na disadvantage."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'm, uh, I'm--the barber."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Jesus! The barber! I'll be a\nsonofagun. Why didn't you say so?\n'Course--the barber."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed nods, his smile faint and forced."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...I didn't recognize you without\nthe smock. Did I--damn--did I leave\nsomething at the shop?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No. I might be interested in that,\nuh, business proposition--"
+  },
+  {
+   "type": "stage direction",
+   "text": "Creighton, surprised, quickly picks up his hairpiece and\narranges it on his head."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "You got the dough?!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I can get it, yeah."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Come in, come in, siddown over there.\nCoffee?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No. I--tell me--"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Sure."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "What's involved, aside from putting\nup the money? What're you looking\nfor the partner to do?"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Do? Hell, nothing. Well, you'll want\nto keep tabs on your investment, of\ncourse, but I'm looking for a silent\npartner. I've done the research,\nI've contacted the vendors, the deal\nis set. I'm just looking for venture\ncapital, friend. Disappear if you\nwant, check in whenever you like--I\nwant the dough; I don't take\nattendance."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "And how do we share--"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Fifty-fifty, straight down the line.\nYou and me. Finance and expertise.\nSo--you've got the dough then, do\nya?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'll have it in a week."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Well, I'll be damned. The barber!\nAnd I thought this trip was a bust.\nWell..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He reaches for a bottle of bonded whiskey on the night stand\nand hands Ed a glass."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...it just goes to show, when one\ndoor slams shut, another one opens.\nHere's to ya, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ed."
+  },
+  {
+   "type": "stage direction",
+   "text": "They both knock back the whiskey. Creighton leans back and\ngives Ed a heavy-lidded stare, a faint smile on his lips,\nhis hairpiece slightly askew.\nEd stares back.\nAfter a beat, without taking his eyes of Ed, Creighton reaches\nup and loosens his tie. An almost imperceptible wink.\nEd stares."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Was that a pass?"
+  },
+  {
+   "type": "stage direction",
+   "text": "(hoarsely)"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Maybe."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "You're out of line, mister."
+  },
+  {
+   "type": "stage direction",
+   "text": "Creighton throws up his hands apologetically."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "No problem!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Way out of line."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Right! Strictly business."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "CLOSE ON TYPEWRITTEN NOTE\nIt says:\nI KNOW ABOUT YOU AND DORIS CRANE.  COOPERATE OR ED CRANE\nWILL KNOW.  YOUR WIFE WILL KNOW. EVERYONE WILL KNOW. GATHER\n$10,000 AND AWAIT INSTRUCTIONS.\nA hand pulls the note out of a typewriter carriage."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I sent it to Dave the next morning.\nAnd I waited."
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nWe are looking down at the top of an eight-year-old's crew\ncut as clippers buzz its perimeter.\nFrank reads a magazine. The youngster reads a comic as Ed\nworks his head."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Frank."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "This hair."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...You ever wonder about it?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Whuddya mean?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't know... How it keeps on\ncoming. It just keeps growing."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yeah--lucky for us, huh, pal?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No, I mean it's growing, it's part\nof us. And we cut it off. And throw\nit away."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Come on, Eddie, you're gonna scare\nthe kid."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed shuts off the clippers and give the apron a flap."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "OK, bud, you're through."
+  },
+  {
+   "type": "stage direction",
+   "text": "The kid hops down, still reading his comic, and ambles out\nthe door. Ed gives Frank a considering stare."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I'm gonna take his hair and throw\nit out in the dirt."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What the--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'm gonna mingle it with common house\ndirt."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What the hell are you talking about?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed turns back to the counter to hang up his clippers."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't know. Skip it."
+  },
+  {
+   "type": "location",
+   "text": "EXT. ED'S HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is twilight. Ed lifts the latch on the front gate and,\ncigarette in his mouth, heads up the walk.\nMusic filters out from the house."
+  },
+  {
+   "type": "location",
+   "text": "INT. ED'S HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed walks though the living room, hands in his pockets. The\nmusic emanates from a radio in the bedroom."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Ed?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A track forward reveals Doris sitting at a vanity, doing her\nhair. Her dress is half zipped at the back."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...Gimme a zip."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed walks over behind her."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Where you going?"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Me? Us! The party at Nirdlinger's--I\ntold you last week, for the Christmas\nPush."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah, right."
+  },
+  {
+   "type": "stage direction",
+   "text": "We are close on the zipper as Ed's hand takes the tab, pauses,\nthe lowers it slightly. Her back blooms through the dark\nfabric of the dress.\nHe slides the zipper up, and Doris reaches for a perfume\natomizer."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Come on, get ready. It's important."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Nah, go ahead. I'm not big on parties."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Oh, don't be a grump."
+  },
+  {
+   "type": "stage direction",
+   "text": "SALES FLOOR\nIt is festooned with streamers.\nEd leans against a wall, one hand dug into a pocket, the\nother bringing a cigarette to his lips.\nBand music plays and Nirdlinger's employees whirl on the\ndance floor. Bobby-soxed teenagers Lindy-hop and pass palms\nover their knees.\nA thin young man in a sports coat stands next to Ed, watching,\nhis Adam's apple bobbing."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG MAN",
+   "text": "Wild, man!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He goes out onto the dance floor. Ed, left by himself, gazes\nacross the floor.\nHis view, broken by dancers' crosses, shows Big Dave worriedly\ntalking to Doris.\nDoris reacts angrily.\nBig Dave morosely absorbs the angry words from Doris. He\nglances up toward Ed and notices his gaze with consternation.\nHe gives Doris a jerk of the head, and she too looks over."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "You in ladies' wear?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The young man with the Adam's apple is back, looking out at\nthe floor, snapping his fingers."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG MAN",
+   "text": "Haven't I seen you up in ladies'\nwear?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't work here. My wife does."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG MAN",
+   "text": "Uh-huh. Some beat, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG MAN",
+   "text": "Check out the rack on that broad in\nthe angora."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "stage direction",
+   "text": "A hand is laid on Ed's shoulder. It is Big Dave; he leans in\nto murmur:"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Ed. Can I talk to you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "BIG DAVE'S OFFICE\nMusic from the party drifts in only faintly. The office is\nbuilt into a corner of the sales floor. It is dominated by a\nlarge desk. A large window on the far side affords a partial\nview of the floor."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Siddown. Siddown..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sits in a leather chair in front of the desk. Dave fumbles\nnervously on top of the desk for a cigar. He trims the end\nof the cigar with a short double-bladed knife with a steel\ngrip."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Souveniered it off a Jap in New\nGuinea."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hands one cigar to Ed, takes one for himself, then drags\nup a chair to face Ed's."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I guess you're wondering what\nDoris was so hot about."
+  },
+  {
+   "type": "stage direction",
+   "text": "The office is dark, the only illumination coming from the\nwindow onto the bright sales floor behind Big Dave. Ed leans\nforward for Dave to light his cigar."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...These're Havanas. Romeo and\nJuliets. Private stock."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dave, having lit Ed's cigar, draws nervously on his own."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Ed, I..."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "What is it, Dave?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dave breaks down, weeping. He buries his face in his hands,\nthe burning cigar in his right hand perilously close to his\nhair."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Ed, I've been weak..."
+  },
+  {
+   "type": "stage direction",
+   "text": "His shoulders heave."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I've, uh... I've, uh... thanks."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed has taken Dave's cigar so that he won't burn himself."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I've, uh... Oh, Jesus. I've been\ncarrying on with a married woman.\nUh, no one you know. And now the, uh--\nwhat is it they say?--the--the--the\nchickens are coming home to roost."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed awkwardly holds the two burning cigars."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Hell, I, I'm not proud of it. But,\nuh, that's not the worst of it. I\ngot a note. A blackmail note. You\nknow, come across or everybody knows."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Well, you know what that would do to\nme."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I guess it would be pretty awkward."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Awkward?! Ann'd throw me out on my\nkeister! Hell, it's her family's\nstore--*her* store. I serve at the\nindulgence of the goddamn ownership,\nEd."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "I only work here! And the lady's\nhusband would know... Oh, Jesus."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "How much to they want, Dave?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "$10,000! I don't know what to do,\nEd. I don't know what I *can* do.\nEven though I know who the sonofabitch\nis."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...You know... who *who* is?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "The sonofabitch. The blackmailer.\nIt's, uh, it's no one you know. It's\na businessman from Sacramento. A\ngoddamn pansy, Ed. He tried to rope\nme into some crackpot scheme; I heard\nhim out and then told him to go to\nhell. And the very next day, the\nvery next day, Ed, I get blackmailed\nfor the same amount."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Would he... it sounds pretty obvious."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Well, I guess he don't care that\nit's obvious."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Mm. How, uh... how did he know that--"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "He's staying at the hotel I've gone\nto with, uh, with the lady in\nquestion. Must've seen us."
+  },
+  {
+   "type": "stage direction",
+   "text": "Big Dave blows his nose, reaches to take his cigar from Ed."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Thanks..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He exhales with a long sigh."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Oh, Jesus."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Why don't you just pay him, Dave?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "That's my capitalization on the Annex!\n*My* operation, Ed! Christ almighty.\nThat's what I was just talking to\nDoris about, a way of getting the\nmoney from the store that we could\nhide from Ann."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Mm."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Embezzling, Ed. From my own goddamn\nwife!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He give a tearful chuckle."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Doris, she was pretty hot about\nthat. God bless her. She doesn't\nknow I'm telling you this--she's mad\nenough already. But Jesus, Ed, you're\nthe only one I can talk to. I'm, I'm\nsorry I... I better get back to the\nparty."
+  },
+  {
+   "type": "stage direction",
+   "text": "He rises and clears his throat as he rubs the tears from his\nface."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I look all right?"
+  },
+  {
+   "type": "stage direction",
+   "text": "PULLING ED\nHe has left the office to wander through an adjacent room\nlit only by spill from the party. It is the music department;\npianos and spinets are arranged across the floor."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "In a way I felt bad for Big Dave. I\nknew the ten grand was going to pinch\nhim where it hurt..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sits on a piano stool next to a standing ashtray. He takes\nout a cigarette, lights it off his cigar, stubs out the cigar."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...But Doris was two-timing me and I\nguess, somewhere, that pinched a\nlittle too."
+  },
+  {
+   "type": "stage direction",
+   "text": "His attention is caught by a distant knock of wood. Someone\nis raising the key-guard on a piano across the room.\nThe person can only be seen only obscurely, from three-\nquarters behind, through the sales floor's jumble of\nhaphazardly arranged instruments. The person begins to play.\nEd listens. The piece is slow, sweet, almost a lullaby.\nThe player, unaware that there is an audience, plays on, and\nEd listens, eyes narrowed against the smoke curling past his\nface.\nThe piece ends."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That was pretty."
+  },
+  {
+   "type": "stage direction",
+   "text": "The player turns, surprised. It is a young woman."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Did you make that up?"
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WOMAN",
+   "text": "Oh, no. That was written by Mr Ludwig\nvan Beethoven."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed nods recognition of the name."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That was quite something."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WOMAN",
+   "text": "He wrote some beautiful piano sonatas."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That was something. I'm Ed Crane."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WOMAN",
+   "text": "I know who you are, Mr Crane."
+  },
+  {
+   "type": "stage direction",
+   "text": "His look shows surprise."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WOMAN",
+   "text": "...My father used to take me with\nhim when he got his hair cut. Walter\nAbundas?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed's head tilts back in acknowledgment."
+  },
+  {
+   "type": "speech",
+   "character": "YOUNG WOMAN",
+   "text": "...I'm Rachel Abundas. Everyone calls\nme Birdy."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Sorry, I just didn't remember."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Oh, that's all right. You can't be\nexpected to remember every skinny\ngirl who comes in with her dad."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed give a wry smile."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...You don't like the music out there?"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "It's OK, I guess. No, I don't really.\nI'm not big on music, ordinarily."
+  },
+  {
+   "type": "stage direction",
+   "text": "A woman calls sharply from offscreen:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Ed."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks.\nSilhouetted in the doorway to the party room is Doris, coat\nover her arm, purse in hand.\nED'S CAR\nDoris and Ed are driving home.\nDoris draws heavily on a cigarette, looking flintily out at\nthe road."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...What a knucklehead."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Who?"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Dave."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "How's that?"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Ahh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She waves angrily."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...Money problems. He's thinking\nabout canceling the Annex."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "So?"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "*That means I don't run Nirdlinger's!*"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Mm."
+  },
+  {
+   "type": "stage direction",
+   "text": "They ride in silence for a beat. Doris shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...What a knucklehead."
+  },
+  {
+   "type": "stage direction",
+   "text": "STREET\nAs the car roars past and into the distance.\nANOTHER STREET\nIt is day. We are looking from inside a parked car toward a\nhotel entrance. Big Dave emerges from the hotel, gets into a\nPackard and drives off."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Big Dave did it, though..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed, sitting in his car, is watching."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I sent a note telling him where\nto drop the money..."
+  },
+  {
+   "type": "stage direction",
+   "text": "HOTEL HALLWAY\nEd emerges from a stairwell and goes to a standing ashtray\nby the elevator."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and he did. He came across."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed reaches into the trash hole in the ashtray column and\npulls out a Nirdlinger's bag.\nHe goes back to the stairwell.\nANOTHER FLOOR\nEd emerges from the stairwell, goes to a door and knocks.\nThe door swings open."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Yeah, good, how are ya, come in..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed follows him into the room."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...You bring a check?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Cash."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Cash?!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He gives Ed a look."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...Usually we do this kind of thing\nwith a bank draft. But cash--that's\nfine--it's all the same in the end--\ndough's dough, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Sure."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "I got the paperwork here. Partnership\npapers here, they reflect our\nagreement: fifty-fifty on the net, I\nsupply professional services, you\nsupply the capital. I'll give you a\nreceipt on the dough there, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Pretty straightforward, but I don't\nknow if you wanna show this stuff to\na lawyer--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "It's OK."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Yeah, screw 'em, huh? Pay 'em to\ntangle it up and then you pay 'em to\nuntangle it, what's the point?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He perspires as he counts the money."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...Just a second here, I'll give you\na receipt on the, uh... Whoa,\nNellie... Oh, by the way, we didn't\ntalk about this, I, uh, I think I'm\ngonna call the place Tolliver's,\nafter me, you know, I didn't think\nyou were much interested in, uh--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That'll be fine."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Yeah, good. Lemme just, uh..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He wipes his brow, finishes counting."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "...Yeah, that's it. As per our\ndiscussion."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "stage direction",
+   "text": "Creighton hands Ed an executed agreement and a receipt."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "Well, there it is. Writ large in\nlegal escriture, next step is--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Look, uh... Creighton..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He gives Creighton a level stare, smoke pluming from the\ncigarette planted in his mouth."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...You're not gonna screw me on this?"
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "*Screw* you--Jesus! Take it to a\nlawyer! No, I insist! This is *dry*\ncleaning, this is not some fly-by-\nnight thing here! I must say, I've\nbeen an entrepreneur for thirteen\nyears and I've never--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "All right."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "And I've never been asked--Look, you\nwant the dough back? You know who I\nam! You--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "OK."
+  },
+  {
+   "type": "stage direction",
+   "text": "Creighton mops his brow again."
+  },
+  {
+   "type": "speech",
+   "character": "CREIGHTON",
+   "text": "So, uh... Tolliver's is OK then?"
+  },
+  {
+   "type": "stage direction",
+   "text": "CAR\nEd drives with the usual cigarette in his mouth. Doris sits\nnext to him. Rural scenery slips by in the background."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "The next day was Saturday. We were\ngoing to a reception for Doris' cousin\nGina, who'd just married a wop vintner\nout near Modesto. Doris didn't much\nfeel like going, and I didn't either,\nbut, like she said, we had a\nCommitment."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris gazes stonily out at the road. At length:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...I hate wops."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed gives her a brief glance. Doris glares at him."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...What's so damn strange about that?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I didn't say a word."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks back out at the road."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...*You* didn't have to grow up with\n'em."
+  },
+  {
+   "type": "stage direction",
+   "text": "This brings nothing from Ed. Doris shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...Family. Boy."
+  },
+  {
+   "type": "stage direction",
+   "text": "BY A BARN\nWops in Sunday clothing greet each other around tables piled\nwith food.\nA small child runs up to his mother, yanks on her dress and\nscreams:"
+  },
+  {
+   "type": "speech",
+   "character": "CHILD",
+   "text": "He's ridin' Garibaldi! Uncle Frankie's\nridin' Garibaldi!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Surrounded by cheering children, with a jug of wine slung\nover his shoulder, Frank is riding an enormous pig. He slaps\nat the pig's ass with a large straw hat."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "That was when she started drinking."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris is standing by one of the tables, drinking red wine\nfrom a water glass. Ed stands nearby.\nA large woman hugs Doris."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "How you doin', Doris, you been OK?"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "How're you, Constanza?"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Oh, you know, I got my healt'. And\nhow you been, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ed."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Ed. How's a business?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "OK."
+  },
+  {
+   "type": "stage direction",
+   "text": "(to Doris)"
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "He's a barber, right? It's a good\ntrade. So how come you got no kids?"
+  },
+  {
+   "type": "stage direction",
+   "text": "PICNIC TABLE\nA group of kids pulls Frank, laughing, by the hand toward a\npicnic table set out with pies in a row."
+  },
+  {
+   "type": "speech",
+   "character": "VOICES",
+   "text": "Uncle Frankie's gotta join! Wait for\nFrankie!"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "No, come on, kids--I just ate lunch!"
+  },
+  {
+   "type": "speech",
+   "character": "VOICES",
+   "text": "No, no--Uncle Frankie's gotta join!"
+  },
+  {
+   "type": "stage direction",
+   "text": "An old man stands by with a stopwatch."
+  },
+  {
+   "type": "speech",
+   "character": "OLD MAN",
+   "text": "Ready..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He clicks the timer."
+  },
+  {
+   "type": "speech",
+   "character": "OLD MAN",
+   "text": "...Go!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank and the line of children plunge their faces into the\nline of blueberry pies.\nThe other picnickers cheer them on.\nELSEWHERE\nEd and Doris approach the innocent-looking young couple\naccepting congratulations.\nDoris, holding her empty glass, is not a happy drunk:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "'Gratulations, Gina. It's so goddamn\nwonderful."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Congratulations, Gina."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Life is so goddamn wonderful, you\nalmost won't believe it."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Honey..."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "It's just a goddamn bowl of cherries,\nI'm sure."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed tries to lead her away."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Honey..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris calls back over her shoulder:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Congratulations on your goddamn\ncherries!"
+  },
+  {
+   "type": "stage direction",
+   "text": "As Ed and Doris recede we hear her petulant:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...Leggo my goddamn elbow."
+  },
+  {
+   "type": "stage direction",
+   "text": "ELSEWHERE\nIn a long shot we see Frank at the crest of a hill, staggering\nslowly, painfully, toward a tree. In his right hand he\nclutches a trophy.\nWhen he reaches the tree he swings his free hand up against\nit, leans forward, and vomits.\nCAR\nLate afternoon, driving home.\nEd drives. Doris sits in the front passenger seat, snoring\nlightly. Frank sits in the back seat hugging his trophy to\nhis chest, eyes closed, murmuring:"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I never wanna see another blueberry\npie..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Silence."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...I never even wanna hear those\nwords."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris moans.\nMore silence."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...Don't says those words, Ed."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BUNGALOW"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is twilight. Ed's coupe is parked in the driveway. He is\njust rounding the back of the car to open the passenger-side\ndoor. He pulls Doris from the car, half asleep, half drunk."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUNGALOW"
+  },
+  {
+   "type": "stage direction",
+   "text": "The door swings open and Ed stumbles in supporting Doris,\nwho has one arm draped around his neck. He helps her into\nthe bedroom and eases her onto the bed.\nHe sits on the edge of the bed and looks down at her.\nShadows from branches just outside wave across her face. She\nis breathing through her open mouth; her face is moist with\nperspiration."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I'd met Doris blind on a double-date\nwith a loudmouthed buddy of mine who\nwas seeing a friend of hers from\nwork. We went to a movie; Doris had\na flask; we killed it. She could put\nit away. At the end of the night she\nsaid she liked it I didn't talk much.\nA couple weeks later she suggested--"
+  },
+  {
+   "type": "stage direction",
+   "text": "A harsh jangle from the telephone. Doris moans but does not\nwake; Ed rises and does to the living room and picks up the\nphone."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Ed, it's Big Dave. I gotta talk to\nyou."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "What--now?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Please, Ed."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "But it's..."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Please, Ed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sighs."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Your place?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "I'm at Nirdlinger's. Let yourself\nin."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "OK."
+  },
+  {
+   "type": "stage direction",
+   "text": "He hangs up.\nHe nudges Doris."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Honey."
+  },
+  {
+   "type": "stage direction",
+   "text": "She murmurs."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Honey."
+  },
+  {
+   "type": "stage direction",
+   "text": "She rolls away and burrows into a pillow.\nEd opens her purse and pokes through it.\nNIRDLINGER'S\nWe are looking over Ed's shoulder as he hesitantly swings\nopen a door.\nIt reveals Big Dave's office, quiet and rather dark.\nA down-facing banker's lamp on the desk illuminates Big Dave's\nhands on the desktop."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Dave?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "Come on in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed enters, sits.\nAn awkward silence."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...What's the problem, Big Dave?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Another silence."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I'm ruined."
+  },
+  {
+   "type": "stage direction",
+   "text": "His hands writhe on the desktop."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...It ruined me. This money. No annex.\nI'm all shot to hell."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "So you paid the guy?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Big Dave stares without speaking.\nAfter a long beat:"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...What kind of man *are* you?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "What kind of man *are* you?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Big Dave--"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "I'd understand if you'd walked in\nhere. Socked me in the nose. Whatever.\nI deserved it."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "I'm not proud of what I did. But\n*you*."
+  },
+  {
+   "type": "stage direction",
+   "text": "No one talks.\nBig Dave sighs."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Yeah, I paid up. As you well know.\nAnd then I went and found the pansy."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Got nothin' to say, huh? Yeah,\nwell, you already know the story. I\ndidn't, I hadda beat it out of the\npansy. *Your* money."
+  },
+  {
+   "type": "stage direction",
+   "text": "No response."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...What kind of man *are* you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Big Dave rises."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...Well."
+  },
+  {
+   "type": "stage direction",
+   "text": "He crosses around the desk and adds, sadly:"
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...I'm all shot to hell."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed starts to rise, but Big Dave is already looming over him.\nBig Dave bear-hugs him and then spins him into a wall.\nEd hits the wall and bounces off, back into Big Dave. Big\nDave wallops him in the stomach. Ed doubles over."
+  },
+  {
+   "type": "speech",
+   "character": "DAVE",
+   "text": "...What kind of man *are* you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Big Dave hurls him against the desk, then slams his face\nagainst the desktop. Ed's hands scrabble at the top of the\ndesk as Big Dave grabs him by the neck and lifts. He slams\nhim face-first into the window between the office and the\ndark sales floor.\nEd twists around, the back of his head now pressed against\nthe glass. Big Dave's hands lock around his throat.\nBig Dave sweats and strains.\nA crack shoots up the pane of glass.\nEd's hand sweeps up and plunges something into Big Dave's\nneck.\nBig Dave grunts and turns away, gurgling. His hands go up to\nhis throat.\nEd watches. He is holding Big Dave's cigar trimmer.\nBig Dave takes a couple of deliberate steps backward, his\nhead twisted away.\nHe falls back, tripped up by a chair, which spins him face-\ndown onto the floor.\nBig Dave crawls away face-down across the floor, on his knees\nbut with his hands still at his throat. His face and knees\nawkwardly support his weight as if he were pushing something\nacross the floor with his nose.\nHe reaches a corner but still pushes forward, wedging himself\nin, legs still scraping away as if to push himself through\nthe wall. Blood is pooling out from under him.\nBig Dave's legs are still working. His gurgling continues.\nEd watches.\nBig Dave's legs start to move furiously. They convulse. His\nwhole body shakes as he goes into shock.\nEd watches.\nBig Dave stops shaking. He remains wedged awkwardly into the\ncorner, face-down. He is still.\nThe room is very quiet.\nEd looks down at his hands.\nHe walks across the room, pushes the door open and walks\nacross the darkened sales floor."
+  },
+  {
+   "type": "location",
+   "text": "EXT. STORE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed walks to his car. He does not look about, is not\nparticularly furtive. He gets into the car. He starts the\nignition."
+  },
+  {
+   "type": "location",
+   "text": "EXT. HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "He pulls up, sits motionless for a beat. Gradually, something\ndraws his attention; he cocks his head and looks up through\nthe windshield.\nA branch creaks and sways in the breeze."
+  },
+  {
+   "type": "location",
+   "text": "INT. HOUSE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed gets into bed next to Doris. He stares at the ceiling.\nWind rustles outside.\nThe shadow of a branch on the ceiling nods in time with the\nwind.\nHe looks at Doris.\nHer face is still lightly sheened with sweat but her mouth\nis closed now, her breathing more peaceful. The leafy shadows\nplay over her face."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...It was only a couple of weeks\nafter we met that Doris suggested\ngetting married. I said, Don't you\nwanna get to know me more? She said,\nWhy, does it get better? She looked\nat me like I was a dope, which I've\nnever really minded from her. And\nshe had a point, I guess. We knew\neach other as well then as now..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is gazing at her."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Anyway, well enough."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sound and image face.\nBARBERSHOP\nThe next day.\nEd cuts hair, a cigarette between his lips."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Holy-moly, do I got a headache."
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank is giving a haircut as well."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...How you today, Ed?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "OK."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You don't got a headache?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Nah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Damn, I got a headache to beat the\nband."
+  },
+  {
+   "type": "stage direction",
+   "text": "LATER\nEd sits in his chair, hands folded in his lap, head tilted\nback, eyes closed.\nWe hold on Ed as we hear a clipper buzzing and Frank talking\nto someone in his chair."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Ya can't pump it. Did ya pump it?\nThat'll just flood it."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "Ya gotta pump it. Ya can't just hold\nit down. *That'll* flood it."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "You crazy? You pumped it?"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "Well, ya can't hold it down."
+  },
+  {
+   "type": "stage direction",
+   "text": "There is the jingle of the door bell. Ed opens his eyes.\nTwo men in fedoras are entering.\nEd starts to rise."
+  },
+  {
+   "type": "speech",
+   "character": "MAN 1",
+   "text": "Ed Crane?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Right."
+  },
+  {
+   "type": "speech",
+   "character": "MAN 1",
+   "text": "Come on outside."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Sure."
+  },
+  {
+   "type": "stage direction",
+   "text": "OUTSIDE\nThe two men are staring at the sidewalk, smoking, hesitant\nto speak. One of them finally comes up with an icebreaker:"
+  },
+  {
+   "type": "speech",
+   "character": "MAN 2",
+   "text": "...So you're a barber, huh?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That's right."
+  },
+  {
+   "type": "speech",
+   "character": "MAN 1",
+   "text": "I'm Officer Persky. This is Krebs."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed nods toward their car:"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...We goin'?"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "Huh? No."
+  },
+  {
+   "type": "stage direction",
+   "text": "Beat."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "...Cigarette?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed holds up one hand with its smoking cigarette."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Right. Uh... Pete's got some news\nfor you."
+  },
+  {
+   "type": "stage direction",
+   "text": "His partner gives Persky a dirty look."
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "...Look, pal, it's a tough break,\nbut, uh... well damnit, your wife's\nbeen pinched."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "They sent us to tell ya."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "They sent us to tell ya. We pulled\nthe detail."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "My *wife*?"
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Yeah, uh, they brung her to the county\njail, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "Homicide."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Well, embezzlement. And homicide. A\nguy named David Brewster. He's, uh...\nHe's the decedent."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't understand."
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "He's the dead guy."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed stares at him."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "...Yeah, it's a tough break."
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "Visiting ends at five. Too late today.\nYou can see her tomorrow."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Sorry, pal. They sent us to tell ya."
+  },
+  {
+   "type": "stage direction",
+   "text": "He shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "...Crap detail."
+  },
+  {
+   "type": "stage direction",
+   "text": "RESIDENTIAL STREET\nIt is evening. Ed is pulling up to a house on a tree-lined\nstreet similar to his own. He gets out of his car and goes\nup the walk, and a man sitting on the porch swing holds up a\nhand of greeting."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "'Lo, Ed."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Hello, Walter."
+  },
+  {
+   "type": "stage direction",
+   "text": "He steps up on the porch.\nThe man is holding a tumbler of whiskey and ice that clinks\nas the swing moves. His skin glistens with drinker's sweat,\nand he has the slightly expansive manner of someone who's\nput at least a couple away."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Have a seat."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed glances around but the swing is the only seat. He sits\nnext to Walter."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Thanks. Thanks for seeing me, at\nhome."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Oh, hell. Drink?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No thanks."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Sure you don't need one?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'm fine."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "OK. Boy. Jesus!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah. What do I, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Well, of course, I, uh, it's out of\nmy league, criminal stuff. I do, uh,\nprobate, real estate, title search,\nuh... I'd be absolutely worthless,\nsomething like this. Absolutely\nworthless."
+  },
+  {
+   "type": "stage direction",
+   "text": "He belches."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "'Scuse me, just finished dinner. Um.\nFrankly, Doris'd be better off with\nthe county defender."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "He a good man?"
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Bert's OK, sure, he's a good man. I\nwon't kid you though, Ed, nobody\naround here has any experience with\nthis kind of, er... And I hear they're\nbringing a prosecutor up from\nSacramento. Capital offense. Taking\nit seriously... Hmm..."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "So--"
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Taking it seriously."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "So, who should I--"
+  },
+  {
+   "type": "stage direction",
+   "text": "The front door opens and someone speaks through the screen:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "You want any coffee, Dad?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed looks around at the voice."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Oh, hello, Mr Crane."
+  },
+  {
+   "type": "stage direction",
+   "text": "She steps out: it is Birdy Abundas.\nEd rises, and they awkwardly shake hands."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Hello, Rachel."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "I'm so sorry... I was sorry to hear."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah. Thanks."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Coffee, Ed?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'm fine. Thanks."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "No thanks, honey."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "OK. Nice to see you, Mr Crane."
+  },
+  {
+   "type": "stage direction",
+   "text": "They watch her go back in."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Damnit! She's a good kid."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed nods.\nA beat."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...So, uh, who should I--"
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Well, there's Lloyd Garroway in San\nFrancisco. Probity--you know, no one\never said anything iffy about Lloyd\nGarroway. Conservative. Jury might\nlike that. Might like that here."
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes a sip of his drink."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "...Probity."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh. Is he the best then, for,\nuh..."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Well, the best, the money-is-no-object\nbest, for a criminal case, any lawyer\nwould tell you Freddy Riedenschneider.\nOut of Sacramento. 'Course, I don't\nknow how you're fixed for money."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh. He's the, uh..."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Yeah, the best."
+  },
+  {
+   "type": "stage direction",
+   "text": "He sniffs."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "...Yeah, Riedenschneider. Wish I\ncould tell you more. Hell, I wish I\ncould handle it myself. But I'd be\nabsolutely worthless for this kind\nof thing."
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes a musing sip."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "...Criminal matter? Freddy\nRiedenschneider."
+  },
+  {
+   "type": "stage direction",
+   "text": "He thinks."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "...No question about it."
+  },
+  {
+   "type": "stage direction",
+   "text": "ED AT A TABLE\nIt is a long table with chairs stretching down both sides,\none side for prisoners, the other for visitors. The room is\nempty except for a guard and an elderly woman who sits across\nfrom a younger woman at the far end of the table. The younger\nwoman, in a prison smock, is wailing. The elderly woman is\nholding her hand.\nEd sits across from an empty chair, clutching a flower-printed\ntoiletries kit. There are echoing voices suggesting large\nspaces outside the room.\nHe sits and waits.\nApproaching footsteps.\nThe door opens. A large prison matron steps aside to let\nDoris enter.\nDoris looks lost in a prison-issue jumper that is too big\nfor her. Her hair is uncurled and bedraggled. Not only is\nshe not made-up, she has a couple of bruises and a cut on\nher lip.\nAs Ed stands, she gives a hollow look around."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Honey... I brought your make-up."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Honey."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "How are you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She shrugs."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "I don't know what's going on. I--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "What happened to you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...I don't know what happened to Big\nDave. I know some of it.\nIrregularities in my books, they\nsaid. Can I explain it."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "You don't have to--"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "I helped him cook the books, Ed. I\ndid do that."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "You don't have to tell them anything.\nWe're getting you a lawyer."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris doesn't seem to be listening. She sighs:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "I know all about that. But I don't\nknow how much to tell them."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Don't tell 'em anything. We're getting\nyou Freddy Riedenschneider."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris finally looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Should I... should I tell you why?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "You don't have to tell me anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "Her gaze drifts away again. She notices the sobbing woman."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Jesus Christ."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris looks around and laughs."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "...My books used to be perfect. Anyone\ncould open them up, make sense of\nthe whole goddamn store."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Honey..."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "I knew we'd pay for it."
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nEd sits in a waiting-customer chair, wearing his smock. Frank\npaces in front of him. He smacks a fist into his palm."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "This is what family is for, Ed! This\nis when ya come together!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Close ranks! Goddamnit! Those sons\nof bitches!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Frank, uh, you know I'll try to\ncontribute, but, uh--Freddy\nRiedenschneider--"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "I don't care what it costs! This is\nwhen ya come together!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That's very generous."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "The hell with it, Eddie!"
+  },
+  {
+   "type": "stage direction",
+   "text": "BANK\nEd and Frank sit waiting on a bench in the high-vaulted lobby.\nFrank looks uncomfortable in an ill-fitting suit. As they\nwait, he looks nervously about.\nIn a hushed voice:"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "They're just people like you and me,\nEd. Remember that."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Just people. They gotta put up the\nbig front so that people will trust\nthem with their money. This is why\nthe big lobby, Ed. But they put their\npants on one leg at a time. Just\nlike you and me."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "They too use the toilet, Ed. In spite\nof appearances. And their money will\nbe secured by the barbershop. A rock.\nA *rock*, the barbershop. I mean,\nhow long has *this* place been here?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A door opens. A conservatively dressed man of late middle\nage emerges."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Mr Raffo?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank hops to his feet."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Yes, sir."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Could you come with me please?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Sure. Can Ed come too?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The man looks dubiously at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Mr...?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Crane. Ed Crane."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "You also have an interest in the\nsecuring property?"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "He's a barber."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Ah."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Second chair."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Not an owner."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "No, he's family, he's my brother-in-\nlaw."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Ah-hah. It would be best if he waited\nhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "He goes to the glass-paned doorway to his office, Frank\ntrailing dejectedly behind. They enter, the door closes, and\nwe hear their muffled voices from inside, the sense of the\nwords lost.\nEd sits and watches the two men perform their pantomime of\nbusiness: Frank nervously reads documents with one hand cupped\nto his forehead for concentration; the banker passes\nsuccessive documents across his desk with a word of\nexplanation for each as Frank signs.\nEd takes out a cigarette and lights it, watching impassively."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "The barbershop. Doris and Frank's\nfather had worked thirty years to\nown it free and clear. Now it got\nsigned over to the bank, and the\nbank signed some money over to Frank,\nand Frank signed the money over..."
+  },
+  {
+   "type": "stage direction",
+   "text": "TRACKING POINT OF VIEW\nIt is midday. We are tracking along the sidewalk toward a\nlong cream-colored Packard parked at the curb. A couple of\nkids have stopped to peer into the car's windows; the car is\nno doubt the fanciest in town."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...to Freddy Riedenschneider, who\ngot into town two days later..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed, coming up the sidewalk, looks up at the storefront: a\nrestaurant with a large window with a plush red drape that\nobscures the interior. Gilt lettering on the window spells\nout \"DaVinci's\"."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and told me to meet him at\nDaVinci's for lunch."
+  },
+  {
+   "type": "stage direction",
+   "text": "TRACKING POINT OF VIEW\nInside the restaurant. We are tracking toward a table whose\nlone occupant sits with his back to us holding open a menu\nas he orders from a facing waitress:"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...not fried, poached. Three of 'em\nfor two minutes. A strip steak medium\nrare, flapjacks, potatoes, tomato\njuice, and plenty of hot coffee."
+  },
+  {
+   "type": "stage direction",
+   "text": "He flips the menu over."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...Do you have prairie oysters?"
+  },
+  {
+   "type": "speech",
+   "character": "WAITRESS",
+   "text": "No, sir."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Then bring me a fruit cocktail while\nI wait."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks up at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...You're Ed Crane?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah--"
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Barber, right? I'm Freddy\nRiedenschneider. Hungry? They tell\nme the chow's OK here. I made some\ninquiries."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No thanks, I--"
+  },
+  {
+   "type": "stage direction",
+   "text": "The waitress sets a fruit cocktail in front of\nRiedenschneider."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Look, I don't wanna waste your time\nso I'll eat while we talk. Ya mind?\n*You* don't mind. So while I'm in\ntown I'll be staying at the Hotel\nMetropole, the Turandot Suite. Yeah,\nit's goofy, the suites're named after\noperas; room's OK though, I poked\naround. I'm having 'em hold it for\nme on account of I'll be back and\nforth. In addition to my retainer,\nyou're paying hotel, living expenses,\nsecretarial, private eye if we need\nto make inquiries, headshrinker should\nwe go that way. We'll talk about\nappeals if, as and when. For right\nnow, has she confessed?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No. Of course not. She didn't do it."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Good! That helps. Not that she didn't\ndo it, that she didn't confess. Of\ncourse, there's ways to deal with a\nconfession, but that's good!--one\nless thing to think about. Now.\nInterview. I'm seeing her tomorrow.\nYou should be there. Three o'clock.\nOne more thing: you keep your mouth\nshut. I get the lay of the land, I\ntell *you* what to say. No talking\nout of school. What's out of school?\nEverything's out of school. I do the\ntalking; you keep your trap shut.\nI'm an attorney, you're a barber;\nyou don't know anything. Understood?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...OK."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Good! Any questions give me a ring--\nTurandot suite; if I'm out leave a\nmessage. You sure you don't want\nanything? No?"
+  },
+  {
+   "type": "stage direction",
+   "text": "He points a finger at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...You're OK, pal. You're OK, she's\nOK. Everything's gonna be hunky-dory."
+  },
+  {
+   "type": "stage direction",
+   "text": "The waitress puts down a plate of steak and eggs."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...And the flapjacks, honey."
+  },
+  {
+   "type": "stage direction",
+   "text": "DRIVING POINT OF VIEW\nWe are looking at pedestrians on the sidewalk through the\nwindshield of a moving car."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "All going about their business. It\nseemed like I knew a secret--a bigger\none even then what had really happened\nto Big Dave, something none of them\nknew..."
+  },
+  {
+   "type": "stage direction",
+   "text": "On Ed, driving."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Like I had made it to the outside,\nsomehow, and they were all still\nstruggling, way down below."
+  },
+  {
+   "type": "stage direction",
+   "text": "ED IN BED\nArms folded behind his head, staring at the ceiling.\nOn the ceiling is the moving shadow of a tree limb.\nA distant, muffled knock.\nEd turns his head.\nFRONT DOOR\nEd opens it as he finishes cinching a bathrobe.\nThe woman waiting on the front porch is dressed in black: a\nblack dress and a black veiled hat that is too big for her\nbird-like frame.\nWind rustles in the trees behind her.\nShe stares at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ann."
+  },
+  {
+   "type": "stage direction",
+   "text": "For the first time, we hear her speak, in a low, tremulous\nvoice:"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "Hello, Ed."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ann. Will you come in?"
+  },
+  {
+   "type": "stage direction",
+   "text": "She shakes her head."
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "...No, No, it's very late."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed nods.\nAfter an uncomfortable beat, through which she continues to\nstare:"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I'm so sorry about your loss."
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "Yes. Thank you."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Of course, you know, Doris had nothing\nto do with it. Nothing at all."
+  },
+  {
+   "type": "stage direction",
+   "text": "She lays a black-gloved hand on his arm."
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "Oh, I know. Don't worry, Ed. I came\nto tell you..."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yes, Ann?"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "And you should tell Doris..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She falls silent. The trees behind her rustle.\nShe gives a wary look back. Then, confidingly, to Ed:"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "...You know how Big Dave loved\ncamping. And the out-of-doors."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is puzzled:"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yes?"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "We went camping last summer. In\nEugene, Oregon. *Outside* of Eugene,\nEd."
+  },
+  {
+   "type": "stage direction",
+   "text": "She gives him a searching look, hoping, it seems, that he\nwill find this significant."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Yes?"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "At night, there were lights--we both\nsaw them. We never told anyone,\noutside of our official report."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ann--"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "A spacecraft. I saw the creatures.\nThey led Big Dave onto the craft. He\nnever told anyone what they did,\noutside of his report. Of course he\ntold *me*. No one else."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ann--"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "The government knows. I cannot repeat\nit to you. But this thing goes deep,\nEd. This was not your wife. I goes\ndeep, and involves the government.\nThere is a great deal of fear. You\nknow how certain circles would find\nit--the knowledge--a threat. They\ntry to limit it, and--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ann, will you come in, sit down,\nmaybe have a drink?"
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "Sometimes knowledge is a curse, Ed.\nAfter this happened, things changed.\nBig Dave... he never touched me again."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed says nothing.\nShe touches his arm."
+  },
+  {
+   "type": "speech",
+   "character": "ANN",
+   "text": "...Tell Doris not to worry. I know\nit wasn't her. Perhaps this will\nbring it out, finally. Perhaps now\nit will all come out."
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns and heads down the walk.\nHer high-heeled footsteps echo on the walk, then the sidewalk,\nthen are lost in the rustle of leaves.\nEd watches her go: a small black figure, growing smaller.\nPRISON MEETING ROOM\nIt is an unadorned room with a simple wooden table and chairs.\nOne high window lets in a shaft of sunlight.\nEd and Doris sit at the table; Freddy Riedenschneider stands\nto one side staring up at the high window, hands dug into\nhis pockets.\nAll three are motionless for a long beat. Finally:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...It stinks."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "But it's true."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "I don't care it's true, it's not\ntrue; it stinks. You say he was being\nblackmailed; by who? You don't know.\nFor having an affair; with who? You\ndon't know. Did anyone else know\nabout it? Probably not; you don't\nknow."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I knew about it. Big Dave told me\nabout it, and the spot he was putting\nhimself in by getting the money."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Terrific. Your husband backs you up.\nThat's terrific."
+  },
+  {
+   "type": "stage direction",
+   "text": "He starts pacing."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...You've gotta give me something to\nwork with. Freddy Riedenschneider is\ngood, but he's not a magician. He\ncan't just wave his little wand in\nthe air and make a plausible defense\nmaterialize. Look. Look at what the\nother side is gonna run at us. They\ngot the company books, prepared by\nyou--*cooked* by you--that's Motive.\nThey got a murder scene *you* had\naccess to. That's Opportunity. They\ngot that little trimmer thing he was\nstabbed in the throat with--a *dame's*\nweapon--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "It was Big Dave's."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "--don't interrupt me--that's Means.\nThey got a fine upstanding pillar of\nthe business community as a victim,\nand then they got *you*, a disgruntled\nnumber-juggling underling who on the\nday in question was drunk as a skunk\nand whose alibi for the time in\nquestion is being passed out at home,\nalone."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "*I* was with her."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider gives him a hard look."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Like I say, it stinks."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another long pause."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I killed him."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider eyes him. Wheels start turning."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "OK, we forget the blackmail. *You*\nkilled him. How come?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "He and Doris... were having an affair."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris eyes him. His manner does not reveal anything."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "OK, how did you know?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I... just knew. A husband knows."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider rolls his eyes."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Will anyone else say they knew?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't know. I don't think so."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "How did you get into the store?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I took Doris's keys."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Will anyone say they saw you there?\nOn your way there? In there? On your\nwas back?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I don't think so."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Will anyone corroborate and goddamn\npart of your story at all?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed returns Riedenschneider's stare. Riedenschneider resumes\npacing."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Come on, people. You can't help\neach other like that. Let's be\nrealistic now. Let's look at our\noptions. Well, frankly, I don't *see*\nany options."
+  },
+  {
+   "type": "stage direction",
+   "text": "A nod of the head indicates Doris:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...I cannot present Story A."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another nod indicates Ed:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...I cannot present Story B. I could\nplead you for a nutcase but you look\ntoo composed. I could offer a guilty\nplea and in return they don't give\nyou the juice, but I don't think you\nwant to spend the rest of your life\nin Chino and I know you didn't hire\nFreddy Riedenschneider to hold your\nhand at a sentencing hearing. Hell,\nyou could've gotten Lloyd Garroway\nfor that. No, we're not giving up\nyet; you hired Freddy Riedenschneider,\nit means you're *not* throwing in\nthe towel. I litigate, I don't\ncapitulate. All right, no options,\nwe gotta think. All right, we go\nback to the blackmail thing. It\ntitillates, it's open ended..."
+  },
+  {
+   "type": "stage direction",
+   "text": "His pacing becomes more animated."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...And it makes *him* the bad guy--\nya dig around, ya never know,\nsomething unsavory from his past, he\napproaches you to help with the money,\nit's too late, his past comes back\nto haunt him, who's to say..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is heading for the door."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Yeah. OK. Forget the jealous\nhusband thing, that's silly; we're\ngoing with the blackmail. I'll be in\ntouch."
+  },
+  {
+   "type": "stage direction",
+   "text": "The door slams.\nHOTEL LOBBY\nThe camera drifts in toward the reception desk. Ed talks to\nthe clerk behind the desk, but the scene plays silently; we\nhear only Ed's narration."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Of course, there was *one* person\nwho could confirm Doris's story, or\nplenty of it: the dry-cleaning\npansy..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The desk clerk is shaking his head."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...But he'd left the hotel, skipped\nout on his bill..."
+  },
+  {
+   "type": "stage direction",
+   "text": "HALLWAY\nIt is a rooming-house hallway. A stern middle-aged woman is\non the hall telephone. This too plays silently under the\nnarration."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "He'd also disappeared from the\nresidence he gave me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "ED'S LIVING ROOM\nWe are drifting in toward Ed, who nods at the telephone and\nthen cradles it. He stares down at the business card he holds."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...owing two month's rent. How could\nI have been so stupid. Handing over\n$10,000. For a piece of paper. And\nthe man gone... like a ghost..."
+  },
+  {
+   "type": "stage direction",
+   "text": "PULLING BACK FROM ED\nIn a different living room. He sits on a sofa, hands clasped\nbehind his head, listening. For the first time, as the voice-\nover continues, we hear atmosphere from the scene: piano\nmusic."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...disappeared into thin air,\nvaporized, like the Nips at Nagasaki.\nGone now. All gone. The money gone.\nBig Dave gone. Doris going. How could\nI have been so stupid?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The continuing pull-back reveals Walter Abundas on a nearby\nchair, also listening as Birdy plays.\nWalter holds a drink in one hand; he is nodding; his eyelids\ndroop. As the piano piece reaches its mournful conclusion\nhis chin alights on his chest, his eyelids tremble closed,\nand he starts lightly to snore.\nBARBERSHOP\nThe distinctive buzz of electric hairclippers bangs in at\nthe cut. Ed and Frank stand behind their respective chairs,\nadministering haircuts.\nThe customer in Ed's chair is in white shirtsleeves that do\nnot hide rolls of fat. He has a hot towel over his face that\ndoes not slow his speech, although it does muffle it to some\nextent:"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "She makes this stuff, she calls it\ngatto, it's got egg in there, it's\ngot sugar, it's got--it's cake,\nbasically, except she calls it gatto.\nLike if you don't call it cake maybe\nyou won't put on any weight, like I\nneed to eat gatto, you know what I'm\nsaying? This stuff, if I've had a\nsquare meal, I've had my steak and\npotatoes, I can just have another\ncup of coffee afterward, I won't ask\nfor the desert if it's not there..."
+  },
+  {
+   "type": "stage direction",
+   "text": "His voice turns into a drone under the narration."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Sooner or later everyone needs a\nhaircut..."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "Got the recipe from a magazine,\nwoman's magazine..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "We were working for the bank now. We\nkept cutting the hair, trying to\nstay afloat, make the payments, tread\nwater, day by day, day by day..."
+  },
+  {
+   "type": "stage direction",
+   "text": "CRANE DOWN\nInside a courtroom we boom down toward the defendant's table,\nthe fat customer's drone turning into the drone of the bailiff\nreading an indictment. Doris stands next to Freddy\nRiedenschneider."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Most people think someone's accused\nof a crime, they haul 'em in and\nbring 'em to trial, but it's not\nlike that, it's not that fast. The\nwheels of justice turn slow..."
+  },
+  {
+   "type": "speech",
+   "character": "BAILIFF",
+   "text": "...did willfully and with malice\naforethought take the life of one\nDavid Allen Brewster, a human being..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "They have an arraignment, and then\nthe indictment, and they entertain\nmotions to dismiss, and postpone,\nand change the venue, and alter this\nand that and the other. They empanel\na jury, which brings more motions,\nand they set a trial date and then\nchange the date, and then often as\nnot they'll change it again."
+  },
+  {
+   "type": "speech",
+   "character": "BAILIFF",
+   "text": "What say you to these charges?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Our boom down has ended close on Doris. We hear Freddy\nRiedenschneider, off:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "We plead not guilty, your honor."
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nBooming down toward the fat man."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "And through all of it we cut the\nhair."
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "I say, Honey, if you're gonna make a\ncobbler, make a little bit of cobbler,\ndon't put a whole pan in front of me\nand tell me it's not gonna be any\ngood when it's cold..."
+  },
+  {
+   "type": "stage direction",
+   "text": "OPERA SINGERS\nWe are panning photographic portraits of opera singers in\ncharacter, wearing the wardrobe of different eras, armies,\ndukedoms, and boudoirs, and displaying the heights and depths\nof various emotions, their mouths stretched wide in song. We\npan off the pictures to discover that we are in a hotel room,\nfloating in toward a bed on which Freddy Riedenschneider, a\nmask over his eyes, slumbers."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Meanwhile, Freddy Riedenschneider\nslept at the Metropole..."
+  },
+  {
+   "type": "stage direction",
+   "text": "RESTAURANT\nTracking in toward Freddy Riedenschneider, who sits twirling\nspaghetti with a fork against a spoon."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and shoveled it in at DaVinci's."
+  },
+  {
+   "type": "stage direction",
+   "text": "LATERAL TRACK\nFrom inside a car. Pedestrians bustle along a sidewalk. Among\nthem scurries a weedy little man who has one hand clamped to\nthe crown of his hat to keep it in place in a stiff wind."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "He'd brought in a private investigator\nfrom Sacramento..."
+  },
+  {
+   "type": "stage direction",
+   "text": "LATERAL TRACK\nMoving the opposite way. A different day, but again a crowd\nmoves along the sidewalk, and among them the little man\nscuttles in the opposite direction, hand still raised to his\nhat, his forearm and the tilt of his head largely obscuring\nhis face."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...to nose around into Big Dave's\npast."
+  },
+  {
+   "type": "stage direction",
+   "text": "PUSHING IN TO ED\nIn the Abundas living room again, again listening to Birdy\nat the piano, but now the two of them are alone."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I found myself more and more going\nover to the Abundas's. It was a\nroutine we fell into, most every\nevening. I even went when Walter was\naway on his research trips. He was a\ngenealogist, had traced back his\nside of the family seven generations,\nhis late wife's, eight. It seemed\nlike a screwy hobby. But then maybe\nall hobbies are. Maybe Walter found\nsomething there, in the old county\ncourthouses, hospital file rooms,\ncity archives, property rolls,\nregistries, something maybe like\nwhat I found listening to Birdy play.\nSome kind of escape. Some kind of\npeace..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The piano music ends in a sustain which begins to fade, but\nthen is snapped by a sharp clang.\nPRISON DOOR SWINGS OPEN\nWe are pushing into the high-windowed prison meeting room.\nNone of its three occupants is moving.\nThe tableau consists of Doris staring down at the table; the\nprivate investigator sitting on a straightbacked chair tipped\nback against a wall, his arms folded across his chest, his\nfedora pushed back on his head, a toothpick clamped between\nhis teeth; and Freddy Riedenschneider, standing, hands clasped\nbehind his back, gazing with a distant smile up into the\nshaft of light that slants through the high window.\nA warder shuts the door behind Ed.\nDoris and the private investigator turn to note his entrance;\nRiedenschneider does not.\nEd pulls out a chair across from Doris, clasps his hands on\ntop of hers."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "'Lo, honey."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks at his hands on top of hers.\nA long beat.\nStill gazing up into the shaft of light, Freddy\nRiedenschneider announces:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...They got this guy, in Germany.\nFritz something-or-other. Or is it.\nMaybe it's Werner. Anyway, he's got\nthis theory, you wanna test something,\nyou know, scientifically--how the\nplanets  go round the sun, what\nsunspots are made of, why the water\ncomes out of the tap--well, you gotta\nlook at it. But sometimes, you look\nat it, your looking *changes* it. Ya\ncan't know the reality of what\nhappened, or what *would've* happened\nif you hadden a stuck in your goddamn\nschnozz. So there *is* no 'what\nhappened.' Not in any sense that we\ncan grasp with our puny minds. Because\nour minds... out minds get in the\nway. Looking at something changes\nit. They call it the 'Uncertainty\nPrinciple.' Sure, it sounds screwy,\nbut even Einstein says the guy's on\nto something."
+  },
+  {
+   "type": "stage direction",
+   "text": "His gaze up at the window breaks. He strolls around the room,\nstill smiling."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Science. Perception. Reality.\nDoubt..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He stops to examine a bur on his fingernail."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Reasonable doubt. I'm sayin',\nsometimes, the more you look, the\nless you really know. It's a fact. A\nproved fact. In a way, it's the only\nfact there is. This heinie even wrote\nit out in numbers."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks up at the private detective."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Burns?"
+  },
+  {
+   "type": "stage direction",
+   "text": "With a slight weight shift, Burns tips his chair so that its\nfront legs slap down onto the floor. He fishes a small\nnotebook from an inside pocket.\nHis boredom is profound; his only concession to performance\nis to move the toothpick from one side of his mouth to the\nother where, perhaps, it will less inhibit speech."
+  },
+  {
+   "type": "speech",
+   "character": "BURNS",
+   "text": "Subject: David Allen Brewster. Born:\nCincinnati, 1911. Father: insurance\nsalesman; mother: homemaker. One\nyear Case Western University on\nfootball scholarship. Flunks out.\n1931: retail appliance salesman in\nBarnhoff's department store,\nCincinnati. 1933: meets Ann\nNirdlinger, married later that year,\nmoves here. 1935: arrested on an\nassault complaint; complainant, an\norganizer for the ILGWU, has a broken\nnose, couple of ribs, wife's family\nintercedes, some kind of settlement,\ncharges dropped. 1936: another assault\nbeef, bar altercation--"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Yeah, yeah, couple of fistfights. Go\nto his service record."
+  },
+  {
+   "type": "stage direction",
+   "text": "Burns looks at him sourly. He flips a couple of pages."
+  },
+  {
+   "type": "speech",
+   "character": "BURNS",
+   "text": "...Inducted March 15, 1942, assigned\nto fifth fleet US Navy, petty officer\nfirst class, serves in clerical\ncapacity in US naval shipyards in\nSan Diego, one fistfight broken up\nby MPs, no court martial, honorable\ndischarge May 8, 1945. Since then\nhe's been clean."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider nods, smiling."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Thank you, Burns, get lost."
+  },
+  {
+   "type": "stage direction",
+   "text": "Burns pockets his notebook, adjusts his hat, jams his hands\ninto his pockets, and ambles out of the room.\nThe slam of the door leaves quiet.\nAt length:"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...So?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider's fixed smile now fades."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "So? *So?!* This could be your dolly's\nticket out of the deathhouse, so!"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed and Doris look at each other."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I don't get it."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Look, chum, this is a guy, from what\nI understand, told everybody he was\na war hero, right? Island hopping,\npractically liberated the Pacific\nall by himself with a knife in one\nhand and a gun in the other and twenty\nyards of Jap guts between his teeth."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "And now it turns out this dope spent\nthe war sitting on his ass in some\nboatyard in San Diego. You asked for\nblackmail, let me give you blackmail:\nMr Hale-Fellow-Well-Met, about to\nopen his own business here, has been\nlying to everybody in this town for\nthe last four years, probably\nincluding half the people sitting on\nthat jury. Well, it finally caught\nup with him--these dopes, it always\ndoes; someone threatened to spill\nit. Somebody knew his dirty little\nsecret, just like your wife says.\nThey called, they demanded money..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is looking at Doris."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Did Big Dave mention that it was\nsomething about his war service? I\ndon't know, I wasn't there, *you'll*\nhave to tell *us*. Maybe he specified,\nmaybe he didn't; I'm not putting\nwords in your mouth; the point is\nthat this liar, this cynical\nmanipulator, this man who through\nhis lies sneered and belittled the\nsacrifice and heroism of all our\nboys who *did* serve and bleed and\npuke and die on foreign shores, and\nwho made a fool out of this entire\ntown, turns to *you* to help him out\nof his jam. Fat-assed sonofabitch!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "So... who... who actually--"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Who? *Who?!* I don't know who! But\nthe point is that if Mr Prosecutor\nover there had devoted half the time\nhe's spent persecuting *this* woman\nto even the most cursory investigation\nof this schmoe's past, then we might\n*know* who! But we can't *know* what\nreally happened! Because of Fritz,\nor Werner, or whatever the hell his\nname is! And because Me Prosecutor\nis *also* a lazy fat-assed sonofabitch\nwho decided it's easier to victimize\nyour wife! Because it's easier *not*\nto look! Because the more you look,\nthe less you know! But the beauty of\nit is, we don't *gotta* know! We\njust gotta show that, goddamnit,\n*they* don't know. Reasonable doubt.\nScience. The atom. *You* explain it\nto me. Go ahead. Try."
+  },
+  {
+   "type": "stage direction",
+   "text": "He chuckles as he heads for the door."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...Yeah, Freddy Riedenschneider sees\ndaylight. We got a real shot at this,\nfolks. Let's not get cocky."
+  },
+  {
+   "type": "stage direction",
+   "text": "The door shuts behind him.\nDoris stares down at the table, as at the head of the scene.\nA silent beat; a smile starts to tug at the corners of her\nmouth."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Honey...?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The smile twitches, and then stays. Doris starts to laugh.\nEd frowns."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Honey?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Her laughter builds, almost to hysteria. Finally it subsides\nand, still staring at the tabletop and smiling, she shakes\nher head:"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "What a dope."
+  },
+  {
+   "type": "stage direction",
+   "text": "ABUNDAS LIVING ROOM\nEd sits listening as Birdy plays. She talks, after a moment,\nher eyes on the sheet music:"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "He was deaf when he wrote this."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Who?"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Beethoven. He created it, and yet he\nnever actually heard it. I suppose\nhe heard it all in his head, somehow."
+  },
+  {
+   "type": "stage direction",
+   "text": "Over her continued playing:"
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "So maybe Riedenschneider could get\nDoris off. Maybe it would all work\nout. And I thought--I hoped--that\nmaybe there was a way out for me as\nwell..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A SIGN\nThe cardboard sign on an easel says \"COME ONE, COME ALL /\nPETALUMA HIGH SCHOOL TALENT SHOW / WEDNESDAY APRIL 29, 1949,\n8:00 P.M."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "The girl had talent, anyone could\nsee that. And *she* wasn't some fly-\nby-nighter, she was just a good clean\nkid..."
+  },
+  {
+   "type": "stage direction",
+   "text": "SCHOOL GYMNASIUM\nA young man holding a saxophone is just leaving the makeshift\nstage to a smattering of applause. Birdy walks out to the\nbaby grand that has been set out center stage."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...If she was going to have a career\nshe'd need a responsible adult looking\nout for her..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We track up the rows of folding chairs that have been set\nout on the gym floor for the audience of students and parents,\nmany of whom fan themselves with programs. We come to rest\non Ed."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...some kind of... manager. She'd\nhave contracts to look at, be going\non tours, playing on the radio maybe.\nI could help her sort through all of\nthat, without charging her an arm\nand a leg, just enough to get by..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Birdy begins to play for the quietly attentive audience."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SCHOOL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is among the crowd streaming from the gym into the warm\nsummer night. He looks around the parking lot."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I could afford to charge less\nthan the usual manager, not having\nto put up a big front like a lot of\nthese phonies. And I could be with\nher, enough to keep myself feeling\nOK..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A trace of a frown as he spots her leaning against a car,\nlaughing, passing a cigarette back and forth with another\nstudent--a boy."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Why couldn't that work?... Why\nnot?..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Birdy's easy smile remains as Ed approaches, but the boy's\ndrops; he puts on a face more suitable for meeting adults."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Hi, Mr Crane."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Hello, Birdy. I thought that was\nvery good."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Oh, in there? I messed up a little\nbit in the scherzo. I guess, if nobody\nnoticed, it's OK. Mr Crane, this is\nTony, a friend of mine. Tony, Mr\nCrane."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Hello, Tony."
+  },
+  {
+   "type": "speech",
+   "character": "TONY",
+   "text": "Hello, sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Silence. The teens wait for the adult to direct the\nconversation; Ed has nothing to say. At length, he clears\nhis throat."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Well, congratulations. I guess\nI'll be getting home."
+  },
+  {
+   "type": "speech",
+   "character": "TONY",
+   "text": "Nice to meet you, sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "TURANDOT SUITE\nIt is morning. We are tracking past an unmade bed toward the\nbathroom, where we hear water running."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Anyway, that's what I was thinking\nabout in the days leading up to the\ntrial. It seemed like once that was\nover, I'd be ready for a new start.\nFreddy Riedenschneider was very\noptimistic. He was busy preparing..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We have rounded the open bathroom door to find Riedenschneider\nhunched over the sink, toothbrush in hand, spitting out water.\nHe rises, looks at himself in the mirror, sprinkles some\ntonic in his hair."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...And finally it came... the first\nday of the trial..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider runs his fingers through his hair."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...What Riedenschneider called the\nBig Show."
+  },
+  {
+   "type": "stage direction",
+   "text": "He straightens his tie, gives his neck a twist.\nCOURTROOM\nWe are close on the back of Riedenschneider's gleaming hair.\nHe is sitting at the defense table.\nThere is a murmur of a crowd that has yet to be called to\norder."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Where's the judge? How come there's\nno judge?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed and Frank sit next to each other in the first gallery row\ndirectly behind Riedenschneider."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...Where's the judge, Ed?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed shrugs. Frank looks at Riedenschneider's back."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...How come the judge doesn't come\nout?"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "The judge comes in last. He'll come\nin when Doris gets here."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "So where's Doris? I thought we started\nat ten. Hey, Riedenschneider, where's\nDoris?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider is curt:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "She's late."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "Late? How can she be late?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider doesn't answer; Frank turns to Ed."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...She's in prison, Ed. None of *us*\nare in prison, and yet we're not\nlate. We're on time, Ed. How can\nDoris be late? What, they don't have\nwake-up calls?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The murmur of the crowd subsides as a door behind the judge's\nbench opens and the judge hurriedly enters.\nThe gallery rises but the judge quickly waves them back down\nand, rather than seating himself, leans forward over his\ndesk to give a peremptory beckoning wave to Riedenschneider\nand the prosecutor."
+  },
+  {
+   "type": "speech",
+   "character": "JUDGE",
+   "text": "Counselors."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider, puzzled, approaches the bench, as does his\ncounterpart from the other table. The judge, still leaning\nforward, speaks to them in a low voice that is not audible\nfrom the gallery.\nThe crowd has started murmuring again, also in hushed tones.\nFrank leans in toward Ed."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What's going on, Ed? I thought there\nwould be arguments. The bailiff, and\nso forth..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed, also puzzled, is watching Riedenschneider, who suddenly\nstiffens. As the judge continues to talk, Riedenschneider\nlooks back over his shoulder at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "...Ed, what is this? Is this\nprocedure?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The two lawyers nod at the judge and walk back to their\nrespective tables. The judge now summons a uniformed man\nstanding to one side."
+  },
+  {
+   "type": "speech",
+   "character": "JUDGE",
+   "text": "Bailiff."
+  },
+  {
+   "type": "stage direction",
+   "text": "As the judge and the bailiff confer, Riedenschneider looks\ndown at his desk and, for something to do, straightens various\npapers."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "I don't understand... We had a real\nshot at it... We could have won this\nthing..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Bailiff Announces:"
+  },
+  {
+   "type": "speech",
+   "character": "BAILIFF",
+   "text": "In the matter of the State of\nCalifornia versus Doris Crane, Case\nNumber 87249 assigned to this Superior\nCourt..."
+  },
+  {
+   "type": "stage direction",
+   "text": "As the bailiff drones, Riedenschneider shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...It doesn't make any sense..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nLate afternoon sun slants in.\nThe shop, not open for business, is very still. Ed, in his\ncourtroom suit, sits in one of the vinyl chairs that line\nthe wall, hunched forward, forearms on his knees.\nFrank, also still in his suit, is up in one of the barber\nchairs, one hand cupped to his forehead, weeping."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "She'd hanged herself. I'd brought\nher a dress to wear to court and\nshe'd used the belt. I didn't\nunderstand it either. At first I\nthought maybe it had something to do\nwith me, that she'd figured out\nsomehow how I fit into it and couldn't\nstand it, couldn't stand knowing..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BEDROOM\nNight. Ed is in bed, staring at the ceiling."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...That wasn't it, I would find out\nlater. For now, everything just seemed\nruined..."
+  },
+  {
+   "type": "stage direction",
+   "text": "METROPOLE LOBBY\nRiedenschneider is at the cashier's desk, checking out. Behind\nhim a bellman's cart is piled high with his bags."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Freddy Riedenschneider went back\nto Sacramento still shaking his head,\nsaying it was the biggest\ndisappointment of his professional\ncareer..."
+  },
+  {
+   "type": "stage direction",
+   "text": "FRANK'S HOUSE\nDay. Frank's kitchen.\nFrank sits at his kitchen table, staring, in a bathrobe thrown\nover his pyjamas, unshaven."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Frankie fell to pieces. I suspect\nhe was drinking; anyway, he stopped\ncoming to work..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nEd, in his smock, works on a customer."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...That left me to keep the place\ngoing, or the bank would've taken\nit."
+  },
+  {
+   "type": "stage direction",
+   "text": "As he uses the electric clippers, a cigarette plumes between\nhis lips. He squints against the smoke drifting past his\neyes."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...*I* was the principal barber now.\nI hired a new man for the second\nchair..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed's former chair is indeed being manned by a newcomer, a\ngangly young man who animatedly chats up his customer."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I'd hired the guy who did the\nleast gabbing when he came in for an\ninterview. But I guess the new man\nhad only kept quiet because he was\nnervous; once he had the job, he\ntalked from the minute I opened the\nshop in the morning..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. BARBERSHOP"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is evening. Ed is locking the barbershop as, next to him\non the sidewalk, the new man continues to chat, gesticulating\nto illustrate his store."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...until I locked up at night. For\nall I know, he talked to himself on\nthe way home."
+  },
+  {
+   "type": "stage direction",
+   "text": "STREET\nEd walks along the sidewalk."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...When *I* walked home, it seemed\nlike everyone avoided looking at\nme..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Indeed, none of the passers-by establish eye contact; their\naverted eyes make the crowd a faceless throng."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...as if I'd caught some disease.\nThis thing with Doris, nobody wanted\nto talk about it; it was like I was\na ghost walking down the street..."
+  },
+  {
+   "type": "stage direction",
+   "text": "HOUSE\nAs Ed lets himself in."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...And when I got home now, the place\nfelt empty."
+  },
+  {
+   "type": "stage direction",
+   "text": "He sits on the couch and, after a beat, takes a cigarette\npack from his pocket and taps out a smoke."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I sat in the house, but there was\nnobody there. I was a ghost; I didn't\nsee anyone; no one saw me..."
+  },
+  {
+   "type": "stage direction",
+   "text": "BARBERSHOP\nEd is in his smock again, operating the clippers."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I was the barber."
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE OUT\nThe drone of the clippers has continued over the black. A\nvoice fades up:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE 1",
+   "text": "So two blocks later I look at the\nchange she gave me and, golly, I'm\ntwo bits short."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE 2",
+   "text": "Two bits short."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE 1",
+   "text": "So I walk back over to Linton's,\nfind this gal--big argument; she\ndoesn't even recall the transaction."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE 2",
+   "text": "No recollection."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE 1",
+   "text": "Doesn't recall the transaction, no\nrecollection, so I said, Look, dear..."
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE IN\nWe are looking at a magazine story. Its headline, over an\nillustration of a cresting wave, is: WAVE OF THE FUTURE.\nUnderneath are black-and-white photographs of heavy equipment\nand racks of clothing on motorized tracks. Subheadlines read:\nNEXT TO GODLINESS - Dry Cleaning Sweeps The Nation - The\nThoroughly Modern Way To Clean.\nEd sits in one of the vinyl chairs, staring at Life magazine.\nThe offscreen conversation drones on as the new man works on\na customer."
+  },
+  {
+   "type": "speech",
+   "character": "NEW MAN",
+   "text": "...go ahead, look at the menu, if\nyou're in before six o'clock it's\nthe, whatchamacallit, the--"
+  },
+  {
+   "type": "speech",
+   "character": "CUSTOMER",
+   "text": "Early Bird Special."
+  },
+  {
+   "type": "speech",
+   "character": "NEW MAN",
+   "text": "What? Yeah, the Early Riser..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed flips the pages of the magazine, and stops on a photograph\nof a dark desert landscape with one bright light hovering in\nthe sky. The caption underneath: ROSWELL, NEW MEXICO."
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Crane?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed looks up.\nA man in a black suit and fedora has directed the question\nat the new man, who looks up from his gabbling, momentarily\nslackjawed."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I'm Crane."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "My name is Diedrickson. County medical\nexaminer."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah?"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "Just came for an informal chat..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Diedrickson looks around uncomfortably."
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Why don't I buy you a drink?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed rises from his chair and, as he unbuttons his smock,\naddresses the new man, who still gapes."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Dwight, you OK here for a few minutes?"
+  },
+  {
+   "type": "speech",
+   "character": "DWIGHT",
+   "text": "Whuh--uh, yeah, sure Ed, take your\ntime."
+  },
+  {
+   "type": "stage direction",
+   "text": "BAR\nIt is late afternoon, dusty and empty.\nEd and Diedrickson sit on adjacent stools, Diedrickson cocking\nhis hat lower to its man-sitting-at-a-bar position.\nAs the bartender approaches:"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "Rye."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Just coffee."
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "You sure you don't want something\nstiffer?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed shrugs and shakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "BARTENDER",
+   "text": "Coffee it is."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves. Diedrickson interlaces his fingers on the bartop\nand stares at them. After a beat:"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...County M. E. does an autopsy on\nanyone who dies in custody. I don't\nknow if you knew that. It's routine."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed doesn't answer. Diedrickson, after some more staring at\nhis hands, plows on:"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Doesn't become a matter of public\nrecord unless there's foul play.\nHowever. I don't believe I'm\n*prohibited* from telling you this.\nI guess I'm not obliged to tell you,\neither. I don't exactly know.  But\nif *I* were the man, I'd want to be\ntold."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Told what?"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "I, uh... thanks."
+  },
+  {
+   "type": "stage direction",
+   "text": "The bartender has set down the drinks.\nDiedrickson waits for him to leave. He takes a hit from his\nglass. Finally:"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...I'm sorry to add to your burden,\nCrane, but I'd want to know it it\nwas me. Your wife was pregnant. First\ntrimester."
+  },
+  {
+   "type": "stage direction",
+   "text": "A pause."
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Well, there it is."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another pause."
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...I'm sorry."
+  },
+  {
+   "type": "stage direction",
+   "text": "He mutters to himself:"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Hell, I hope I've done the right\nthing."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "My wife and I had not... performed\nthe sex act in many years."
+  },
+  {
+   "type": "stage direction",
+   "text": "Diedrickson stiffens."
+  },
+  {
+   "type": "stage direction",
+   "text": "(murmuring)"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Jesus."
+  },
+  {
+   "type": "stage direction",
+   "text": "(aloud)"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Well, that's not really my\nbusiness."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is hastily digging for money."
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...I'm sorry. Well, there it is."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves a couple of bills on the bar and mumbles as he\nleaves:"
+  },
+  {
+   "type": "speech",
+   "character": "DIEDRICKSON",
+   "text": "...Good luck, Crane."
+  },
+  {
+   "type": "stage direction",
+   "text": "His retreating footsteps echo down the bar.\nAPARTMENT HALLWAY\nIt is a dingy hallway lit by bare bulbs. Ed stands in the\nmiddle background, knocking on a door."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Doris and I had never really talked\nmuch. I don't think that's a bad\nthing, necessarily. But it was funny:\nnow I wanted to talk--now, with\neveryone gone. I was alone, with\nsecrets I didn't want and no one to\ntell them to anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "The door opens and Ed is admitted by the unseen tenant.\nAPARTMENT\nWe hear a low murmuring as we slowly pan the apartment. It\nis overfurnished with heavy, ornate chairs, sideboards, chests\ntoo big for the space and all going too seed. Surface areas\nare covered with yellowing lacework or exotic brocades; the\none lamp has a veil thrown over it to further scrim down its\nfeeble light.\nOur pan brings us onto Ed seated at a small card table across\nfrom a small elderly woman in a shawl who is the source of\nthe murmuring. Her eyes are squeezed shut in concentration\nas she mumbles."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I visited a woman who was supposed\nto have powers in communicating with\nthose who had passed across, as she\ncalled it. She said that people who\npassed across were picky about who\nthey'd communicate with, not like\nmost people you run into on this\nside..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The woman opens her eyes and looks at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "WOMAN",
+   "text": "Giff me your hant."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed places his hand in the center of the table."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...so you needed a guide who they\ndidn't mind talking to, someone with\na gift for talking to souls..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed looks at the woman's spotted and vein-lined hand as it\nrests upon his. Her mumbling resumes."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Well, first she told me that my\nwife was in a peaceful place, that\nour souls were still connected by\nsome spiritual bond, that she had\nnever stopped loving me even though\nshe'd done some things she wasn't\nproud of..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed looks up at the old woman."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...She was reading me like a book."
+  },
+  {
+   "type": "stage direction",
+   "text": "She is stealing a glance at Ed to check his reaction."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...And then she started talking about\n'Dolores' this and 'Dolores' that\nand was there anything I wanted to\ntell 'Dolores,' and I knew I'd just\nbe telling it to the old bat. And\neven if somehow Doris could hear, it\nwouldn't be on account of this so-\ncalled medium."
+  },
+  {
+   "type": "stage direction",
+   "text": "APARTMENT HALLWAY\nEd is leaving."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "She was a phony. Just another gabber."
+  },
+  {
+   "type": "location",
+   "text": "EXT. TENEMENT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed emerges from the building."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I was turning into Ann Nirdlinger,\nBig Dave's wife. I had to turn my\nback on the old lady, on the veils,\non the ghosts, on the dead, before\nthey all sucked me in..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed disappears into the night.\nABUNDAS HOUSE\nIt is night. We are looking through the screen door. Walter\nAbundas sits in yellow lamplight by a small table on the\nside of the staircase, over which papers are strewn. He is\nmurmuring into the telephone as he examines the papers,\nglasses halfway down his nose, a drink in one hand.\nEd's hand enters to rap on the door. Walter looks up, sets\nthe phone down and comes to the door."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Ed, how're you holding up?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'm OK, Walter, thanks."
+  },
+  {
+   "type": "stage direction",
+   "text": "Walter opens the door to him."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "I'm so damn sorry about your loss.\nTerrible thing. Just damn terrible."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "WALTER",
+   "text": "Birdy's in the parlor--I'm on long\ndistance here."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Sure, Walter. Thanks."
+  },
+  {
+   "type": "stage direction",
+   "text": "PARLOR\nBirdy also has papers spread across a table in front of her:\nhomework. She looks up at Ed's entrance."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Hello, Mr Crane."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Hello, Birdy."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "We haven't seen you since... I'm\nterribly sorry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sits across from her."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "We've certainly missed you."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Birdy, I've been doing a lot of\nthinking. There are a lot of things\nthat haven't worked out for me. Life\nhas dealt me some bum cards..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He is loading a cigarette into his mouth."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...or maybe I just haven't played\n'em right, I don't know. But you're--"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Pop doesn't like people smoking in\nhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed stares. This takes a moment to register."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Oh. Sorry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Birdy lowers her voice:"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Sometimes I have a cigarette in here\nwhen he's away. Never when he's in\nthe house. He can smell it a mile\noff."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is pocketing the cigarette."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Sure... Sure, it's his house."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "That's what he keeps telling me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed smiles thinly."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Anyway, uh... my point is you're\nyoung. A kid really, your whole life\nahead of you. But it's not too soon\nto start thinking... to start making\nopportunities for yourself. Before\nit all washes away."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Well, sure, I guess. Pop says so\ntoo. I work pretty hard at school."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "That's swell. However, the music, if\nyou want to pursue it, well, the\nlessons from Mrs Swan, they'll only\ntake you so far. There's this guy in\nSan Francisco, I've made inquiries,\neverybody says he's the best. Trained\nlots of people who've gone on to\nhave big concert careers, symphony\norchestras, the works. His name is\nJacques Carcanogues. I'm not sure\nI'm pronouncing it right. Anyway,\nhe's a Frenchman."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Boy."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "You've got talent, anyone could see\nthat. And he's the best. If he thinks\na student has talent, he'll take 'em\non for next to nothing. You're a\ncinch to be accepted, I could cover\nthe cost of the lessons, like I said,\nit's pretty modest--"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Oh, Mr Crane--"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I have to do it. I can't stand by\nand watch more things go down the\ndrain. You're young, you don't\nunderstand."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Geez, Mr Crane, I don't know. I hadn't\nreally thought about a career or\nstuff."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I know you haven't. Look, just go\nmeet him as a favor to me. I talked\nto this guy. Hope I pronounced his\nname right. He sounded very busy,\nbut he's not a bad egg; he loosened\nup a little when I told him how\ntalented you are. He agreed to see\nyou this Saturday. He said maybe you\nwere a diamond in the rough. His\nwords."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Geez, Mr Crane."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Just see him, as a favor to me."
+  },
+  {
+   "type": "stage direction",
+   "text": "STUDIO WAITING ROOM\nIt is a small square room with straightbacked chairs set\nagainst the walls. At the far end of the room a door leads\nto a studio from which piano music dully emanates; it is a\nfast and difficult piece of music.\nEd sits waiting. He is the only adult; two or three youngsters\nof different ages sit apparently waiting for their lessons.\nEd looks at one of the waiting boys in a white shirt and bow\ntie. He is perhaps eleven. His hair is greased back in a\nJunior Contour.\nAnother boy, in a cardigan sweater, sports a Butch.\nThe piano piece is ending. There is the murmur of voices.\nDull footsteps.\nThe studio door swings open.\nA small man in a rumpled black suit smudged with cigarette\nash is bowing Birdy out the door. He has a goatee and a\nknotted foulard. His eyes flit over the waiting room and\nsettle on Ed."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "...You are ze fahzer?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "No. Uh... family friend."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "I am Carcanogues."
+  },
+  {
+   "type": "stage direction",
+   "text": "He smiles at Birdy."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...You wait, my dear?"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Sure, Mr K."
+  },
+  {
+   "type": "stage direction",
+   "text": "A jerk of Carcanogues' head bids Ed rise.\nSTUDIO\nEd enters, uncomfortable. He looks around, taking in the\nhigh-ceilinged space, which is dominated by a grand piano.\nCarcanogues has followed him and now runs water from a tap."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "I speak to you on ze phone, non? You\nhave a special interest in music?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Ah yes, a music lover."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Well, I don't pretend to be an expert."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Ah."
+  },
+  {
+   "type": "stage direction",
+   "text": "He uncaps a small bottle of pills, shakes two into his palm,\ntosses them back and washes them down."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "...Ah-hah."
+  },
+  {
+   "type": "stage direction",
+   "text": "He twists a cigarette into a long holder, sticks it in his\nmouth and lights it."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "...Mm."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Well? How'd she do?"
+  },
+  {
+   "type": "stage direction",
+   "text": "This elicits a Gallic frown of consideration."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Ze girl?... She seems like a very\nnice girl. She *plays*, monsieur,\nlike a very nice girl. Ztinks. Very\nnice girl. However, ztinks."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't understand."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Is not so hard to understand. Her\nplaying, very polite."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Did she make mistakes?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Another gallic moue:"
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Mistake, no, it says E-flat, she\nplays E-flat. Ping-ping. Hit the\nright note, always. Very proper."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I don't understand, no mistakes,\nshe's just a kid--I thought you taught\nthe, uh, the--"
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Ah, but that is just what I cannot\nteach. I cannot teach her to have a\nsoul. Look, monsieur, play the piano,\nis not about the fingers. *Done*\nwith the fingers, yes. But the music,\nshe is inside. Inside, monsieur..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A two-handed gesture, indicating his heart."
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "...The music start here..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He waggles his fingers:"
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "...come out through here; then,\nmaybe..."
+  },
+  {
+   "type": "stage direction",
+   "text": "His wave takes in the heavens:"
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "...she can go up there."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Well, look, I don't claim to be an\nexpert--"
+  },
+  {
+   "type": "speech",
+   "character": "CARCANOGUES",
+   "text": "Then you listen to me, for I am\nexpert. That girl, she give me a\nheadache. She cannot play. Nice girl.\nVery clever hands. Nice girl. Someday,\nI think, maybe, she make a very good\ntypist."
+  },
+  {
+   "type": "stage direction",
+   "text": "DRIVING\nWe are driving through the rural countryside of northern\nCalifornia. It is a two-lane road with little traffic. Sun\nstrobes the car through the passing trees.\nEd drives, glaring. Birdy, next to him, seems unperturbed,\never cheerful."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "...I stank, didn't I?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "He didn't say that."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "But more or less."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Look, I'm no expert, but--"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "It doesn't matter, Mr Crane."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "I'm sure there's a dozen teachers\nbetter than this clown. More\nqualified. Goddamn phony."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "But it doesn't matter. Really, I'm\nnot interested in playing music\nprofessionally."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed looks at her."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "...I'm not certain I'll have a career\nat all, and if I do, I'll probably\nbe a veterinarian."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Uh-huh."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "I do appreciate the interest you've\ntaken, though."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Ah... it's nothing."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "I'm only sorry that I didn't play\nbetter for you. I know it would've\nmade you happy. You know what you\nare?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Huh."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "You're an enthusiast."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Huh. Yeah. Maybe..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He loads a cigarette into his mouth."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...I guess I've been all wet."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "But I do appreciate it, Mr Crane..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She reaches over to touch his thigh."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "...I wanted to make you happy."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Birdy--"
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "It's OK..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She is leaning over his lap."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "...I want to do it, Mr Crane."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is shocked:"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Birdy!"
+  },
+  {
+   "type": "stage direction",
+   "text": "He reaches awkwardly, wanting to push her away but not wanting\nto be violent."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...No, please."
+  },
+  {
+   "type": "speech",
+   "character": "BIRDY",
+   "text": "Please, Mr Crane, it's OK, please--"
+  },
+  {
+   "type": "stage direction",
+   "text": "The blare of an oncoming horn.\nEd looks up, one hand struggling with Birdy, the other on\nthe wheel.\nThe oncoming car.\nEd swerves, tires screech into a skid, Birdy screams.\nCRASH: the car hits a roadside tree.\nBLACK."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "Time slows down right before an\naccident, and I had time to think\nabout things. I thought about what\nan undertaker had told me once--that\nyour hair keeps growing, for a while\nanyway, after you die..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A hubcap is skipping in slow motion along the road and then\noff the road, down an embankment."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and then it stops. I thought,\nwhat keeps it growing? Is it like a\nplant in soil? What goes out of the\nsoil? The soul? And when does the\nhair realize that it's gone?"
+  },
+  {
+   "type": "stage direction",
+   "text": "We are high, looking down at Ed, who is motionless, head\nresting on the steering wheel of the stopped car. We boom\ndown toward his, slowly rotating as we move in. As we move\nwe lose focus; Ed becomes more and more blurry.\nThe blurry shape is now slowly spinning away from us, a bright\nrevolving disc spinning up into the darkness until it\ndisappears, leaving only black.\nFADE IN\nEd sits on the front porch of his bungalow, smoking a\ncigarette in the late afternoon light.\nA dog barks next door; a distant screen door slams; children\nare playing somewhere up the street.\nEd looks down at his watch. It is 5:30.\nSomething attracts his attention: at the foot of his driveway\nstands a man in a cream-colored suit and hat. He is a small\nfigure, perfectly still, staring at the gravel driveway.\nAfter a beat he lifts up a small clipboard, squints at the\nhouse, and jots something down.\nHe finishes writing, screws the lid back onto his pen, and\nis sticking it into a breast pocket when he realizes he is\nbeing watched. His manner instantly warms."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Hello!"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Hello."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man starts up the walk."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "I notice you still have peastone in\nyour driveway."
+  },
+  {
+   "type": "stage direction",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Well, of course, you don't have to\nrejuvenate that once every couple of\nyears, don't you, when the peastone\nthins out."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed shrugs."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...Where does it go, huh? Like the\nodd sock. But you *know* where it\ngoes--you probably pick pieces of it\noff your lawn all the time, churn it\nup with your lawn mower, sweep it\noff the walk here--pain in the neck."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed shrugs again."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Doesn't bother me."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Well, have you ever considered tar\nMacadam? People think it's just for\npublic works and commercial purposes,\nroads, parking lots, so forth..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A car pulls into the drive."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...but we have the technology now to\nbring it to the homeowner, the\nindividual consumer, at a very\nreasonable price."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris emerges from the car."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...Mind if I show you the\nspecifications?--Evening, ma'am."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris gives him a hard look."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "What're *you* selling?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The man gives a practiced laugh."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "Well, ma'am, I was just telling your\nhusband here about tar Macadam, for\nyour home driveway here--these are\nthe specs..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris takes the brochure he has pulled from a small case."
+  },
+  {
+   "type": "speech",
+   "character": "MAN",
+   "text": "...It's the modern way to--"
+  },
+  {
+   "type": "stage direction",
+   "text": "Doris tears the brochure in half and hands it back."
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Get lost."
+  },
+  {
+   "type": "stage direction",
+   "text": "The man gazes at her. His smile fades fast and he and Doris\nstare at each other, two hard cases.\nHe turns stiffly and stalks off.\nOnce his gaze has broken, Doris turns as well. She stalks up\nthe stairs to the porch and bangs through the screen front\ndoor of the house, letting it slam behind her.\nQuiet, early evening.\nEd sits, smoking.\nAt length he rises and goes in to the house."
+  },
+  {
+   "type": "location",
+   "text": "INT. BUNGALOW"
+  },
+  {
+   "type": "stage direction",
+   "text": "It is dim, no lights on yet. We hear banging and clomping\nfrom the kitchen.\nDoris emerges with a clinking sound, chasing ice cubes around\na drink with a swizzle stick. Her face is still hard-set.\nWith a groan of its old upholstery springs she sits onto the\ncouch.\nEd sits as well. He draws on his cigarette, drags an ashtray\ncloser on the coffee table.\nShe sips. He puffs."
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "...Doris--"
+  },
+  {
+   "type": "speech",
+   "character": "DORIS",
+   "text": "Nah, don't say anything. I'm alright."
+  },
+  {
+   "type": "stage direction",
+   "text": "The sit. The light is failing. The clink of ice cubes.\nFADE OUT\nIn the black we hear machine noise of indistinct origin. As\nthe noise becomes more defined we also hear shouting, faint,\ndistant:"
+  },
+  {
+   "type": "speech",
+   "character": "VOICE",
+   "text": "Are you there? Are you awake?"
+  },
+  {
+   "type": "stage direction",
+   "text": "A blurry white disc is fading up. As it focuses it resolves\ninto the reflector worn by a white-robed doctor, leaning in\nclose.\nHe leans away, murmuring:"
+  },
+  {
+   "type": "speech",
+   "character": "DOCTOR",
+   "text": "He's coming around. Can you talk,\nsir? These men have to talk."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is lying in a hospital bed. His face is bandaged and one\nside is grotesquely swollen. The machine noise is life\nsupport."
+  },
+  {
+   "type": "speech",
+   "character": "DOCTOR",
+   "text": "...Sir? Are you awake? He's awake."
+  },
+  {
+   "type": "stage direction",
+   "text": "Two police officers, Persky and Krebs, lean in."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Are you awake?... Is he awake?"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "Crane? We have to tell you, as soon\nas you're conscious--is he conscious?"
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "His eyes are open."
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "Uh... you're under arrest."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "As soon as the doctor lets us, we\ngotta move you. Does he understand\nthat? We're supposed to tell him.\nAre you conscious?"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "You'll go to the prison hospital."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Under arrest for murder."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed's speech is thickened by injuries and anesthesia:"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Birdy... I didn't mean to--"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "What'd he say?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Birdy..."
+  },
+  {
+   "type": "speech",
+   "character": "DOCTOR",
+   "text": "Birdy. The girl. No, the girl's OK.\nBroken clavicle."
+  },
+  {
+   "type": "stage direction",
+   "text": "The doctor leans in."
+  },
+  {
+   "type": "speech",
+   "character": "DOCTOR",
+   "text": "...That's the collarbone, Crane.\nBroken. She's OK though."
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "So he understands? He's under arrest\nfor murder?"
+  },
+  {
+   "type": "speech",
+   "character": "ED",
+   "text": "Big Dave."
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "Huh?"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "What'd he say? Does he understand?"
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "He said OK. Is that what he said?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Krebs raises his voice:"
+  },
+  {
+   "type": "speech",
+   "character": "KREBS",
+   "text": "You're under arrest for the murder\nof Creighton Tolliver! Do you\nunderstand?"
+  },
+  {
+   "type": "stage direction",
+   "text": "The voices are fading away:"
+  },
+  {
+   "type": "speech",
+   "character": "PERSKY",
+   "text": "...Does he understand?..."
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE OUT\nUNDERWATER\nLight glimmers in water. We are drifting down, down, down.\nWe bring in languidly waving arms--the arms of a child, waving\nto keep himself submerged. It is a ten-year-old boy staring,\nwide-eyed, at something in front of him. Bubbles\nintermittently stream from his open mouth."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "The pansy. A kid diving at a waterhole\noutside of town had found his car..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The reverse shows the car, also submerged, with Creighton\nTolliver inside, also wide-eyed, his hairpiece attached at\nonly one corner, the rest of it waving free."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...They'd winched it out..."
+  },
+  {
+   "type": "stage direction",
+   "text": "TRACKING\nWe are tracking laterally across a line of faces: seated\nmen. The men rise."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and found he'd been beaten, just\nlike Big Dave said--beaten to death..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We arc around a judge entering the chamber through the small\ndoor behind his raised bench."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Inside the briefcase were the\npartnership papers I'd signed..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The judge seats himself and we resume out lateral track on\nthe jury, now reseating itself."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...showing that I'd given him ten\ngrand. For the district attorney..."
+  },
+  {
+   "type": "stage direction",
+   "text": "In response to a prompt from the judge the district attorney\nrises to read the charge. His voice plays distantly, muted,\nthe words not discernible under the continuing voice-over."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...that made it fall into place: I'd\ngotten Doris to steal the money, the\npansy had gotten wise somehow, and\nI'd had to kill him to cover my\ntracks. I was in a spot. I called in\nFreddy Riedenschneider..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider rises into frame at the defense table. As he\nlistens to the charge:"
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...and signed the house over to him.\nHe said he didn't ordinarily work\nthat cheap, but he figured he owed\nme something since the last one hadn't\nplayed out..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The drone of the D.A. has ended and Riedenschneider's echoing\nvoice drops into the hole:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Not guilty, your honor..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "I tried to tell him the whole story,\nbut Riedenschneider stopped me. He\nsaid the story made his head hurt,\nand anyway he didn't see any way of\nusing it without putting me on the\nhot seat for the murder of Big Dave..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider claps Ed reassuringly on the shoulder as he\nsits next to him. Ed still wears a cast on one arm and one\nleg."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...He told me not to worry, though,\nsaid he'd think of something, Freddy\nRiedenschneider wouldn't let me down."
+  },
+  {
+   "type": "stage direction",
+   "text": "JAIL\nWe are tracking in on Ed, lying on the bunk in his cell."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...They put me on twenty-four-hour\ndeathwatch..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A reverse track shows a guard on a tilted-back straightbacked\nchair, outside the cell door, staring at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...so that I couldn't Cheat Justice\nlike they said my wife had done..."
+  },
+  {
+   "type": "stage direction",
+   "text": "COURTROOM\nThe district attorney is rising again, this time to address\nthe jury."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...But in front of the jury they had\nit that Doris was a saint; the whole\nplan had been mine, I was a Svengali\nwho'd forced Doris to join my criminal\nenterprise..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The district attorney is pointing at Ed."
+  },
+  {
+   "type": "speech",
+   "character": "DISTRICT ATTORNEY",
+   "text": "...cynically used his own wife as a\ncat's paw in a scheme of diabolical\ncunning..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "On and on it went, how I'd used Doris\nand then let her take the fall. That\nstuff smarted because some of it was\nclose to being true..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The district attorney seats himself. The jury's eyes turn to\nFreddy Riedenschneider, who studies the tabletop in front of\nhim, either digesting the D.A.'s opening statement, or seeking\ninspiration for his own."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...And then it was Freddy\nRiedenschneider's turn."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider rises, paces, begins to talk."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I gotta hand it to him, he tossed\na lot of sand in their eyes. He talked\nabout how I'd lost my place in the\nuniverse..."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...a puny player on the great world's\nstage..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...how I was too ordinary to be the\ncriminal mastermind the D.A. made me\nout to be, how there was some greater\nscheme at work that the state had\nyet to unravel, and he threw in some\nof the old truth stuff he hadn't had\na chance to trot out for Doris..."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...who among us is in a position to\nsay..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...He told them to look at me--look\nat me close. That the closer they\nlooked the less sense it would all\nmake, that I wasn't the kind of guy\nto kill a guy, that I was the barber,\nfor Christ's sake..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We pan the jury, solemnly listening to Riedenschneider."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I was just like them, an ordinary\nman, guilty of living in a world\nthat had no place for me, guilty of\nwanting to be a dry cleaner, sure,\nbut not of murder..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider is striding energetically into the foreground\nto point a finger directly at Ed's face."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...He said I *was* Modern Man, and\nif they voted to convict me, well,\nthey'd be practically cinching the\nnoose around their own necks. He\ntold them to look not at the facts\nbut at the meaning of the facts, and\nthen he said the facts *had* no\nmeaning. It was a pretty good speech,\nand even had me going..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A tap on the shoulder turns Ed around."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...until Frankie interrupted it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Frank socks Ed, sending him clattering to the floor.\nA bailiff immediately restrains him, but Frank looms over\nEd, bellowing through tears:"
+  },
+  {
+   "type": "speech",
+   "character": "FRANK",
+   "text": "What kind of man *are* you? What\nkind of man *are* you?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Riedenschneider interposes his body between Frank's and Ed's,\nloudly protesting:"
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "Move for a mistrial, your honor!\nMove for a mistrial! This outrageous\ndisplay cannot help but prejudice..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed moves to get up, but Riedenschneider, with a sidelong\nglance and furtive gesture, motions for him to stay on the\nfloor."
+  },
+  {
+   "type": "speech",
+   "character": "RIEDENSCHNEIDER",
+   "text": "...and inflame the passions of these\ntwelve fine men and women..."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Well, he got his mistrial, but\nthe well had run dry. There was\nnothing left to mortgage;\nRiedenschneider went home and the\ncourt appointed Lloyd Garroway..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is now standing next to a distinguished older gentleman\nwho enters the plea in the new trial:"
+  },
+  {
+   "type": "speech",
+   "character": "GARROWAY",
+   "text": "Your honor, we plead guilty, with\nextenuating circumstances."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...who threw me on the mercy of the\ncourt. It was my only chance, he\nsaid. I guess that meant I never had\na chance..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The judge starts droning the sentence:"
+  },
+  {
+   "type": "speech",
+   "character": "JUDGE",
+   "text": "...a menace to society... a predator\non his own wife, his business\nassociates, on an innocent young\ngirl... social contract... line\ncrossed... the offender forfeits the\nright to his own life... I hereby\norder that you be taken to a place\nof confinement..."
+  },
+  {
+   "type": "stage direction",
+   "text": "PRISON HALLWAY\nWe are tracking down the hall."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "He wasn't buying any of that Modern\nMan stuff, or the uncertainty stuff,\nor any of the mercy stuff either.\nNo, he was going by the book, and\nthe book said I got the chair..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is in the cell at the end of the hall, lying on his bunk,\nhands clasped behind his head."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...so here I am. At first I didn't\nknow how I got here. I knew step by\nstep of course, which is what I've\ntold you, step by step; but I couldn't\nsee any pattern..."
+  },
+  {
+   "type": "stage direction",
+   "text": "LATER\nEd sits at the little table next to his bunk, writing."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Now that I'm near the end, I'm\nglad that this men's magazine paid\nme to tell my story. Writing it has\nhelped me sort it all out. They're\npaying five cents a word, so you'll\npardon me if sometimes I've told you\nmore than you wanted to know..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Recent issues of the magazine, Gent, and its sister\npublication Nugget lie on the little desk. Their lurid covers\ndepict feature stories like I WAS ABDUCTED BY ALIENS and\nAFTER TEN YEARS OF NORMAL LIFE, I DISCOVER I AM AN ESCAPED\nLUNATIC."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...But now, all the disconnected\nthings seems to hook up."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed sets aside the pen, lies down on his bunk, and closes his\neyes."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...That's the funny thing about going\naway, knowing the date you're gonna\ndie--and the men's magazine wanted\nme to tell how that felt..."
+  },
+  {
+   "type": "stage direction",
+   "text": "We hear a pulsing treble hum. Ed opens his eyes.\nThe door to his cell is open.\nHe rises and goes through the door.\nPRISON HALLWAY\nEd, alone, walks down the hallway. The pulsing treble hum is\nlouder."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Well, it's like pulling away from\nthe maze. While you're in the maze\nyou go through willy-nilly, turning\nwhere you think you have to turn,\nbanging into dead ends, one thing\nafter another..."
+  },
+  {
+   "type": "stage direction",
+   "text": "PRISON YARD\nEd emerges into the empty prison yard ringed by high stone\nwalls. A hard spotlight shines down from above. Ed squints\ninto it."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...But get some distance on it, and\nall those twists and turns, why,\nthey're the shape of your life. It's\nhard to explain..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The spotlight is from a hovering flying saucer. We see its\nrevolving underside and, as it irregularly cants, a bit of\nits top bubble.\nAfter spinning briefly, it tips and flies away, carrying the\ntremolo hum with it."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...But seeing it whole gives you\nsome peace."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed turns and re-enters the prison.\nED'S CELL\nEd is lying on his bunk, eyes closed, hands clasped behind\nhis head. A hand enters to shake him awake.\nThree men loom over him: two guards and another man wearing\na surplice and holding a bible."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...The men's magazine also asked\nabout remorse. Yeah, I guess I'm\nsorry about the pain I caused other\npeople..."
+  },
+  {
+   "type": "stage direction",
+   "text": "PRISON HALLWAY\nHe is walking the last mile."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...but I don't regret anything. Not\na thing. I used to. I used to regret\nbeing the barber."
+  },
+  {
+   "type": "stage direction",
+   "text": "A door at the end opens:\nAn electric chair. Straps open, and waiting:"
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I dont know where I'm being taken."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed is placed in the chair."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...I don't know what waits for me,\nbeyond the earth and sky. But I'm\nnot afraid to go."
+  },
+  {
+   "type": "stage direction",
+   "text": "A man stoops at his feet. He has a bucket of water and a\nstraight razor.\nHe waggles the razor in the water and starts shaving a patch\nof Ed's calf."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Maybe the things I don't understand\nwill be clearer there, like when a\nfog blows away..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ed watches as the razor makes the trip from his leg to the\nbucket of water, which begins to spot with small floating\nhairs."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...Maybe Doris will be there."
+  },
+  {
+   "type": "stage direction",
+   "text": "They are strapping him in, connecting the electrodes."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...And maybe there I can tell her..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The men withdraw."
+  },
+  {
+   "type": "speech",
+   "character": "ED (V.O.)",
+   "text": "...all those things..."
+  },
+  {
+   "type": "stage direction",
+   "text": "A thin man in a dark suit and fedora stands by the switch.\nAs he reaches for the switch, Ed looks up into the light."
+  },
+  {
+   "type": "speech",
+   "text": "...they don't have words for here."
+  }
+ ]
+}
