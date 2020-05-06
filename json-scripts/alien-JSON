@@ -1,0 +1,7491 @@
+{
+ "movie_url": "http://www.horrorlair.com/scripts/alien.html",
+ "movie_title": "Alien",
+ "movie_year": "1979",
+ "movie_script": [
+  {
+   "type": "introduction",
+   "text": "\"ALIEN\"\nby\nWalter Hill\nand\nDavid Giler\nBased on screenplay\nby\nDan O'Bannon\nStory by\nDan O'Bannon and Ronald Shusett\nREVISED FINAL\nJUNE, 1978\nScience fiction plucks from within\nus our deepest fears and hopes then\nshows them to us in rough disguise:\nthe monster and the rocket.\nW.H. Auden\nWe live, as we dream -- alone.\nJoseph Conrad\n\"ALIEN\""
+  },
+  {
+   "type": "stage direction",
+   "text": "FADE IN\nSOMETIME IN THE FUTURE:"
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "Empty, cavernous."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Circular, jammed with instruments.\nAll of them idle.\nConsole chairs for two.\nEmpty."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Long, dark.\nEmpty.\nTurbos throbbing.\nNo other movement."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR - \"A\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Long, empty."
+  },
+  {
+   "type": "location",
+   "text": "INT. INFIRMARY - \"A\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Distressed ivory walls.\nAll instrumentation at rest."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR TO BRIDGE - \"A\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Black, empty."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Vacant.\nTwo space helmets resting on chairs.\nElectrical hum.\nLights on the helmets begin to signal one another.\nMoments of silence.\nA yellow light goes on.\nData mind bank in b.g.\nElectronic hum.\nA green light goes on in front of one helmet.\nElectronic pulsing sounds.\nA red light goes on in front of other helmet.\nAn electronic conversation ensues.\nReaches a crescendo.\nThen silence.\nThe lights go off, save the yellow."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR TO HYPERSLEEP VAULT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lights come on.\nSeven gowns hang from the curved wall.\nVault door opens."
+  },
+  {
+   "type": "location",
+   "text": "INT. HYPERSLEEP VAULT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Explosion of escaping gas.\nThe lid on a freezer pops open.\nSlowly, groggily, KANE sits up.\nPale.\nKane rubs the sleep from his eyes.\nStands.\nLooks around.\nStretches.\nLooks at the other freezer compartments.\nScratches.\nMoves off."
+  },
+  {
+   "type": "location",
+   "text": "INT. GALLEY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane plugs in a Silex.\nLights a cigarette.\nCoughs.\nGrinds some coffee beans.\nRuns some water through."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Rise and shine, Lambert."
+  },
+  {
+   "type": "location",
+   "text": "INT. HYPERSLEEP VAULT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Another lid pops open.\nA young woman sits up."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What time is it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "What do you care."
+  },
+  {
+   "type": "location",
+   "text": "INT. GALLEY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Pot now half-full.\nKane watches it drip.\nInhales the fragrance."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Now Dallas and Ash."
+  },
+  {
+   "type": "stage direction",
+   "text": "(calls out)"
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Good morning Captain."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Where's the coffee."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Brewing."
+  },
+  {
+   "type": "stage direction",
+   "text": "LAMBERT walks into the kitchen.\nPours herself a cup."
+  },
+  {
+   "type": "location",
+   "text": "INT. HYPERSLEEP VAULT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Two more lids pop open.\nA pair of men sit up.\nLook at each other."
+  },
+  {
+   "type": "location",
+   "text": "INT. GALLEY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane enjoys a freshly-brewed cup."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Ripley..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another moment.\nAnd then the sound of another lid opening."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "And if we have Parker, can\nBrett be far behind."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lid opening sound."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Right."
+  },
+  {
+   "type": "location",
+   "text": "INT. HYPERSLEEP VAULT"
+  },
+  {
+   "type": "stage direction",
+   "text": "DALLAS looks at his groggy circus."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "One of you jokers get the cat."
+  },
+  {
+   "type": "stage direction",
+   "text": "RIPLEY picks up a limp cat out of one of the compartments."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crew of the United States commercial starship Nostromo\nseated around a table.\nDallas.........Captain\nKane...........Executive Officer\nRipley.........Warrant Officer\nAsh............Science Officer\nLambert........Navigator\nParker.........Engineer\nBrett..........Engineering Technician\nJones..........Cat\nFive men and two women: Lambert and Ripley."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Jesus am I cold."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Still with us, Brett."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Yo."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Lucky us."
+  },
+  {
+   "type": "stage direction",
+   "text": "They yawn, stretch, shiver.\nDallas looks over at a flashing yellow light."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I feel dead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane is not yet fully awake.\nYawns."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "You look dead."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Nice to be back."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Before we dock maybe we'd\nbetter go over the bonus\nsituation."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Brett and I think we deserve a\nfull share."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You two will get what you\ncontracted for.  Just like\neverybody else."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Everybody else gets more than us."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Everybody else deserves more\nthan you two."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Mother wants to talk to you."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I saw it.  Yellow light for my\neyes only...Now, everybody hit\ntheir stations."
+  },
+  {
+   "type": "location",
+   "text": "INT. COMPUTER ROOM ANNEX"
+  },
+  {
+   "type": "stage direction",
+   "text": "Floor to ceiling data banks.\nAnother flashing yellow light.\nA legend underneath.\nCOMMAND PRIORITY ACCESS ONLY.\nDallas enters.\nSits at his console.\nRemoves insignia master computer key attached to\nhis shirt.\nPlug it into the board under the light.\nAll banks burst into life.\nDallas punches up a computer code on the keyboard.\nLegend on the screen..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "What's my God damn key."
+  },
+  {
+   "type": "stage direction",
+   "text": "Print-out from computer answers..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "01335 on the binary side."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Thank you Mother."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas punches up the combination on the keyboard.\nImmediately start getting a readout.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Above eye level the room is ringed by viewscreens.\nAll of them blank.\nKane, Ripley, and Lambert enter.\nDallas' seat remains empty.\nAll of them now dressed; they find their way to individual\nconsoles.\nRipley puts down the cat, straps herself into the high-\nbacked chair."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Plug us in."
+  },
+  {
+   "type": "stage direction",
+   "text": "All three crew members begin throwing switches.\nThe control room starts to come to life.\nColored lights flicker.\nChase each other across glowing screens."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Give us something to look at."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert presses a bank of switches.\nViewscreens glimmer into life."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Take a look at this."
+  },
+  {
+   "type": "stage direction",
+   "text": "On each screen, blackness speckled with stars."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Where's Earth."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "You're the navigator."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "That's not our system."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Scan."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert hits several toggles.\nOn the screens the images begin to drift.\nONE OF THE SCREENS\nA moving image of a starfield."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Factory Starship lumbering with the depths\nof inter-stellar space.\nFunction:           Petroleum tanker and Refinery.\nCapacity:           2000,000,000 tons.\nLength:             One and one half kilometers.\nBattered exterior encrusted with dark sludge."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert pores over charts.\nConsults her console.\nPuzzled."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Contact traffic control."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley switches on her transmission unit."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "This is commercial vessel Nostromo.\nRegistration number 180246.  Do\nyou read me.  Over."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nothing but the hiss of static."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Nothing."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Keep trying."
+  },
+  {
+   "type": "stage direction",
+   "text": "Turns to Lambert.\nRipley attempting transmission in b.g."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "You got a reading yet."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "We're way out in the boondocks\nhere..."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Keep trying..."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Working on it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Eureka."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Found it."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Hard to believe."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What the hell are we doing out\nhere."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "What are you talking about."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "It's not our system."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "Giant reactor system purring smoothly."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "PARKER and BRETT in a glass cubicle.  Each having a beer.\nHuge powerplant stretching before them.\nAll units on automatic hyper-drive.\nParker hits a switch above his desk.  A green light goes on."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "How's your light?"
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Green."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Mine too."
+  },
+  {
+   "type": "stage direction",
+   "text": "They both take a swig.\nSuddenly a beeper signal begins."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Christ.  What is it now."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Report to the mess."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR - \"C\" LEVEL"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I want to know why they never\ncome down here.  This is where\nthe work is."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Same reason we have half a\nshare to their one, our time is\ntheir time, that's the way they\nsee it."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Well, I'll tell you\nsomething... it stinks."
+  },
+  {
+   "type": "stage direction",
+   "text": "They move towards the companionway."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Entire crew present."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Some of you may have figured\nout that we're not home."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "What the hell."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Mother's interrupted the course\nof the voyage.\nMother is programmed to interrupt\nthe course of out voyage if\ncertain conditions arise.  They\nhave..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We've received intermittent\ntransmission from quadrant points\nQBR 157, 052.  Somebody's gone\ndown."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "So what."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "We're obligated under Section B2..."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Christ.  We're a commerical ship\nnot some rescue team.  This kind\nof duty's not in our contract."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You better read your contract.\nTransmissions received in non-\ncommercial lanes..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas gives Parker and Brett a look."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We're going in, that's it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett knows when to ease up."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right, we're going in."
+  },
+  {
+   "type": "stage direction",
+   "text": "(smiles)"
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Sir."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas turns to ASH."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Can we land on it."
+  },
+  {
+   "type": "stage direction",
+   "text": "He takes a print-out from Mother out of his hand."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "The other ship did."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "That's what I mean."
+  },
+  {
+   "type": "stage direction",
+   "text": "Studies the print-out."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's big enough.  Can't see any\nreason why not."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO AND REFINERY APPROACHING THE"
+  },
+  {
+   "type": "stage direction",
+   "text": "STAR/PLANET SYSTEM"
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas at his console speaking to Ash."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We're coming into range of the\nplanet.  What kind of orbit do\nyou plan for the cargo."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Z local vertical mode."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You figure it will hold that."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You worried about redundancy\nmanagement disabling CMGS control."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "CMG control is inhibited via\nDAS/DCS.  We'll augment with\nTACS and monitor through ATMDC\nand computer interface."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Feel better?"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "A lot."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "Moving within range of the planet."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crew strap themselves to their seats."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Prepare for separation and\norbital insertion of the cargo."
+  },
+  {
+   "type": "stage direction",
+   "text": "Much preparation for separation, etc."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Give me an EC Pressure reading."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "3.45 n/c m^2 squared (5 psia)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Shout if it changes.  Deactivate\nprobe retract system."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "What about the pressure seal."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas hits appropriate switches."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Now the probe retract system."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane hits other equally appropriate switches."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Release captive hatches and\ndisengage probe."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane working switches and buttons."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Disengaged."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas punches buttons of his own."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Refinery separates from Nostromo."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas watches the refinery moving away on a viewscreen."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "All free and clear."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ash."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Orbital insertion complete."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Okay.  The money's safe.  Let's\ntake it down."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "Engines coughing to life.\nNostromo begins its descent.\nBelow night's tide rolls across the planet's surface."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The viewscreen shimmers."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Turbulence."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "Tug-module hydroplaning downward.\nA set of brilliant lights switch on.\nCut through the thick atmosphere."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM - CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett strapped in their seats.\nBegin rocking from the sudden, extreme turbulence."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Chirst.  Overloading.  What the\nhell are we going through."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Dust fritzing the compressor."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "There goes the conversion\nstabilizer."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "I don't know if the digital\nsolenoid..."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Forget it.  If we don't crash,\ndollars to your aunt's cherry\nwe get an electrical fire..."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The turbulence continues unabated.\nLambert's eyes follow cross-plot gauges."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Drop begins...now.  Fifteen\nkilometers and descending...\ntwelve...ten...eight and\nslowing.  Five.  Three.  Two.\nOne kilometer and slowing."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Lock tractor breams."
+  },
+  {
+   "type": "stage direction",
+   "text": "A loud electrical hum."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Locked."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Kill drive engines."
+  },
+  {
+   "type": "stage direction",
+   "text": "The engines fall silent."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Nine hundred meters and dropping.\nEight hundred.  Seven hundred."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Storm blowing across the night-shrouded surface.\nThe Nostromo hovers on glowing beams of light.\nLanding struts unfold like insect legs.\nThe ship slams down.\nRocks heavily on massive shock absorbers."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - NIGHT"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We're down."
+  },
+  {
+   "type": "stage direction",
+   "text": "An enormous vibration.\nThe panels in the room flash simultaneously.\nLight go out."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Lost it.  Lost it."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "Another huge vibration.\nAn electrical fire breaks out along three control panels."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR"
+  },
+  {
+   "type": "stage direction",
+   "text": "Huge flash fire whips along corridor."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM - CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett see the pandemonium below.\nBrett hits the secondary generator switch.\nA pressure valve blows.\nAnother conduit breaks loose.\nAll lights go out.\nThey grab hand lights from wall."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Still in darkness."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Secondary generator should\nkick over."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Where is it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Moments.  Nothing.  Kane grabs emergency headlamp from\nfacia.\nFollowed by Dallas and Lambert."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "What happened?"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley hits the voice-amp."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Engine room, what happened."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "God damn electrical fire, that's\nwhat happened."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "It's big."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker fighting an electrical fire on one of his panels.\nBrett shouting into his voice-amp."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "The intakes are clogged.  We\noverheated and burned out a\nwhole cell...Christ, it's really\nbreaking loose down here..."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Somebody give me a simple answer,\nHas the hull been breached."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley scans her gauges."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I don't see anything.  We've still\ngot pressure."
+  },
+  {
+   "type": "stage direction",
+   "text": "A beep from the communicator."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Hit the screen."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane snaps three toggles.\nThe screens flicker, but remain black."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Nothing."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SHIP - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The wind sounds.\nStorm continues to blow around the craft.\nA few glittering lights distinguish the Nostromo from\nabsolute darkness."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker on the communicator to the bridge."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "4 panel is totally shot, the\nsecondary load sharing unit is\nout, at least three cells on\n12 module are gone."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley listening to Parker.\nDallas standing over her.\nNo images on any screens."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Is that it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Couldn't fix it out here anyway.\nAnd we need to reroute a couple\nof these ducts.  Can't really fix\nthem without a whole drydock..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "What else."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "We lost a cell.  Some fragments\ncaked up and blew the whole\nsystem.  We've got to clean it\nall out and repressurize."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Get started on 4 panel.  I'll\nbe down in five minutes."
+  },
+  {
+   "type": "stage direction",
+   "text": "She shuts off her voice communicator."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "How long before we're functional."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Fifteen to twenty hours..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Stay on it.  What about the\nauxiliaries."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Working on it."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SHIP - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Bridge lights come to life.\nIlluminate nothing but a patch of featureless ground.\nThe wind and storm now at a higher pitch."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas, Kane, Lambert, and Ash.\nSlouched around the bridge.\nDrinking coffee.\nOccasionally staring at the opaque screens."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Any response yet."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Nothing but the same transmission\nevery thirty-two seconds.  All\nthe other channels are dead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Kick on the floods."
+  },
+  {
+   "type": "stage direction",
+   "text": "CUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. SHIP"
+  },
+  {
+   "type": "stage direction",
+   "text": "A ring of floodlights comes to life.\nDimly illuminating the rocky landscape.\nThe wind and dust now at a higher pitch.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas stares at the dark screens."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "We can't go anywhere in this."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Mother says the sun's coming up\nin about twenty minutes."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "How far from the source of the\ntransmission."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Northeast... about 3000 meters."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Close enough to walk."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Let's run an atmospheric."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash punches buttons, starts to consult his panel."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "10 percent agron, 85 precent\nnitrogen, 5 percent neon...I'm\nworking on the trace elements."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Pressure."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Ten to the fourth dynes per square\ncentimeter."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Moisture content."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "None.  Zero."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Anything else."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Rock, lava base.  And cold...\nwell below the centrigrade line."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I volunteer for the first group\ngoing out."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I hear you.  Lambert.  You too."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Swell."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "One more thing.  Let's get out\nsome weapons."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SHIP - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Sunrise.\nThe atmosphere begins to lighten.\nSilhouette of the Nostromo becoming dimly visible.\nStarship perched on barren rock.\nMore rolling clouds of dust.\nThe floodlights automatically shut off."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett laser welding one of the ducts.\nShirts off.\nSweat steaming.\nRipley rewiring one of the panels.\nParker shuts down the laser, inspects the fusion."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Hey, Ripley, I got a question."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Do we get to go out on the\nexpedition or are we stuck here\nuntil everything's fixed."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You know the answer to that."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "What about the shares in case\nthey find anything."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Don't worry, you'll both get\nwhat's coming to you."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "I'm not doing any more work unless\nwe get full shares."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You're guaranteed by law that\nyou'll get a share... Now both\nof you knock it off and get back\nto work."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker looks at her.\nSnaps on the laser weld.\nStarts to join another section of the duct."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAIN AIR LOCK - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas, Kane and Lambert enter the lock.\nAll wear gloves, boots, jackets.\nCarry laser pistols.\nKane touches a button.\nServo whine.\nThen the inner door slides quietly shut.\nThe trio pull on their helmets."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I'm sending.  Do you hear me."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Receiving."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Receiving."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "All right.  Keep away from the\nweapons unless I say otherwise."
+  },
+  {
+   "type": "location",
+   "text": "INT. ASH'S BLISTER - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash descends companionway to blister.\nPunches up screens and instrumentation."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAIN AIR LOCK - DAWN"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Open the hatch."
+  },
+  {
+   "type": "stage direction",
+   "text": "Another servo whine.\nPonderously, the outer lock hatch slides open.\nClouds of dust and steam swirl before the three crew members.\nA mobile gangway slides out the open hatch.\nBurnt orange sunlight beyond."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "The trio walk down the gangplank.\nArrive at surface level.\nTheir feet striking onto a thick layer of lava rock.\nThe wind at gale force."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Which way."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Over here."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You lead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert walks into the storm.\nFollowed closely by the others."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Now I can't see a God damn thing."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Turn on the finder."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It's on...Ash are you receiving."
+  },
+  {
+   "type": "location",
+   "text": "INT. ASH'S BLISTER - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash leaning over his console.\nWatches them beneath him.\nCorresponding images on the screen in front of him."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "See you.  Read you.  Good contact\non my board."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Getting you clear and free.  Let's\nkeep the line open."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "The three crew members push their way along.\nLike divers at the bottom of a dark sea.\nThe wind and dust continues driving down in dark sheets.\nLambert repeats."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Can't see more than three meters\nin any direction."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Quit griping."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I like griping."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Come on."
+  },
+  {
+   "type": "stage direction",
+   "text": "They wade on, following Lambert.\nShe halts abruptly.\nConfused."
+  },
+  {
+   "type": "location",
+   "text": "INT. BLISTER - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash watches intently.\nImages on each screen of the trio."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I've got it again."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Any problems."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Yeah.  A lot of dust and wind.\nStarting to get some fade on the\nbeam."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "The trio moves through a dark limbo."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "This way."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert indicates left.\nMoves in that direction.\nThe others follow.\nThe storm growing."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "It's close."
+  },
+  {
+   "type": "stage direction",
+   "text": "They approach a towering rock formation.\nThe transmission stops."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "It's gone again."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Did we pass it."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Not unless it's underground.\nLet's take a break."
+  },
+  {
+   "type": "stage direction",
+   "text": "They shelter with the rock formation.\nStorm howls round them.\nDallas adjusts headset.\nThe signal starts."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I've got it again.  Let's go."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "How about our break."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "No. Let's move on while we've\ngot the signal, again."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas gets up.\nThey stand for a moment...\nThen move away from the rock formation.\nFossilized into the other side of the rock is a shape.\nFifteen feet tall.\nUnseen by the members of the party."
+  },
+  {
+   "type": "location",
+   "text": "INT. BLISTER - DAWN"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash receiving the video transmission.\nNotices something within the formation.\nFreezes the image.\nEnlarges it.\nEnlarges again."
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE NOSTROMO - SUNRISE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Atmosphere turning the color of blood.\nThen the sun is up."
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE NOSTROMO - SUNRISE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett and Parker still at work.\nRipley moves away from her panel in triumph..."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You ought to be able to handle\nthe rest."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Don't worry."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "If you run into trouble, I'll be\non the bridge."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "She leaves."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Bitch."
+  },
+  {
+   "type": "location",
+   "text": "INT. BLISTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash still working on the video image.\nEnhances the enlargement.\nTransfers the image to cathode ray.\nThe image reveals itself to be a giant form.  Indistinct.\nRipley's voice comes over."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How's it going."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash quickly shuts off the video image.\nHits the intercom."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley at her console.\nLooking at Ash on her screen.\nAsh's video image not visible to Ripley."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "All right."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Have you tried putting the\ntransmission through ECIU."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Mother hasn't identified it as yet.\nIt's not a language."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'll give it a shot."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Be my guest."
+  },
+  {
+   "type": "stage direction",
+   "text": "She pushes some button.\nThe noise is now heard on her speaker."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dust clearing.\nThree tiny figures against the landscape."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Empty landscape.\nThen Kane comes up over a rise startled by what he sees.\nSuddenly the transmission is deafening."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Jesus Christ."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas and Lambert join him equally startled.\nTHEIR P.O.V. - DAY\nA gargantuan construction rising from the rock.\nClearly of nonhuman manufacture."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Noise still at shrill pitch.\nAll members of the party shouting into their voice-amps."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Some kind of spaceship."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Are you sure.  It's weird..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ash, can you see this."
+  },
+  {
+   "type": "location",
+   "text": "INT. ASH'S BLISTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash looking at the craft on a screen."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Yeah.  Never seen one like it.\nNeither has Mother."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Keep checking for enhancement."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Whatever the transmission is,\nit's inside that."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I'll go in and have a look."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Hold on.  Ash, I don't see any\nlights or movements.  Do you."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I can't get any reading."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's putting out so much power\nI just can't get any reading."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas shuts off his receiver.\nSudden quiet.\nA long moment."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It looks pretty dead from here.\nWe'll approach the base."
+  },
+  {
+   "type": "stage direction",
+   "text": "They move toward the ship."
+  },
+  {
+   "type": "location",
+   "text": "INT. BLISTER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash still adjusting image of form in rock.\nIt suddenly resolves.\nA skeleton.  Fifteen feet long.\nHe enlarges the image."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "There's only one thing I can..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas' voice fades in and out.\nAs do their images on the screen."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Dallas..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(frantically punches\nbuttons on console)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Dallas...Do you read me."
+  },
+  {
+   "type": "stage direction",
+   "text": "No reply."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley is running the transmission through ECIU.\nOver the speakers Dallas' voice fades in."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "No sign of life.  No lights...\nNo movement..."
+  },
+  {
+   "type": "stage direction",
+   "text": "She studies a long series of binary programs..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We're beneath the base."
+  },
+  {
+   "type": "stage direction",
+   "text": "His voice fades into static.\nDisappears.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "EXT. STRUCTURE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The lower part of the entrance filled with dust and pumice."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Looks like an entrance."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Yeah... Let's move inside..."
+  },
+  {
+   "type": "stage direction",
+   "text": "They climb up to one of the apertures and enter."
+  },
+  {
+   "type": "location",
+   "text": "INT. CHAMBER - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "They move into a high-ceilinged chamber.\nWalls covered with shadowy lattices.\nGhostly light filters dust-filled air.\nA few meters in an opening appears.\nDallas leans over and looks into the hole.\nOnly blackness.\nHe unclips the light from his belt.\nShines it down into the hole."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It just goes down... smooth walls.\nI can't see the bottom, light\nwon't reach."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane and Lambert come over.\nDallas begins unclipping gear from his belt."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Let's take a look around here\nfirst."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane and Lambert exchange a glance.\nDallas shines his light about, sees...\nA large, glossy urn, tan coloration.\nRound opening at the rop, empty within.\nThen Dallas shines his light on nearby lattice...\nMoves closer."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Over here."
+  },
+  {
+   "type": "stage direction",
+   "text": "They approach.\nTrain their lights along the floor.\nA machine.\nOn the mechanism, a small bar moves steadily back\nand forth.\nSliding noiselessly in the grooves."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Still functioning."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert looks down at her direction finder."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Automatic recording."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas snaps it off."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Now for a look down below."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looks at Kane)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "This is your big chance."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Okay."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Don't unhook yourself from the\ncable.  Be out in less than ten\nminutes.  Read me."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Aye aye."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas rigs a tripod over the opening in the floor.\nUnspools a couple of feet of wire.\nKane attaches the end of it to his chest unit.\nClimbs over the lip and drops it into the hole.\nNow hanging by the wire...\nHead and shoulders out of the opening.\nKane activates the climbing unit.\nLowers himself into the fissure."
+  },
+  {
+   "type": "location",
+   "text": "INT. STRUCTURE OPENING"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane braces his feet against the wall of the vertical shaft.\nSwitches on his light, points it into the depths.\nThe beam penetrates only thirty feet or so, then is lost in\ndarkness."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Hotter in here.  Warm air rising\nfrom below."
+  },
+  {
+   "type": "stage direction",
+   "text": "He starts down, playing out the line.\nDescending in short leaps.\nStops to catch his breath.\nBreathing rasping loudly in his helmet.\nA little sunlight filters from above.\nLooking up, Kane can see the mouth of the hole...\nA glowing spot of light."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You okay in there."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Haven't hit bottom yet.\nThis is work.  Can't talk now."
+  },
+  {
+   "type": "stage direction",
+   "text": "He kicks off and continues down.\nTaking longer and longer hops as he gains confidence.\nPausing for a moment to regain his breath, he shines the\nlight on his instruments."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I'm below ground level."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley at her console, still working on transmission.\nGets a readout.\nLooks worried.\nSpeaks into communicator."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Ash, tell Dallas Mother speculates\nthat the noise is some kind of\nwarning."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I can't tell him anything.  I've\nlost contact.  The transmission\naround the ship is killing all\ncommunications."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'm going out after them."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't think so.  We can't\nspare the personnel.  We've\ngot minimum takeoff capability\nright now.  That's why Dallas\nleft us on board."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I still think we should go after\nthem."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "What's the point.  In the time\nit take to get there.  They'll\nknow if it's a warning."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley looks steadily at Ash on her monitor.\nHis screen, not visible to her, shows blowup of helmeted,\nskeletal head.  Not human."
+  },
+  {
+   "type": "location",
+   "text": "INT. STRUCTURE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane resumes his downward climb.\nSuddenly, his feet lose their purchase as the walls of the\nshaft disappear.\nThe tunnel has reached its end.\nBelow him is a dark, cavernous space.\nDeep breaths due to his violent exertion."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "See anything?"
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "No...Tunnel's gone.  Cave or\nsomething below me.  Feels like\nthe goddamn tropics in here..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He consults his instruments.\nHelmet instrumentation strobing softly in the darkness."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "...high nitrogen content, no\noxygen..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Still puffing, he releases his purchase on the stone walls.\nBegins to lower himself on power.\nNow Kane is dangling free in darkness.\nSpinning slowly on the wire as the chest unit unwinds.\nThen his feet hit bottom.\nKane grunts in surprise, almost loses his balance.\nHe flashes his suit lights.\nThe beams reveal that he is in a large hold.\nRow after row of extrusions stretch from floor to ceiling."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "This is weird."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "What do you mean."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "There's something all over the\nwalls."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane walks across the chamber.\nExamines the organic protrusions."
+  },
+  {
+   "type": "location",
+   "text": "INT. CHAMBER ABOVE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas and Lambert."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "How long till sunset."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Twenty minutes."
+  },
+  {
+   "type": "stage direction",
+   "text": "A look from Lambert."
+  },
+  {
+   "type": "location",
+   "text": "INT. HOLD"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane approaches the center of the room.\nOn the floor are rows of leathery ovoid shapes.\nHe walks around them.\nShines his light on one."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "It's like some kind of storage\narea.  Is anybody there.  Do\nyou read me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Loud and clear."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "The place is full of leathery\nthings sealed...soft to the\ntouch."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Can you see what's in them."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I'll give it a look."
+  },
+  {
+   "type": "stage direction",
+   "text": "He tries to open one of them.\nIt won't open."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Strange feeling to it."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Don't open it.  You don't know\nwhat's in it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane peers closely at the leathery ovoids.\nTurns away.\nRaised areas begin to appear where he touched it.\nHe moves his light along the rows.\nTurns back to the one he was examining.\nSomething has changed.\nThe opaque surface begins to clear.\nObject becoming visible within.\nKane shines his light on the floor at the base of it.\nHe studies it."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Jesus..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "What."
+  },
+  {
+   "type": "stage direction",
+   "text": "Viscera and mandible now visible.\nThe interior surface spongy and irregular.\nKane shines the light inside.\nWith shocking violence, a small creature smashes outward.\nFixes itself to his mask.\nSizzling sound.\nThe creature melts through the mask.\nAttaches itself to Kane's face.\nKane tears at the thing with his hands.\nHis mouth forced open.\nHe falls backward."
+  },
+  {
+   "type": "location",
+   "text": "INT. CHAMBER ABOVE"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Kane...Kane can you hear me."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What's the matter."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We better haul him out."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "It'll yank him right off his feet\nif he's not expecting it."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Try him again."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Kane...Kane...Goddamn it.  Answer\nme."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas begins to fiddle with the wench mechanism."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "The line's slack."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "He doesn't answer."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Do you think he could have unhooked\nhimself."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas switches on the winch motor.\nWith a whine, it begins to reel the line in.\nAfter a moment the line tightens with a jerk.\nThe motor slows, laboring under added weight."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It caught."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Is it hooked on something."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "No, it's coming."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I can't see anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas shines his light down into the hole.\nShakes his head."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Line's still moving."
+  },
+  {
+   "type": "stage direction",
+   "text": "A long moment.\nDallas shines his light again."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Here he comes."
+  },
+  {
+   "type": "stage direction",
+   "text": "The winch labors heavily."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Get ready to grab him."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane appears at the top of the opening.\nDangles limply from the wire.\nDallas reaches for him, then recoils."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Look out.  There's something on\nhis face."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert attempts to help."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What is it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane appears to be completely unconscious.\nThe life form is still wrapped motionless around his face."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Oh Jesus."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Don't touch it."
+  },
+  {
+   "type": "stage direction",
+   "text": "They grapple with Kane's limp body.\nLift him from the hole."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENTRANCE TO DERELICT - SUNSET"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane is now pinioned between Dallas and Lambert.\nThe storm raging through and beyond the entrance...\nDallas begins to assemble travois."
+  },
+  {
+   "type": "location",
+   "text": "EXT. THE NOSTROMO - SUNSET"
+  },
+  {
+   "type": "stage direction",
+   "text": "Atmosphere turning the color of blood.\nAnd the sun is down.\nThe ring of floodlights on the ship comes to life.\nFeebly combatting the darkness and continuing storm."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jones the cat staring through a port opening at the storm.\nRipley waiting on the bridge.\nAsh stares at his inactive monitors.\nSuddenly:"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "We've got them.  They're back\non the screens."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How many."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Three blips.  They're coming\nthis way."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley presses transmitter."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Dallas, Lambert.  Can you read me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We hear you.  We're coming back...\nKane's injured... We'll need some\nhelp getting him in."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley stares at the screen."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I'll go."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash moves from the room.\nRipley remains seated at her console."
+  },
+  {
+   "type": "location",
+   "text": "EXT. LANDING LEG - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas and Lambert dragging Kane on a travois towards landing\nleg."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY NEAR AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash comes down the steps.\nHurries to the inner door lock.\nPresses the wall voice-amp."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Ripley, I'm by the inner lock\nhatch."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Okay."
+  },
+  {
+   "type": "location",
+   "text": "EXT. LANDING LEG - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas and Lambert drag Kane onto lift platform."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY NEAR AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker comes running up."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "What's going on."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Kane got hurt somehow."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "How bad."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash shrugs.\nBrett appears at the top of the companionway.\nPuzzled look on his face."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley seated alone in the room.\nDallas appears as a huge image on all screens.\nLambert behind him.\nKane pinioned to Dallas."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ripley, are you there."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Right here."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We're coming up.  Open the\nlock."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What happened to Kane.  I need\na clear definition."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Some kind of organism.  It's\nattached itself to him.  Let\nus in."
+  },
+  {
+   "type": "stage direction",
+   "text": "(long moment)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You hear me.  Open the lock."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "If we let it in, the ship could\nbe infected."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Goddamn it.  Open the hatch."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We've already broken every rule\nor quarantine.  If we bring an\norganism on board, we won't have\na single layer of defense left."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Open the God damn hatch.  We\nhave to get him inside."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I can't.  If you were in my\nposition you'd do the same."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY NEAR AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ripley, do you hear me."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I read you.  The answer is negative."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash hits the emergency switch.\nA red light goes on.\nServo whine.\nFollowed by a solid metallic chunk."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Inner hatch open."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley staring at the console.\nShe can't believe what she sees.\nTurns to the viewscreens.\nWatches Dallas, Kane and Lambert enter."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY NEAR AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "The servo again turns over.\nAnother clunk.\nThe outer door has closed.\nRed light off.\nThe inner door slides open.\nDallas and Lambert stagger into passageway.\nCarry Kane's body between them.\nDallas pulls off his helmet."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Stay clear."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash and Parker move back."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "God."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Is it alive."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I don't know, but don't touch it."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Take him to the infirmary."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash and Brett move in carefully to help with the limp burden."
+  },
+  {
+   "type": "location",
+   "text": "INT. INFIRMARY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane's helmet.\nHands begin to open it with a laser cutter.\nThe helmet separates easily.\nThe two halves part...\n...The life form slowly pulsing on Kane's face.\nDallas hesitates, then puts his hand on the small Creature.\nTries to pull it free.\nUnsuccessful.\nThe Alien remains anchored to Kane's tissue."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Let me try."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash takes a pair of pliers from a rack.\nCarefully grasps the tip of the Creature.\nSqueezes tightly.\nLeans back."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You're tearing his face."
+  },
+  {
+   "type": "stage direction",
+   "text": "A trickle of blood appears on Kane's cheek."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "It's not going to come off without\npulling his whole faceoff at the\nsame time."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Let the machine work on him."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Ash presses a switch.\nThe machine lights up.\nKane is sucked into a slot on the wall.\nVisible inside through the glass layer.\nA blinding colored light performs antisepsis.\nTwo video monitors pop on.\nANGLE ON THE DOORWAY\nRipley appears.\nDallas turns and looks at her.\nA long moment."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "When I give an order, I expect\nit to be obeyed."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Even if it's against the law."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "That's right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert steps forward and slaps Ripley across the face.\nRipley slowly puts her hand to her cheek."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "You were going to leave us out there."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Maybe she should have.  Who the\nhell knows what that is."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley looks at Lambert.\nA moment."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Let's call it settled."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert gives her a curt nod.\nAsh turns attention to the instrumentation."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Somebody fill me in."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "He went into the structure alone,\nwe lost radio contact.  When we\npulled him out, it was on his face..."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Where did it come from..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Somewhere inside that ship."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "How the hell is he breathing."
+  },
+  {
+   "type": "stage direction",
+   "text": "They study the monitors."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Blood's throughly oxygenated."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "How.  His nose and mouth seem\nto be blocked."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "We better look inside his head."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash punches three buttons.\nAn X-ray image appears.\nA color depiction of Kane's head and upper torso.\nThe Alien is clearly visible.\nA maze of complicated biology.\nKane's jaws are forced open.\nThe creature has extruded a long tube down his mouth and\nthroat.\nThe appendage ending at the base of the esophagus."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "It's got something down his goddamn\nthroat."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "That must be how it's getting\noxygen to him."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "It doesn't make sense.  It paralyzes\nhim, puts him into a coma, then\nkeeps him alive."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Let's kill it.  We can't leave the\ndamn thing on him."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't know.  At the moment the\nCreature is keeping him alive.\nIf we remove it we might\nterminate Kane..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I don't think so.  Let's take the\nchance and cut it off him."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You'll take the responsibility."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "That's right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Slips into surgical gloves.\nPresses a switch, Kane slides back out of the booth."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Give me the knife."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley takes a surgical laser blade from the case.\nCarefully passes it to Dallas.\nHe manipulates the knife until he has a comfortable grip.\nFlicks a small button with his thumb.\nThe blade begins to hum.\nDallas advances on Kane's prostrate form.\nTouches the scalpel to the Creature.\nThe electronic blade slices effortlessly downward.\nSuddenly a urine-like fluid begins to drip from the wound."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Starting to bleed."
+  },
+  {
+   "type": "stage direction",
+   "text": "The liquid flows onto the bedding next to Kane's head.\nStarts to hiss.\nSmoke curls up from the stain.\nNext the yellow fluid eats a hole through the bunk bed.\nThen drips onto the deck below.\nMetal bubbling and sizzling.\nMore smoke rising, sending the crew into a coughing jag.\nThe crew jostle their way out of the cabin.\nHuddle in the passageway outside, still coughing.\nDallas frantically applies pressure to the wound.\nIn the process, smoke of the fluid gets on Dallas's gloves.\nThey begin to smoke.\nDallas leaps back, pulls them off.\nThen runs out into the corridor."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY OUTSIDE INFIRMARY"
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Shit.  It's going to eat through\nthe decks and go out the hull..."
+  },
+  {
+   "type": "stage direction",
+   "text": "He starts to run for the companionway."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas wrenches an emergency lamp from a socket.\nHurls himself down a companionway.\nThe others follow."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "There."
+  },
+  {
+   "type": "stage direction",
+   "text": "A droplet of fluid is sizzling on the ceiling bulkhead.\nIt oozes down.\nDrips to the deck.\nContinues to bubble.\nThen goes through the bulkhead."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "What can we put under it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley and Parker charge down the companionway below."
+  },
+  {
+   "type": "location",
+   "text": "INT. SECOND LEVEL - \"C\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley and Parker move cautiously down the passageway.\nLook up to the ceiling bulkhead."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Don't get under it."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas, Brett and Ash crouch by the spot where the acid\nsizzles.\nAsh fishes a pen out of his pocket.\nProbes the hole in the deck."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's stopped penetrating."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley comes charging back up."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What's happening."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I think it's lost steam.  No\nlonger active."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley checks the opening.\nAsh straightens up.\nStarts to put the pen back in his pocket.\nChanges his mind and stands holding it by the end."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I've never seen anything like that,\nexcept molecular acid..."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "This thing uses it for blood."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's the asbestos that stopped it,\notherwise it would have gone straight\nthrough."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Wonderful defense mechanism.\nYou don't dare kill it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker comes up the companionway."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "It's stopped bleeding."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Yeah.  After it penetrated two\nlevels."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What about Kane."
+  },
+  {
+   "type": "stage direction",
+   "text": "Starts up companionway."
+  },
+  {
+   "type": "location",
+   "text": "INT. INFIRMARY"
+  },
+  {
+   "type": "stage direction",
+   "text": "They return.\nKane still motionless on the bunk.\nThe Alien remains secured to his face.\nWound completely healed over."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Any of the acid get on him."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas approaches, peers at Kane's head."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Doesn't look like it."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Is it still dripping that crap."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Healed over."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "There must be some way we can get\nit off."
+  },
+  {
+   "type": "stage direction",
+   "text": "And look at Dallas."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't think you ought to try\nagain.  It didn't work out too well\nlast time."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas gives him a look in return.\nRipley presses a button.\nKane slides back into the diagnostic coffin.\nMore buttons pressed.\nDisplay lights up again, showing the different parts of\nKane's body."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I better get some intravenous\nfeeding started.  So far I can't\ntell what the Alien has absorbed\nfrom his system."
+  },
+  {
+   "type": "stage direction",
+   "text": "The machine begins to process Kane's body."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What's the stain on his lungs."
+  },
+  {
+   "type": "stage direction",
+   "text": "The X-ray reveals a spreading dark blot in the chest cavity.\nAt the center, the stain is completely opaque."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Whatever it is, it's blocking\nthe X-ray."
+  },
+  {
+   "type": "stage direction",
+   "text": "A long moment.\nThe stain spreads."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "What happens now."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash sets aside his partially melted pen.\nLooks at Dallas."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You go back to work."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett at work in the cubicle.\nParker supervising him."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "I think I've got it.  Give it a\ntry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker pushes a button.\nNegative reaction on his monitor."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Nothing."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Damn.  I was sure that was it."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Well, it wasn't.  Try the next one."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Adjusts several toggles."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What's happening."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "This goddamn woman.  I'll tell\nher what's happening.  My Johnson\nis happening."
+  },
+  {
+   "type": "stage direction",
+   "text": "(punches the communicator)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "A lot of hard work.  Real work."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - NIGHT"
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "You ought to try it sometime."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I've got the toughest job on\nthis ship..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Derisive laugh from Parker through the speaker."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I have to listen to your bullshit."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Get off my back."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'll get off your back when 12\nmodule is fixed."
+  },
+  {
+   "type": "stage direction",
+   "text": "She clicks off.\nParker turns away."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Smart mouth broad."
+  },
+  {
+   "type": "location",
+   "text": "INT. INFIRMARY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash running test on the equipment.\nKane respirating on the view screens above.\nStill deep within a coma.\nAll instruments recording his life processes.\nThe Alien's position unchanged.\nRipley approaches.\nSits near Ash."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Anything new."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "He's holding, no changes."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What about the Creature."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's got an outer layer of protein\npolysaccharides.  A lot of Amino\nAcids for prolonged reistance to\nadverse environmental conditions...\nThat enough for you."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Plenty.  What's it mean."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Interesting combination of elements\nmaking it one tough little son-of-\na-bitch..."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Is that why you let it in."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I was following a direct order.\nRemember."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "While Dallas and Kane are off\nthe ship, I'm Senior Officer."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Yes, of course -- I forgot."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You also forgot the science division's\nbasic quarantine law."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "No.  That I didn't forget."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You just broke it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "What would you have done with Kane...\nHis only chance at staying alive\nwas to get into the infirmary."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "By breaking quarantine procedure\nyou risk everybody's life."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Maybe I should have let him die\nout there.  Maybe I have jeopardized\nthe rest of us...It's a risk I'm\nwilling to take."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "This is your official position as\na science officer.  Not exactly out\nof the manual."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "The first position of science is\nthe protection and betterment of\nhuman life.  I take my responsibility\nas seriously as you do... you do your\njob and I'll do mine."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley stands...looks at Ash.\nWalks out."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert playing with some string, amusing Jones.\nCat's Cradle.\nBoth looking bored."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett at work on the final intake screen."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas listening to a primitive tape.\nHis foot tapping with the rhythm.\nBeep.\nAn interruption on the communicator."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Dallas."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I think you should have a\nlook at Kane.  Something's\nhappened."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Serious."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Interesting."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas exits."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR OUTSIDE IMFIRMARY WINDOW"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash stares through window.\nDallas joins him.\nRipley appears behind.\nA long pause."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It's gone."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane's prone form.\nThe Alien is no longer on his face.\nKane still unconscious, but continues to breathe.\nFace covered with sucker marks."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "The door is closed.  It must still\nbe in there."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "We can't open the door.  We don't\nwant to let it out."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Yeah, I remember.  We can't grab\nit.  We can't kill it..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Maybe we can catch it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "As long as we're careful not to\ndamage it."
+  },
+  {
+   "type": "location",
+   "text": "INT. INFIRMARY"
+  },
+  {
+   "type": "stage direction",
+   "text": "They enter cautiously.\nDallas begins moving slowly around the room.\nPicking up a stainless steel tray.\nLooking.\nAsh and Ripley do the same.\nRipley bends down and peers under the bunk.\nNothing.\nAccidentally kicks over a tray.\nShe stands.\nDoesn't see the Alien on a ledge above her.\nHer shoulder brushes against the Creature.\nIt drops on her.\nShe screams.  Twists.\nThe Alien drops to the floor.\nThen lies motionless.\nIts skin faded to a dead-looking grey.\nRipley doesn't raise her eyes from the Creature.\nProds the Alien.\nNo response."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I think it's dead."
+  },
+  {
+   "type": "stage direction",
+   "text": "(looks to Ripley)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You okay."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Yeah."
+  },
+  {
+   "type": "stage direction",
+   "text": "She carefully touches the Creature with a metal probe.\nFishes the motionless life-form into the tray.\nQuickly closes the lid.\nLifts it onto a stainless steel table.\nBright light trained on the Alien.\nThe Creature in a supine position.\nAsh touches at the Alien with a surgical instrument."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Look at those suckers.  No wonder\nwe couldn't get it off him."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Where's its mouth."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's this tube-thing, up in\nhere."
+  },
+  {
+   "type": "stage direction",
+   "text": "(carefully extracts\nthe end of the organ)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's hardening."
+  },
+  {
+   "type": "stage direction",
+   "text": "(slips the Creature\nunder a fluoroscope)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's dead.  No life sign whatever."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Let's get rid of it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "This has to go back.  This is\nour first contact with a\nspecimen like this.  All kinds\nof tests need to be run."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "That thing bled acid.  God\nknows what it'll do when\nit's dead."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I think it's safe to assume\nit's not a zombie... Dallas, we\nhave to keep this specimen."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You're the science officer.  It's\nyour decision."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Then it's made... I'll seal it\nin a stasis tube."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What about Kane."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash turns back to the bunk.\nStudies the life support gauges.\nKane continues to breathe steadily."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Running a fever.  And still\nunconscious.  The machine will\nbring his temperature down.\nHis vital functions are strong...\nwho knows, he may make it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash begins to seal the Alien in a large vacuum tube."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I need some coffee."
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns and walks away."
+  },
+  {
+   "type": "location",
+   "text": "INT. COMPUTER ANNEX"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley and Dallas."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How could you leave that kind\nof decision to him."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I just run the ship.  Anything\nthat has to do with science\ndivision, Ash has the final word."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How does that happen."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Same way everything else happens.\nOrders from the Company."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Since when is that standard\nprocedure."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Standard procedure is do what\nthey tell you... Besides, I only\nknow about flying... I haul cargo\nfor a living."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Did you ship out with Ash before."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "First time.  I went five hauls\nwith another science man.  Then\ntwo days before we left Thedus,\nreplaced him with Ash."
+  },
+  {
+   "type": "stage direction",
+   "text": "She looks at him."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "So what.  They replaced my\nwarrant officer with you."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I don't trust him."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I don't trust anybody...What's\nholding up repairs."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "They're pretty much finished now."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Why didn't you say so?"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "There are still some thing left\nto do."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Like what?"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We're blind on B and C decks.\nReserve power systems blown..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "That's crap.  We can take off\nwithout them."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Is that a good idea."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I want to get out of here.\nLet's get this turkey off the\nground."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - SUNRISE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo's engines roaring.\nBelching out streams of superheated air.\nThe starship vibrates.\nBegins to surge forward."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - SUNRISE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crew at their posts.\nAn electrical hum permeates the air."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Lock tractor beams."
+  },
+  {
+   "type": "stage direction",
+   "text": "The pitch of the hum changes.\nThe ship levels itself."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Retract leading struts."
+  },
+  {
+   "type": "location",
+   "text": "EXT. PLANET - SUNRISE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo hovering above the ground.\nHeld on beams of shimmering force.\nThe landing struts begin folding."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - DAY"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Take us up."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert bends over the voice amplifier."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "One kilometer on ascension."
+  },
+  {
+   "type": "location",
+   "text": "INT. PLANET"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo begins to levitate skyward.\nSeemingly pushing upward on the beams of light."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The ship continues vibrating."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Switch on lifter quads."
+  },
+  {
+   "type": "stage direction",
+   "text": "A powerful, deep throbbing begins.\nThe vibrations increase."
+  },
+  {
+   "type": "stage direction",
+   "text": "(into speaker)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Everything holding together\ndown there."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett strapped in and vibrating."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "We fix something it stays fixed."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The starship hovering below cloud ceiling.\nThen begins to accelerate through the dense atmosphere."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "All viewscreens operational."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Engage artificial gravity."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert throws a switch.\nThe ship lurches."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Engaged."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Altering the vector now."
+  },
+  {
+   "type": "stage direction",
+   "text": "A huge tremor runs throughout the ship."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER'S VOICE",
+   "text": "Dust is clogging the damn intakes\nagain.  We're overloading."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Just hold us together until\nwe're beyond G1..."
+  },
+  {
+   "type": "stage direction",
+   "text": "The pitch of the engines changes...deepens."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The ship moves at an acute angle.\nSlices through the boiling clouds."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett watching the guages."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE - DAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Outside the screens, clouds, clouds, clouds.\nAnother tremor runs through the ship.\nThe crew's eyes riveted to their instruments."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Let's pick up the money and go\nhome."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "The ship clears the top of the cloud layer.\nBursts out into star-sprinkled space.\nTrailing a wake of glimmering dust flecks.\nAttached itself to the hovering refinery."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett waves his arms in exultation."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "We did it"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Walk in the park.  When we fix\nsomething it stays fixed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Big smiles."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo now safely beyond gravity."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Set our course and get us up\nto light plus four."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert begins punching buttons."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Feets get me out of here."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo now at light speed.\nPreceptible movement in the surrounding universe.\nA corona effect emerges.\nStars approaching the Nostromo appear blue.\nReceding stars going to amber.\nRedshift, made visible because of the craft's velocity."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker, Brett, Dallas and Ripley around the table.\nDrinking coffee."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "The best thing to do is just to\nfreeze him.  Stop the goddam\ndisease.  He can get a doctor to\nlook at him when we get back home."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Whenever he says anything you say\n'right'.  You know that, Brett."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What do you think, Parker.  Your\nstaff just follows you around and\nsays 'right'.  Like a regular parrot."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker turns to Brett."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Yeah.  Shape up.  What are you,\nsome kind of parrot."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Knock it off... Kane will have\nto go into quarantine."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Yeah.  And so will we."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert enters."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "How about a little something to\nlower your spirits."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Thrill me."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "According to my calculations...\nbased on the time spent getting\nto and from the planet and the\nspeed at which it's moving away\nfrom the other..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Give me the short version..."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "It'll take us six weeks to get\nback on course."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "How far to Earth."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Ten months."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Christ."
+  },
+  {
+   "type": "stage direction",
+   "text": "Beep."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Dallas."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Come and see Kane right away..."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Any change in his condition."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It's simpler if you just come\nsee him."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR OUTSIDE INFIRMARY WINDOW"
+  },
+  {
+   "type": "stage direction",
+   "text": "What they see is...Not what they expect.\nKane is sitting up in bed...wide awake.\nThey enter..."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Kane...Are you all right."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Mouth's dry...can I have some\nwater."
+  },
+  {
+   "type": "stage direction",
+   "text": "Instantly, Ash brings him a plastic cup and water.\nKane gulps it down in a swallow."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "More."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley quickly fills a much bigger container.\nHands it to Kane.\nHe greedily consumes the entire contents.\nThen sags back, panting, on the bunk."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "How do you feel."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Terrible.  What happened to me."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You don't remember."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Don't remember anything.  I can\nbarely remember my name."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Do you hurt."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "All over.  Feel like somebody's\nbeen beating me with a stick\nfor about six years."
+  },
+  {
+   "type": "stage direction",
+   "text": "(smiles)"
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "God, I'm hungry."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What's the last thing you can\nremember."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I don't know."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Do you remember what happened\non the planet."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Just some horrible dream\nabout smothering.  Where\nare we."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We're on our way home."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Getting ready to go back into\nthe freezers."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I'm starving.  I want some food\nfirst."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I'm pretty hungry myself."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "One meal before bed."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The entire crew is seated.\nHungrily swallowing huge portions of artificial food.\nThe cat eats from a dish on the table."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "First thing I'm going to do when\nwe get back is eat some decent\nfood."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I've had worse than this, but\nI've had better too, if you know\nwhat I mean."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Christ, you're pounding down this\nstuff like there's no tomorrow."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I mean I like it."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "No kidding."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Yeah.  It grows on you."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "It should.  You know what they\nmake this stuff out of..."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I know what they make it out of.\nSo what.  It's food now.  You're\neating it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly Kane grimaces."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What's wrong."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane's voice strains."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What's the matter."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "I don't know... I'm getting cramps."
+  },
+  {
+   "type": "stage direction",
+   "text": "The others stare at him in alarm.\nSuddenly he makes a loud groaning noise.\nClutches the edge of the table with his hands.\nKnuckles whitening."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Breathe deeply."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane screams."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Oh God, it hurts so bad.\nIt hurts.  It hurts."
+  },
+  {
+   "type": "stage direction",
+   "text": "(stands up)"
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Ooooooh."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "What is it.  What hurts."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane's face screws into a mask of agony.\nHe falls back into his chair."
+  },
+  {
+   "type": "speech",
+   "character": "KANE",
+   "text": "Ohmygooaaaahh."
+  },
+  {
+   "type": "stage direction",
+   "text": "A red stain.\nThen a smear of blood blossoms on his chest.\nThe fabric of his shirt is ripped apart.\nA small head the size of a man's fist pushes out.\nThe crew shouts in panic.\nLeap back from the table.\nThe cat spits, bolts away.\nThe tiny head lunges forward.\nComes spurting out of Kane's chest trailing a thick body.\nSplatters fluids and blood in its wake.\nLands in the middle of the dishes and food.\nWriggles away while the crew scatters.\nThen the Alien being disappears from sight.\nKane lies slumped in his chair.\nVery dead.\nA huge hole in his chest.\nThe dishes are scattered.\nFood covered with blood."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "No, no, no, no, no."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "What was that.  What the Christ\nwas that."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "It was growing in him the whole\ntime and he didn't even know it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It used him for an incubator."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "That means we've got another\none."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Yeah.  And it's loose on the\nship."
+  },
+  {
+   "type": "stage direction",
+   "text": "Slowly they gather around Kane's gutted corpse.\nThen they all look at one another.\nThen at Kane.\nDead on the table."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR - \"A\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Empty.\nParker and Brett descend companioway.\nThey join Ash, Lambert, Ripley and Dallas."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Any signs."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Nothing."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Nothing."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Didn't see a goddamn thing."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Didn't see anything."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We can't go into hypersleep with\nthat thing running loose.  We'd\nbe sitting ducks in the freezers.\nWe have to kill it first."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "We can't kill it.  If we do, it\nwill spill its body acids right\nthrough the hull..."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Son-of-a-bitch."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We have to catch it and eject\nit from the ship."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Our supplies are based on us\nspending a limited amount of\ntime out of suspended animation.\nStrictly limited."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "First we have to find it."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "No.  First we've got something\nelse to do."
+  },
+  {
+   "type": "stage direction",
+   "text": "He looks at Kane's body through mess doorway."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Kane's body wrapped in a makeshift shroud."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crew looking at Kane's body on view screens.\nSilent.\nDepressed."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Inner hatch sealed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley nods."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Anybody want to say anything."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nothing to say.\nHe nods to Ripley.\nShe presses a button."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "The outer hatch opens.\nYawning space outside.\nKane's body shoots out into eternity.\nThe hatch closes."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crew is assembled."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I've checked on the supplies.\nFor about a week we can stay\nout of hypersleep."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Then what."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "We run out of food and oxygen."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "All right, that's what we've got.\nA week.  It's plenty of time."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I say we put on our pressure\nsuits and blow all the air out\nof the ship.  That might kill it."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What a swell idea."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "What's wrong with it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "We've got forty-eight hours of\nair in our pressure suits and\nit takes six months to get home."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Other than that...A swell idea."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker won't give up on this idea."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Maybe we could cut some kind\nof special lines to the tanks.\nBrett and I are pretty good\npractical engineers...We got\nus back up you know."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "All by yourselves."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I hate to point this out but\nit might be better off without\noxygen.  It lived that way long\nenough."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "There's another problem.  How\ndo we find it.  There's no\nvisual communication on B and\nC decks.  All the screens are\nout."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We're going to have to flush it\nout."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Sounds great...but how."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Room by room, corridor by corridor."
+  },
+  {
+   "type": "stage direction",
+   "text": "One of those suggestions that nobody likes."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "And what do we do when we find it."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Trap it somehow."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "If we had a really strong piece\nof net, we could bag it... I could\nput something together.  A long\nmetal rod with a battery in it.\nOnly take a few hours."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Why do we listen to this meathead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas turns it over."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "He might be right..."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo continues through the vortex."
+  },
+  {
+   "type": "location",
+   "text": "INT. INFIRMARY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas enters.\nAsh working at a read-out section."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I want to talk."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I'm a little busy at the\nmoment."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I don't care."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "All right, go ahead."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Why did you let the Alien survive\ninside Kane."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I'm not sure you're getting\nthrough to me."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Mother was monitoring his body.\nYou were monitoring Mother.  You\nmust have had some idea of what\nwas going on."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "What are you trying to say."
+  },
+  {
+   "type": "stage direction",
+   "text": "A long moment."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You want the Alien to stay alive\n...I figure you have a reason."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Name one."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Look, we both work for the same\ncompany.  I just want to know\nwhat's going on."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't know what the hell you're\ntalking about.  And I don't like\nany of the insinuations.  The\nAlien is a dangerous form of\nlife...I don't want it to stay\nalive any more than you do."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You're sure."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Yeah, I'm sure.  You should be\ntoo."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas walks out.\nAsh watches him go.\nStares in his direction a long while..."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas seated in the shuttle craft.\nStaring at the myriad lights of outer space.\nRipley climbs beside him."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I thought I'd find you here."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas continues to stare."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Are the nets finished."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We've got an hour...Look I\nneed some relief."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Why did you wait until now."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley leans forward."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Let me tell you something.  You\nkeep staring out there long\nenough, they'll be peeling you\noff the wall."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley begins taking off her boots."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We're the new pioneers, Ripley.\nWe even get to have our own\nspecial disease."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'm tired of talking."
+  },
+  {
+   "type": "stage direction",
+   "text": "She rises and removes her upper garments."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "You waited too long."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Give it a try anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "Clothing removed.\nHis arms move around her."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The crew has assembled.\nBrett unfolds several yards of asbestos netting.\nHands out five thin rods.\nEach of them like metal broom handles."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "I put portable generators in\neach of these.  They're insulated\ndown here.  Just be goddamn careful\nnot to get your hand on the end."
+  },
+  {
+   "type": "stage direction",
+   "text": "He touches the tip to a metal object.\nA blue spark leaps."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "It won't damage the little bastard\nunless its skin is a lot thinner\nthan ours...It'll just give it a\nlittle incentive."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Now if we could only find it."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash picks up a portable unit."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I've taken care of that...tracking\ndevice.  You set it to search for\na moving object...It hasn't much\nrange but when you get within a\ncertain distance it starts beeping."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley takes the tracker from Ash's hand."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What's it key on."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Micro changes in air density.\nKeep it pointed ahead of you."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "We'll break into two teams.\nWhoever finds it first catches\nit in the net and ejects it\nfrom the nearest air lock."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "For starters, let's make sure\nthe bridge is safe."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker turns on his unit.\nScans it around the room."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "We seem to be okay...If this\ndamn thing works."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ash and myself will go with\nLambert.  Brett and Parker will\nmake up the second team.  Ripley,\nyou command it."
+  },
+  {
+   "type": "stage direction",
+   "text": "They start doling out the equipment."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Channels are open on all decks.\nWe'll be in constant touch."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"A\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert and Dallas carry the net.\nAsh walks directly behind, carrying the tracking device.\nHe continually scans from side to side.\nLambert stops by a stairwell."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Anything down there."
+  },
+  {
+   "type": "location",
+   "text": "INT. ANOTHER PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Ripley move silently along.\nRipley ahead of them with the tracker by the stairwell."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Nothing."
+  },
+  {
+   "type": "stage direction",
+   "text": "The move on.\nA small light flashes."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Hold it.  I've got something."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett grow tense.\nStart looking around."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Where's it coming from."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley peers closely at the tracker."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Machine's screwed up.  I can't\ntell.  Needle's spinning all\nover the dial."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Goddamn, malfunction."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley turns the tracker on its side.\nThe needles stabilize."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "No, just confused.  It's\ncoming from below us."
+  },
+  {
+   "type": "stage direction",
+   "text": "They all look down at their feet."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAINTENANCE - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley, Parker and Brett come down ladder onto an endless\noily corridor.\nThey stop at the foot of the companionway...\nThey move down corridor into darkness."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "Looks at the tracker.\nNods down the passageway.  Stops."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Back this way."
+  },
+  {
+   "type": "stage direction",
+   "text": "They begin to walk in that direction.\nEntering drab section of the ship.\nSurrounded by deep shadows.\nFootsteps clanging on the metal deck."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I thought you fixed 12 module."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "We did."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Circuits must have burned out."
+  },
+  {
+   "type": "stage direction",
+   "text": "They switch on lights.\nMove around two turns."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Wait."
+  },
+  {
+   "type": "stage direction",
+   "text": "They stop quickly, almost stumbling."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "It's within five meters."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Brett heft the net.\nRipley has the prod in one hand, tracker in the other.\nMoves with great care.\nAlmost in a half-crouch, ready to leap back.\nProd extended, Ripley constantly glances at her tracker.\nThe device leads her up to a small hatch in the bulkhead.\nPerspiration rivers down her face.\nShe sets aside the tracker.\nRaises the prod, grasps the hatch handle.\nYanks it open.\nJams the electric prod inside.\nA nerve-shattering squall.\nThen a small creature comes flying out of the locker.\nEyes glaring, claws flashing.\nInstinctively, they throw the net over it.\nVery annoyed.\nThey open the net and release the captive.\nWhich happens to be the cat.\nHissing and spitting...it scampers away."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "God damn it...hold it."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "We should have killed it...Now\nwe might pick it up on the\ntracker again."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Go get it.  We'll go on."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley and Parker move down the passageway.\nBrett follows the direction taken by the cat.\nMoves across passageway into equipment maintenance area."
+  },
+  {
+   "type": "location",
+   "text": "INT. EQUIPMENT MAINTENANCE AREA - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett walking between rows of shadowed equipment.\nLooking for the cat.\nNervous."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Jones...Here kitty...Jones...\nGoddamn it Jones."
+  },
+  {
+   "type": "stage direction",
+   "text": "Scratching noises.\nA reassuring cat yowl.\nBrett moves on."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley and Parker walk along.\nTracker signal weakens.\nFinally stops."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Nothing here."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Let's go back."
+  },
+  {
+   "type": "location",
+   "text": "INT. UNDERCARRIAGE ROOM - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett enters.\nStill looking for Jones.\nAnother yowl followed by a hiss.\nTwo eyes shining in the dark.\nJones.\nRelieved, Brett moves toward the cat."
+  },
+  {
+   "type": "speech",
+   "character": "BRETT",
+   "text": "Here kitty...Come on Jones."
+  },
+  {
+   "type": "stage direction",
+   "text": "Brett reaches for Jones.\nJones hisses.\nAn arm reaches for Brett.\nThe Alien.\nNow seven feet tall.\nHanging from the undercarriage strut in reverse position.\nGrabs Brett and swings up into darkness.\nBrett screams.\nTo no avail...\nIn the doorway Ripley and Parker.\nThey witness the horror."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The remaining crew assemble.\nLong faces."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Now what."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Blast the rotten bastard with\na laser and take our chances."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "No.  At its present size it's\nholding enough acid to tear a\nhole in this ship as big as this\nroom."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It wouldn't do any good.  It's\nself-regenerating.  You saw that\nwhen we operated on it."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "The only plan that's going to\nwork is the same one we had\nbefore.  Drive it into an air\nlock and blow it out into space."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Drive it...The son-of-a-bitch\nis huge."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "For once he has a point.  How\ndo we drive it."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "The science department should\nbe able to help..."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "According to Mother, he's a\nprimitive form of encephlepod..."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "How come it's a he."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Just a phrase.  As a matter of\nfact he's both, bisexual or\nhermaphrodite to be precise."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Skip its sex life.  How do\nwe kill it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "It seems to have adapted to\nan oxygen-rich atmosphere and\nit's certainly adapted well for\nits nutritional requirements.\nThe only thing we don't know\nabout is temperature."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Curious isn't it...That the\nAlien is an encephlepod..."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "What's so curious about that."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "It's curious because lower\nspecies can't adapt as quickly\nas higher ones.  And this one's\ndoing very well.  A real survivor.\nMight even have as good a chance\nas we do."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You're getting paranoid again."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "All right.  What about the\ntemperature.  What happens\nif we change it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Let's give it a try.  Most\nanimals retreat from fire."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I can hook up a couple of\nincinerating units in about\nfifteen minutes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Anybody got any better ideas."
+  },
+  {
+   "type": "stage direction",
+   "text": "Nobody does."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Okay.  When Parker's ready,\nwe'll work our way back down\nto 'C' deck."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Nostromo at light plus four."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Dallas lead.\nArmed with flamethrowers.\nThey descend from companionway.\nSuddenly both tracking devices beep frantically.\nSound of rending metal up ahead.\nThe move forward cautiously."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It's in that food locker."
+  },
+  {
+   "type": "location",
+   "text": "EXT. FOOD LOCKER NUMBER 12"
+  },
+  {
+   "type": "stage direction",
+   "text": "More rending noises."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Jesus.  It must be huge."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "It's got to be using the\nairshafts to move around..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas raises flamethrower."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Do these things really work."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "I made them didn't I."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "That's what worries me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas indicates door handle.\nParker reluctantly takes it."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Now."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker wrenches open door.\nDallas fires a long blast.  Another.\nAnother and another...Silence.\nThey move inside..."
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOD STORAGE LOCKER NUMBER 12 - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Charred wreckage.\nPackages have been ripped to shreds.\nFoodstuffs scattered over the floor.\nCarefully, they poke through the smouldering garbage."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We didn't get him."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "This is where he went."
+  },
+  {
+   "type": "stage direction",
+   "text": "On the wall, a ventilator grill has been ripped open.\nThey move to the shredded ventilator.\nShine their lights inside the shaft."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "This could work for us.  The\nduct comes out at the starboard\nair lock.  There's an exit on\nthe way.  But we can close that\noff.  Then we drive it into the\nair lock and blast it into space."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Yeah.  All you have to do is\ncrawl in the vent with it, find\nyour way through the maze and\nhope it's afraid of fire."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Well Parker, you wanted an\nequal share..."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Yeah."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Get in the pipe."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Why me."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I just wanted to see you get\nyour full share."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "No way."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'll go."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Forget it.  You take the\nair lock.  Parker and Lambert\ncover the exit."
+  },
+  {
+   "type": "stage direction",
+   "text": "No doubt as to who's going inside the vent."
+  },
+  {
+   "type": "location",
+   "text": "INT. STARBOARD AIR LOCK - VESTIBULE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley stands in vestibule.\nLooks through the Bulkhead door to air lock.\nShe throws a switch.\nWatches airshaft entrance into air lock open.\nThe trap is ready."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAINTENANCE LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Lambert get set."
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOD STORAGE LOCKER NUMBER 12 - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash hands Dallas the makeshift flamethrower.\nHe fires a couple of short bursts."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It's still working."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Why do you have to go.  Why\ndidn't you sent Ripley."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It's my responsibility.  I let\nKane go into the craft.  Now\nit's my turn."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You're the captain.  It'll be\nharder on the rest of us, if\nwe lose you."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Nothing I do that Ripley can't."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't agree."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "The decision is final."
+  },
+  {
+   "type": "stage direction",
+   "text": "He removes the master computer key.\nHands it to Ash."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "If I don't take it back,\nRipley will need this."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash nods.\nDallas turns and climbs into the ventilator opening.\nJust large enough to crawl through."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Completely dark.\nDallas turns on his helmet light.\nFlips switch on throat mike."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Do you receive me.  Ripley.\nParker.  Lambert."
+  },
+  {
+   "type": "location",
+   "text": "INT. EQUIPMENT MAINTENANCE AREA"
+  },
+  {
+   "type": "stage direction",
+   "text": "The hum of vast cooling plants.\nLarge air shafts run off in different directions.\nParker and Lambert stand ready by a duct.\nLambert hits the wall amp button."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "We're in position.  I'll try\nand pick you up on the tracker."
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker hefts his flamethrower."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Parker, if it tries to come\nout by you, make sure you drive\nit back in.  I'll push it forward."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Right."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK VESTIBULE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Near the starboard air lock.\nRipley pops open the hatch.\nThe air lock now open and ready.\nShe moves to the air duct opening."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Air lock open."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ready."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Ready."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas begins to crawl forward.\nThe tunnel is narrow...\nOnly a foot or two wider than his shoulders."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I'm under way."
+  },
+  {
+   "type": "stage direction",
+   "text": "Turns a corner.\nSeveral more tight turns.\nInstinctively Dallas pulls back.\nRaises the flamethrower.\nFires a blast around the corner into the darkness.\nIt roars loudly in the confined tube.\nSmoke drifts back into his face."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAINTENANCE LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "A large rectangular duct in one wall."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "That's where it's got to come\nout, if it leaves the main shaft."
+  },
+  {
+   "type": "stage direction",
+   "text": "He throws a switch.\nA metal pane rises and seals off the opening."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Let's keep it open.  I'd like\nto know if anything's coming."
+  },
+  {
+   "type": "stage direction",
+   "text": "Reluctantly, Parker again throws the switch and raises the\nmetal pane."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK VESTIBULE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley waiting."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas still crawling on hands and knees.\nAhead the shaft takes an abrupt downward turn.\nHe moves toward the corner.\nFires another blast from the flamethrower.\nThen starts crawling down, head first."
+  },
+  {
+   "type": "location",
+   "text": "INT. EQUIPMENT MAINTENANCE AREA"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert sees something on the tracker."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Beginning to get a reading on\nyou."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT"
+  },
+  {
+   "type": "stage direction",
+   "text": "The shaft makes yet another turn.\nPuts Dallas into an almost immobilized position."
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOD STORAGE LOCKER NUMBER 12"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash staring at the ventilator opening."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas against a wall of the shaft.\nClutching his flamethrower.\nWhispers into his throat mike."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Ripley."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK VESTIBULE"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Read you clear."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT"
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "I don't think this shaft goes\nmuch farther... It's getting hot\nin here."
+  },
+  {
+   "type": "stage direction",
+   "text": "He readies the flamethrower."
+  },
+  {
+   "type": "location",
+   "text": "INT. EQUIPMENT MAINTENANCE AREA"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker readies his weapon."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT - DOUBLE-TIERED PASSAGEWAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "The air shaft tributary opens into a larger two-tier air\ntunnel.\nDallas crawls out and stands.\nMoves to a catwalk floor.  Looks about.\nMoves forward.  Reaches a repair junction.\nSits.\nHis feet dangle beneath the catwalk floor to the next level."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Lambert, what kind of reading\nare you getting."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAINTENANCE LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert huddled over her tracker.\nPuzzled."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I'm not sure.  There seems\nto be some kind of double\nimage."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR SHAFT DOUBLE-TIERED PASSAGEWAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas sitting.\nHis feet still dangling in the dark beneath the catwalk."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "It may be interference.  I'll\npush on ahead."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas begins to rise.\nFrom below, a gentle movement toward the hanging feet.\nA hand reaches up.\nMisses his leg as Dallas moves ahead.\nFurther on."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Lambert, am I coming in any\nclearer."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "It's clear all right, but I'm\nstill getting two blips."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I'm not sure which one is\nwhich."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas stops.\nTurns around.\nLooks back down through the catwalk.\nLowers the nose of the flamethrower, his finger on the\ntrigger.\nFrom behind him, the hand reaches up.\nThe Alien is the front signal."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK VESTIBULE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley bends forward.\nHears the sounds of the struggle...\nAnd Dallas' screams.\nShe cries out."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Dallas...Dallas..."
+  },
+  {
+   "type": "location",
+   "text": "INT. EQUIPMENT MAINTENANCE AREA"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert and Parker.\nHearing it all."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Oh my God."
+  },
+  {
+   "type": "stage direction",
+   "text": "Then silence."
+  },
+  {
+   "type": "location",
+   "text": "INT. MESS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas' flamethrower on the table surface."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "We just found it laying there.\nNo sign of him.  Only a hole\ntorn through to the central\ncooling complex."
+  },
+  {
+   "type": "stage direction",
+   "text": "The remaining crew standing at the table."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "This puts me in command."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Okay."
+  },
+  {
+   "type": "stage direction",
+   "text": "For the first time he's dropped his bullshit."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Unless someone's got a better\nidea about dealing with the\nAlien, we'll continue with the\nlast plan."
+  },
+  {
+   "type": "stage direction",
+   "text": "Silence."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How are our weapons."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "They're working fine...We could\nuse more fuel for that one."
+  },
+  {
+   "type": "stage direction",
+   "text": "Indicating Dallas' flamethrower."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Get it."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Right."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves.\nRipley turns to Ash."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Any ideas.  From you or Mother."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Nothing new.  Just the one\nyou're operating under."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You mean to tell me with\neverything we've got, we're\nstill powerless against the\nBeast."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "That's the way it looks."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I can't believe that."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I'm sorry captain.  what would\nyou like me to do."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Go back to Mother and keep\nasking questions until you\nget some better answers."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "All right...I'll try."
+  },
+  {
+   "type": "stage direction",
+   "text": "He starts to go."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Dallas didn't leave the master\ncomputer key with you."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You didn't get it."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Well, we probably won't need\nit anyway."
+  },
+  {
+   "type": "stage direction",
+   "text": "He leaves."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I know Ash has got the key."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Why should he lie."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "He knows I want to check up on\nhim...Without that key we've got\nno access to command priority\ninformation."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Swell."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert shrugs.\nThey start to leave."
+  },
+  {
+   "type": "location",
+   "text": "INT. MAINTENANCE AREA - \"C\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker selects two full methane cylinders.\nHe tests them.\nMoves out."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR TO BRIDGE"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Did you ever sleep with Ash?"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "No.  What about you."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "No."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I never got the impression he\nwas particularly interested..."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker returning with methane cylinder.\nTurns a corner.\nComes to an abrupt halt.\nA movement in front of him beyond the air lock.\nHe hesitates.\nThen another shadowy movement..."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley and Lambert.\nParker's voice on voice-amp.\nMuffled.\nRipley hits a toggle."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Ripley."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker covers the wall communication with his hand."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Keep it down..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Up the corridor, the movement stops."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Can't hear you...Repeat..."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker whispering."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "The Alien...It's outside the\nmain air lock door.  Open the\ndoor slowly...When I shout...\nclose it fast."
+  },
+  {
+   "type": "location",
+   "text": "INT. BLISTER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash listens."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker still whispering."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Open it...slowly."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley hesitates.\nStarts to reply.\nThrows switch."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK - \"B\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Low servo whine.\nDoor opens.\nSlowly.\nGreen light throbbing inside air lock.\nCreature looks curiously at it.\nMoves onto the threshold."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker watches..."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Creature move further into air lock.\nFascinated by green light."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Urgent whisper into voice-amp."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Now...Now..."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "As Ripley moves to throw switch..."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Suddenly, from out of nowhere a klaxon wails.\nThe Creature leaps back across the threshold of the air lock.\nBewildered.\nScreams as the inner hatch closes on an appendage.\nAcid boiling out.\nThe appendage crushed.\nThe acid bubbles.\nMetal boils in door."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker watches.\nFrozen.\nThe Alien wrenches itself free.\nComes flying outward.\nSmashes Parker down.\nFlees.\nOn the wall a green light goes on."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Metal still boiling.\nThe outer hatch begins to open."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Parker..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pushes a switch.\nPushes it again."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What's happening, Parker."
+  },
+  {
+   "type": "stage direction",
+   "text": "In front of her a green light blinks.\n\"Inner Hatch Closed.\""
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Inner hatch sealed.  The outer\nhatch is open."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What about Parker."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I don't know.  Take over."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley bolts out of the bridge."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "Air lock open."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGE NEAR AIR LOCK - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker unconscious."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "The inner hatch still closed.\nMetal boils.\nThe hole growing deeper."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY - \"A\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley runs toward the air lock corridor."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Metal boiling in door."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAYS - \"B\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley slams to a momentary halt against a bulkhead.\nRegains her balance.\nStarts running."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGE NEAR AIR LOCK - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker now half conscious.\nRipley arrives as the hole in door blows open.\nEscaping air shrieks.\nFlashing sign comes on.\nCritical depressurization.\nEmergency klaxon.\nSimultaneously vestibule doors close either end.\nSealing in Ripley and Parker.\nDoor nearest to Parker half-closed on one of the methane\ncylinders.\nLeaving large gap.\nWindstorm begins as hole in air lock grows.\nRipley reaches for other cylinder.\nBegins smashing the jammed cylinder out of door.\nBlood froths at their noses and ears.\nCylinder finally is driven out.\nThe door slams closed."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert watches.\nEmergency light readings.\n\"Hull Breached\"\n\"Emergency Bulkheads Closed\""
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Ash, get the oxygen.  Meet me at\nthe air lock."
+  },
+  {
+   "type": "stage direction",
+   "text": "Rushes out.\nDown corridor."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGEWAY NEAR AIR LOCK - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley staggers toward an emergency panel.\nAt far end of corridor.\nPinging sound.\nMisty atmosphere.\nTries to activate the door.\nCannot.\nLambert appears other side of bulkhead.\nActivates door from outside.\nRush of oxygen."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO"
+  },
+  {
+   "type": "stage direction",
+   "text": "Plume of vapor freezes in the vacuum."
+  },
+  {
+   "type": "location",
+   "text": "INT. PASSAGE NEAR AIR LOCK - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Repressurization sounds.\nParker regains consciousness.\nStruggles to breathe.\nRipley unable to move.\nBreath coming in shallow pants.\nLambert with an oxygen tank.\nAsh follows.\nOxygen administered to Ripley and Parker.\nFinally."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You all right."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "We didn't get it.  The warning\nwent off and it jumped back in\nthe ship."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Who hit the warning."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You tell me."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "What does that mean."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I guess the alarm went off by\nitself."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "If you've got something to say\nsay it.  I'm sick of these coy\naccusations."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Nobody's accusing you."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "The hell you're not."
+  },
+  {
+   "type": "stage direction",
+   "text": "Sullen silence."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Go patch him up."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash and Parker leave.\nRipley turns to Lambert."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How much oxygen have we lost.\nI want an exact reading."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "You were accusing him."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "If I could find the command\ncomputer key, I could prove it."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "You're still accusing him of\nstealing the key."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "You think I'm wrong."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I don't know.  Wrong or crazy."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Thanks."
+  },
+  {
+   "type": "location",
+   "text": "INT. BLISTER STAIRCASE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley cautiously descends the stairs to the blister.\nCarrying a flamethrower."
+  },
+  {
+   "type": "location",
+   "text": "INT. ASH'S BLISTER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Looks around the blister.\nSatisfied it's deserted.\nShe puts down the flamethrower.\nMethodically begins to search for the key.\nFaint tapping sound.\nThen stops.\nShe looks around.\nSees nothing.\nResumes searching near blister window...\nRipley finds key...\nTapping sound.\nShe whips around to see:\nKane's disfigured face slapping against the plexiglass.\nShe stifles a scream.\nDrops the key onto the curved surface of the blister.\nFishes for it...\nKane's bloated face swings in...\nBeneath her.\nShe grabs the key and bolts up companionway."
+  },
+  {
+   "type": "location",
+   "text": "INT. COMPUTER ANNEX"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley plugs the key into the board.\nData banks come to life.\nShe sits at a console.\nThinks for a moment.\nThen punches up a code.\nNothing happens.\nPunches another combination.\nNothing happens.\nFrustration.\nAnother combination.\nOne screen comes to life.\nAnother combination.\nShe moves to the second keyboard.\nScreen One spells out the question:\nQuestion:  WHO TURNED ON AIR LOCK 2 WARNING SYSTEM.\nResponse:  ASH\nAnother code.\nQuestion:  IS ASH PROTECTING THE ALIEN.\nResponse:  YES\nNew code.\nQuestion:  WHY\nResponse:  SPECIAL ORDER 937 SCIENCE EYE'S ONLY\nShe starts a new code.\nA hand slams down next to Ripley's arm.\nIt sinks elbow deep into the computer.\nShe whips around in her chair.\nFaces Ash.\nRipley lashes out with her foot.\nKicks him in the middle.\nNo effect.\nRipley twists away.\nAsh throws a punch at her.\nMisses.\nShe pushes a chair at him.\nOverturns the desk...\nAnd runs through bridge into mess.\nHe moves after her.\nGets her.\nParker and Lambert burst into the Mess.\nLambert falls on Ash's back.\nAsh turns to Lambert.\nTosses her across the room.\nReturns to Ripley.\nAgain choking her.\nParker lifts the tracker.\nSteps behind Ash.\nSwings the tracker...Wallop.\nTears his head off...\nWires ascending from Ash's trunk.\nWhere his head used to be.\nAsh's hands release Ripley.\nSearch above his neck for his missing head.\nHe walks backward.\nAll eyes on Ash's headless body.\nHe walks the room.\nStill feeling for his missing head."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "A robot, a God damn Droid."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash turns on him.\nStarts to advance.\nParker hits him again with the tracker...\nAgain.\nAgain.\nNo avail.\nAsh begins choking Parker.\nRipley picks up one of the prod sticks.\nCloses on Ash's back.\nTears away the fabric.\nLambert pulls at Ash's legs.\nRipley tears at the controls buried in the cavity once\ncovered by his head.\nParker's eyes bulge in pain.\nAsh, headless, choking, choking, choking...\nRipley finds the wires, stabs the prod home...\nAsh's grip lessens.\nAnother stab...electrical flash...\nThe grip lessens...\nAnother stab...flash of circuits.\nThe headless body collapses.\nParker trying to regain his breath."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Damn you."
+  },
+  {
+   "type": "stage direction",
+   "text": "Kicks the headless body.\nLambert looks at Ripley."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Tell me...What the hell's going on."
+  },
+  {
+   "type": "stage direction",
+   "text": "Pause."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Let's find out.  Wire him back up."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "What kind of crap is that."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Do it."
+  },
+  {
+   "type": "stage direction",
+   "text": "They set to work.\nBegin to reassemble the wiring in Ash's head."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Ash let it on board.  Ash let it\ngrow inside Kane.  Ash blew the\nwarning signal."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Why."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Special Order 937."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "What's that."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "That's what I want to know."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ash's head is placed on the table.\nHis eyes flicker into consciousness."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What is Special Order 937."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You know I can't tell you that."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Then there's not point in talking\nto you.  Pull the plug."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Special Order 937 in essence\nasked me to direct the ship to\nthe planet, investigate a life\nform, possibly hostile and bring\nit back for observation.  With\ndiscretion, of course."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Why.  Why not tell us."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Would you have gone."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "It wasn't in the contract."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "My very point."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "They wanted to investigate the\nAlien.  No matter what happened\nto us."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "That's unfair.  Actually, you\nweren't mentioned in the order."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Those bastards."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "See it from their point of view.\nThey didn't know what the Alien is."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How do we kill it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't think you can.  Not\nin this ship, given its life\nsupport systems.  But I might\nbe able to."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "How."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I don't know quite yet.  I'm not\nexactly at my best at the moment.\nIf you would reconnect..."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "No way."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Don't be so hasty.  You'll never\nkill it without my help."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We've had enough of your help."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You've barely got any oxygen left.\nIf you don't go into hypersleep,\nyou'll die with or without the\nAlien."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Nice try, Ash."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I will do whatever I can to help\nyou.  I swear it."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Pull the plug."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I agree."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You idiots.  You still don't\nrealize what you're dealing with.\nThe Alien is a perfect organism.\nSuperbly structured, cunning,\nquintessentially violent.  With\nyour limited capabilities you have\nno chance against it."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "You admire it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "How can one not admire perfection.\nI will kill it because I am\nprogrammed to protect human life\nas you know."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Even if you have contempt for it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "Even then."
+  },
+  {
+   "type": "stage direction",
+   "text": "Bitter and angry."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Sorry Ash.  I don't buy it."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "You egocentric morons.  You'll\nbe ripped to shreds, destroyed\nand..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley make a movement.\nAsh softens..."
+  },
+  {
+   "type": "speech",
+   "character": "ASH",
+   "text": "I can only wish you well..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley pulls the plug."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "He was probably right.  We do\nneed him."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "He was conning us."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "He was programmed to protect\nhuman life."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "He wasn't protecting our human\nlives and that's all I care about.\nAnyway it's done."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley exits to the bridge."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley in the Computer Annex.\nLambert and Parker enter."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "He's right about one thing.\nWe've got less than twelve\nhours oxygen left."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "It's all over."
+  },
+  {
+   "type": "stage direction",
+   "text": "Gloom."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I don't know about the rest of\nyou, but I think I prefer a\npainless peaceful death to any\nof the alternatives on offer."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We're not there yet."
+  },
+  {
+   "type": "stage direction",
+   "text": "Lambert holds up a small card of spansules.\nSuicide pills."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "We're not.  Huh."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I think we should blow up the\nship."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I'll stick with chemicals if\nyou don't mind."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "We leave in the shuttle and\nthen blow up the ship."
+  },
+  {
+   "type": "location",
+   "text": "INT. AIR LOCK - NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley, Lambert and Parker loading oxygen tanks onto the\nNarcissus."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "That's all the oxygen."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "That's it."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Now.  Let's get the food, shut\noff the engines and get out...\nJones.  Where's Jones."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Who knows."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Last I saw him was in the mess."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Go look.  We don't want to leave him."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "I don't want to go by myself."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Always hated that damn cat."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'll go.  You load up the food."
+  },
+  {
+   "type": "stage direction",
+   "text": "They move out."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jones lying on Dallas' console.\nRipley comes in.\nSmiles."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Jones.  You're in luck."
+  },
+  {
+   "type": "stage direction",
+   "text": "As she reaches for him, Jones jumps off the console.\nMoves away."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Come on, Jones."
+  },
+  {
+   "type": "stage direction",
+   "text": "She moves after the cat.\nWe hear Parker and Lambert over the communicator\nfrom the coolant locker."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "How much do you think we'll\nneed."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley still in pursuit of the cat.\nCUT TO:"
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOD LOCKER NUMBER 6 - \"B\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker and Lambert loading food."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "All you can carry."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley's voice over communicator from bridge."
+  },
+  {
+   "type": "stage direction",
+   "text": "(voice over)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "God damn it, Jones.  Come here."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley furious but still speaking gently."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Here kitty...come here kitty..."
+  },
+  {
+   "type": "stage direction",
+   "text": "Jones moves away."
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOD LOCKER NUMBER 6 - \"B\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Arms full, Parker moves out of the locker.\nLambert is still making her selection.\nA faint light on the tracker.\nUnnoticed."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley finally corners Jones.\nFinds his box.\nTries to put him in it.\nJones resists.\nUltimately futile."
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOD LOCKER CORRIDOR - OUTSIDE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker attempts to pick up the flamethrower.\nCan't manage it and the food.\nDrops some of the packages."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Goddamn."
+  },
+  {
+   "type": "stage direction",
+   "text": "In the locker Lambert gathers food."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "What's the matter."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Nothing.  just hurry up."
+  },
+  {
+   "type": "stage direction",
+   "text": "The tracker flashes faster.\nNow it's noticed.\nParker picks up the flamethrower."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Let's get out of here."
+  },
+  {
+   "type": "speech",
+   "character": "LAMBERT",
+   "text": "Right now."
+  },
+  {
+   "type": "stage direction",
+   "text": "The Alien appears out of the air shaft ventilator.\nLambert turns.\nScreams.\nUnfolding, the Alien grabs for her."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley freezes as she hears Lambert's screams."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR - OUTSIDE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Parker looks back into the locker.\nUnable to use the flamethrower without hitting Lambert.\nHe hesitates for a moment, then strides into the locker.\nWielding the flamethrower like a club."
+  },
+  {
+   "type": "speech",
+   "character": "PARKER",
+   "text": "Goddamn you."
+  },
+  {
+   "type": "location",
+   "text": "INT. FOOR LOCKER NUMBER 6"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Alien drops Lambert.\nParker lands a blow with the flamethrower.\nNo effect.\nThe Alien strikes him once.\nKilling him instantly.\nHe now moves to Lambert."
+  },
+  {
+   "type": "location",
+   "text": "INT. BRIDGE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley listening on the communicator.\nLambert's dying shrieks.\nThen the voice-amp goes dead.\nSilence."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Parker.  Lambert."
+  },
+  {
+   "type": "stage direction",
+   "text": "She waits for a response.\nBut her expression shows that she expects none.\nA long moment.\nExpectation fulfilled.\nNightmare without end."
+  },
+  {
+   "type": "location",
+   "text": "INT. \"B\" LEVEL - COMPANIONWAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley descends, cautiously, holding flamethrower.\nJones left above, squalling."
+  },
+  {
+   "type": "location",
+   "text": "INT. CORRIDOR - \"B\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley moving warily, carrying flamethrower.\nNears entrance to food locker, looks in.\nSees carnage."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR - \"C\" DECK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley running toward engine room.\nOut of breath.\nExhausted she stops, gulps for air.\nSuddenly, ahead of her, the sound of human weeping.\nShe moves quietly ahead until the source of the sound is\ndirectly under her feet.\nShe is standing on a round metal plate.\nRipley starts to remove the disc."
+  },
+  {
+   "type": "location",
+   "text": "INT. UNDERCARRIAGE MAINTENANCE ROOM NUMBER 4"
+  },
+  {
+   "type": "stage direction",
+   "text": "The round opening illuminates a dakr ladderway.\nStill carrying flamethrower, Ripley starts downwards.\nPitch black.\nRipley arrives at deck level.\nShines her light.\nIts arc reveals the Alien's layer.\nBones, shreds of flesh.\nPieces of clothing, shoes.\nBizarre extrusions on the wall.\nSomething moves in the darkness.\nRipley spins, turns her light toward the movement.\nHanging from the ceiling is a huge cocoon.\nWoven from fine, white, silk-like material.\nFlamethrower ready, Ripley approaches.\nSees that the cocoon is semi-transparent.\nThe body of Dallas inside.\nUnexpectedly, his eyes open.\nFOCUS ON Ripley.\nHis voice is a whisper."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Kill me."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What did it do."
+  },
+  {
+   "type": "stage direction",
+   "text": "Dallas moves his head slightly.\nRipley turns her light.\nAnother cocoon dangles from the ceiling.\nBut of a different texture.\nSmaller and darker, with a harder shell.\nAlmost exactly like the ovoids in the derelict ship."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "That was Brett..."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I'll get you out of there...\nWe'll get up the autodoc."
+  },
+  {
+   "type": "stage direction",
+   "text": "A long moment.\nIt's hopeless."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "What can I do."
+  },
+  {
+   "type": "speech",
+   "character": "DALLAS",
+   "text": "Kill me."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley stares at him.\nRaises the flamethrower.\nSprays a molten blast.\nAnother blast.\nThe entire compartment bursts into flames.\nRipley turns and scrambles back up the ladderway."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley emerges from below.\nGasps for breath.\nRegains control of herself."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "At light speed.\nThe Nostromo and refinery appear to hang motionless.\nStar clusters rolling past in the infinite distance."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM - CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley enters the power center.\nStares at the massive light-plus engines.\nApproaches the main control board.\nBegins closing the switches, one by one.\nA long moment.\nSirens begin to honk.\nMother speaks."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Attention.  The cooling units for\nthe light-plus engines are not\nfunctioning.  Engines will over-\nload in four minutes, fifty seconds..."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR - \"C\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley running toward the \"B\" deck companionway."
+  },
+  {
+   "type": "location",
+   "text": "INT. \"B\" LEVEL - CORRIDOR"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley starts toward Narcissus.\nRemembers Jones."
+  },
+  {
+   "type": "location",
+   "text": "INT. \"A\" TO \"B\" LEVELS - COMPANIONWAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Jones howling.\nIn his box.\nRipley reaches up and grabs him."
+  },
+  {
+   "type": "location",
+   "text": "INT. \"B\" LEVEL - CORRIDOR LEADING TO AIR LOCK"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley carrying Jones, holding flamethrower.\nJones hisses.\nFur rises.\nRipley stops, and stares down corridor toward Narcissus.\nThe Alien can be heard thrashing about the shuttle craft.\nRipley turns and bolts toward the engine room, leaving\nJones on \"B\" level companionway."
+  },
+  {
+   "type": "location",
+   "text": "INT. COMPANIONWAY TO OILY CORRIDOR - \"E\" LEVEL"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley bounds down the companionway.\nHer footsteps clanging metallically throughout the ship.\nA final sprint towards the engine room."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Attention.  Engines will overload\nin three minutes, twenty seconds."
+  },
+  {
+   "type": "location",
+   "text": "INT. ENGINE ROOM - CUBICLE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The door crashes open, Ripley comes pounding in.\nThe chamber filled with smoke.\nEngines whining dangerously.\nRipley breaks out in perspiration from the intense heat.\nShe runs to the controls.\nBegins throwing the cooling unit switches back into place.\nThe sirens continue sounding."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Attention.  Engines will overload\nin three minutes."
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley pushes a button and speaks into it."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Mother, I've turned all the\ncooling units back on."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Too late for remedial action.\nThe core has begun to melt.\nEngines will overload in two\nminutes, thirty-five seconds."
+  },
+  {
+   "type": "stage direction",
+   "text": "A moment.\nThe Ripley turns and runs from the engine room."
+  },
+  {
+   "type": "location",
+   "text": "INT. OILY CORRIDOR - COMPANIONWAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley runs back down the corridor.\nUp the companionway, exhausted, stumbling..."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Attention.  Engines will overload\nin two minutes."
+  },
+  {
+   "type": "location",
+   "text": "INT. \"B\" LEVEL - COMPANIONWAY"
+  },
+  {
+   "type": "stage direction",
+   "text": "She reaches companionway.\nPicks up Jones."
+  },
+  {
+   "type": "location",
+   "text": "INT. \"B\" LEVEL - CORRIDOR LEADING TO NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley staggers towards the air lock.\nThe Narcissus berthed beyond.\nShe drags Jones and raises the flamethrower.\nTurns to see if the Creature is behind her.\nThen advances down the passageway.\nGoaded on by the computer."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Attention.  Engines will explode\nin ninety seconds."
+  },
+  {
+   "type": "stage direction",
+   "text": "She makes it to the vestibule.\nLooks into the shuttle."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley scans the narrow deck...empty."
+  },
+  {
+   "type": "location",
+   "text": "INT. VESTIBULE"
+  },
+  {
+   "type": "stage direction",
+   "text": "She turns and dashes back.\nGrabs the cat box.\nRuns back toward the shuttle."
+  },
+  {
+   "type": "stage direction",
+   "text": "(o.s.)"
+  },
+  {
+   "type": "speech",
+   "character": "MOTHER'S VOICE",
+   "text": "Attention.  The engines will\nexplode in sixty seconds."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley enters on the run.\nHurls the cat box toward the front.\nShe dives into the control chair.\nHits the \"launch\" button."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NOSTROMO - OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The retainer clips drop away.\nA blast of ram jets.\nThe shuttle is launched from the mother ship."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley frantically straps herself in.\nG-forces from the shuttles acceleration pulling against her."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Narcissus continues to power away from the mother ship.\nThe larger bulk of the Nostromo quietly receding.\nAll is strangely serene."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley finishes strapping herself in.\nReaches and grabs the cat box.\nThe cat yowling within.\nRipley hugs the box to her chest.\nHunches her head down over the container."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Nostromo drifts farther away from the shuttle-craft.\nFinally becomes a small point of light.\nThen it blows up.\nTransforms into expanding orange fireball.\nPieces of metal flying in all directions.\nAnd then the refinery explodes.\n200,000,000 tons of fuel blasting silently into the cosmos."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The shockwave hits the shuttle craft.\nJolting and rattling everything within.\nThen all is quiet.\nRipley unhooks herself from her straps.\nRises, and goes to the back of the escape craft.\nStares out through the porthole.\nFace bathed in orange light."
+  },
+  {
+   "type": "location",
+   "text": "EXT. SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "Piece of debris float past.\nThe boiling fireball fades into nothingness.\nThe Nostromo has ceased to exist."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley watching the final destiny of her ship and crew mates.\nA very long moment.\nThen, behind her, the lethal hand emerges from deep shadow.\nThe Alien has been in the shuttle-craft all along.\nThe cat yowls.\nRipley whirls.\nFinding herself facing the Creature.\nRipley's first thought is for the flamethrower.\nIt lies on the deck next to the Alien.\nNext she glances around for a place to hide.\nHer eye falls on a small locker containing a pressure suit.\nThe door standing open.\nShe begins to edge toward the compartment.\nThe Creature stands.\nComes for her.\nRipley dives for the open door.\nHurls herself inside.\nSlams it shut."
+  },
+  {
+   "type": "location",
+   "text": "INT. LOCKER"
+  },
+  {
+   "type": "stage direction",
+   "text": "A clear glass panel in the door.\nThe Alien puts its head up to the window.\nPeers in at Ripley.\nTheir faces only two inches apart.\nThe Alien looking at Ripley almost in curiosity.\nThe moaning of the cat distracts it."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Alien moves to the pressurized cat box.\nBends down and peers inside.\nThe cat yowls louder as his container is lifted."
+  },
+  {
+   "type": "location",
+   "text": "INT. LOCKER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley knocks on the glass.\nTrying to distract the Creature from the cat.\nThe Alien's face is instantly back at the window.\nGetting no more interference from her, the Creature\nreturns to the cat box.\nRipley looks around.\nSees the pressure suit.\nQuickly begins to pull it on."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Alien picks up the cat box.\nShakes it.\nThe cat moans."
+  },
+  {
+   "type": "location",
+   "text": "INT. LOCKER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley is halfway into a pressure suit."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Creature throws the cat box down.\nVery hard.\nPicks it up again.\nHammers it against the wall.\nThen jams it into a crevice.\nBegins to pound the container into the opening.\nThe cat now beyond all hysteria."
+  },
+  {
+   "type": "location",
+   "text": "INT. LOCKER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley pulls on the helmet, latches it into place.\nTurns the oxygen valve.\nWith a hiss, the suit fills itself.\nA rack on the wall contains a long metal rod.\nRipley peels off the rubber tip.\nRevealing a sharp metal point."
+  },
+  {
+   "type": "location",
+   "text": "INT. SPACE SUIT LOCKER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley inhales.\nKicks the door open."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Creature rises.\nFaces the locker.\nCatches the steel shaft through its midriff.\nThe Alien clutches at the spear.\nYellow acid begins to flow from the wound.\nBefore the fluid can touch the floor...\nRipley reaches back and pulls the switch.\nBlows the rear hatch.\nThe atmosphere in the shuttle immediately sucked into space.\nThe bleeding creature along with it.\nRipley grabs a strut to keep from being pulled out.\nThe Alien shoots past her.\nGrab's Ripley's ankle with an appendage."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley now hanging halfway out of the shuttle-craft.\nThe Alien clinging to her leg.\nShe kicks at it with her free foot.\nThe Creature holds fast."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley looks for any salvation.\nGrabs the hatch level.\nYanks it.\nThe hatch slams shut, closing Ripley safely inside."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Alien still outside the shuttle-craft.\nWithin the vacuum of space.\nThe top of its appendage mashed into the closed hatch."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Acid starts to foam along the base of the hatch.\nEats away at the metal.\nRipley stumbles forward to the controls.\nPushes the ram jet lever."
+  },
+  {
+   "type": "location",
+   "text": "EXT. NARCISSUS - OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The Creature struggling.\nJet exhaust located at the rear of the craft.\nThe engines belch flame for a few seconds.\nThen shut off.\nIncinerating, the Alien tumbles slowly away into space."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS"
+  },
+  {
+   "type": "stage direction",
+   "text": "Ripley hurries to the rear hatch.\nPeers through the glass."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The burned mass of the Alien drifts slowly away.\nWrithing, smoking.\nTumbling into the distance.\nPieces dropping off.\nThe shape bloats, then bursts.\nSpray of particles in all directions.\nThen smoldering fragments dwindle into infinity."
+  },
+  {
+   "type": "location",
+   "text": "INT. NARCISSUS - LATER"
+  },
+  {
+   "type": "stage direction",
+   "text": "Now repressurized.\nRipley is seated in the control chair.\nCalm and composed, almost cheerful.\nCat purring in her lap.\nShe dictates into a recorder."
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "I should reach the frontier in\nanother five weeks.  With a\nlittle luck the network will\npick me up...This is Ripley,\nW564502460H, executive officer,\nlast survivor of the commercial\nstarship Nostromo signing off."
+  },
+  {
+   "type": "stage direction",
+   "text": "(pause)"
+  },
+  {
+   "type": "speech",
+   "character": "RIPLEY",
+   "text": "Come on cat."
+  },
+  {
+   "type": "stage direction",
+   "text": "She switches off the recorder.\nStares into space."
+  },
+  {
+   "type": "location",
+   "text": "EXT. OUTER SPACE"
+  },
+  {
+   "type": "stage direction",
+   "text": "The shuttle-craft Narcissus sails into the distance.\nFADE OUT\nTHE END"
+  }
+ ]
+}

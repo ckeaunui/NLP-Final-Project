@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup, Tag, UnicodeDammit
 aliens_url = 'http://www.imsdb.com/scripts/Aliens.html'
 matrix_url = 'http://www.imsdb.com/scripts/Matrix,-The.html'
 wrong_url = 'http://www.imqsdsdb.com/scriptljhs/Maqsdtrix,-The.html'
-kungfu_url = 'https://www.imsdb.com/scripts/Kung-Fu-Panda.html'
 
 
 helptext="""Welcome to the Movie Script Parser!
