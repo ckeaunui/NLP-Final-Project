@@ -109,6 +109,12 @@ good_speech['red'] = (speech_by_character['shawshank-redemption']['red'])
 good_speech['andy'] = (speech_by_character['shawshank-redemption']['andy'])
 good_speech['truman'] = (speech_by_character['truman-show']['truman'])
 good_speech['ripley'] = (speech_by_character['alien']['ripley'])
+good_speech['woody'] = (speech_by_character['toy-story']['woody'])
+good_speech['spiderman'] = (speech_by_character['spider-man']['spider-man'])
+good_speech['neo'] = (speech_by_character['matrix']['neo'])
+good_speech['morpheus'] = (speech_by_character['matrix']['morpheus'])
+good_speech['batman'] = (speech_by_character['batman']['batman'])
+good_speech['po'] = (speech_by_character['kung-fu-panda']['po'])
 
 # adding antagonist speech
 bad_speech = {}
@@ -122,6 +128,8 @@ bad_speech['norton'] = (speech_by_character['shawshank-redemption']['norton'])
 bad_speech['bogs'] = (speech_by_character['shawshank-redemption']['bogs'])
 bad_speech['travis'] = (speech_by_character['taxi-driver']['travis'])
 bad_speech['christof'] = (speech_by_character['truman-show']['christof'])
+bad_speech['agent smith'] = (speech_by_character['matrix']['agent smith'])
+bad_speech['joker'] = (speech_by_character['batman']['joker'])
 
 print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech['deckard']))
 print("TRAVIS: " + str(bad_speech['travis']))
