@@ -64,11 +64,11 @@ def make_csv(good_speech, bad_speech):
     row_list = []
 
     for character in good_speech:
-        dialogue = good_speech[character]
+        dialogue = prepareText(good_speech[character])
         row_list.append([character, " ".join(dialogue), 0])
 
     for character in bad_speech:
-        dialogue = bad_speech[character]
+        dialogue = prepareText(bad_speech[character])
         row_list.append([character, " ".join(dialogue), 1])
 
     random.shuffle(row_list)
@@ -98,38 +98,66 @@ print("Deckard speech: " + str(speech_by_character['blade-runner']['deckard']))
 
 # adding protagonist speech
 good_speech = {}
-good_speech['deckard'] = (speech_by_character['blade-runner']['deckard'])
-good_speech['z'] = (speech_by_character['antz']['z'])
-good_speech['bourne'] = (speech_by_character['bourne-identity']['bourne'])
-good_speech['steve'] = (speech_by_character['independence-day']['steve'])
-good_speech['lydia'] = (speech_by_character['beetlejuice']['lydia'])
-good_speech['somerset'] = (speech_by_character['seven']['somerset'])
-good_speech['mills'] = (speech_by_character['seven']['mills'])
-good_speech['red'] = (speech_by_character['shawshank-redemption']['red'])
-good_speech['andy'] = (speech_by_character['shawshank-redemption']['andy'])
-good_speech['truman'] = (speech_by_character['truman-show']['truman'])
-good_speech['ripley'] = (speech_by_character['alien']['ripley'])
-good_speech['woody'] = (speech_by_character['toy-story']['woody'])
-good_speech['spiderman'] = (speech_by_character['spider-man']['spider-man'])
-good_speech['neo'] = (speech_by_character['matrix']['neo'])
-good_speech['morpheus'] = (speech_by_character['matrix']['morpheus'])
-good_speech['batman'] = (speech_by_character['batman']['batman'])
-good_speech['po'] = (speech_by_character['kung-fu-panda']['po'])
+good_speech['deckard'] = speech_by_character['blade-runner']['deckard']
+good_speech['z'] = speech_by_character['antz']['z']
+good_speech['bourne'] = speech_by_character['bourne-identity']['bourne']
+good_speech['steve'] = speech_by_character['independence-day']['steve']
+good_speech['lydia'] = speech_by_character['beetlejuice']['lydia']
+good_speech['somerset'] = speech_by_character['seven']['somerset']
+good_speech['mills'] = speech_by_character['seven']['mills']
+good_speech['red'] = speech_by_character['shawshank-redemption']['red']
+good_speech['andy dufresne'] = speech_by_character['shawshank-redemption']['andy']
+good_speech['truman'] = speech_by_character['truman-show']['truman']
+good_speech['ripley'] = speech_by_character['alien']['ripley']
+good_speech['woody'] = speech_by_character['toy-story']['woody']
+good_speech['spiderman'] = speech_by_character['spider-man']['spider-man']
+good_speech['peter parker'] = speech_by_character['spider-man']['peter']
+good_speech['flash'] = speech_by_character['spider-man']['flash']
+good_speech['neo'] = speech_by_character['matrix']['neo']
+good_speech['morpheus'] = speech_by_character['matrix']['morpheus']
+good_speech['batman'] = speech_by_character['batman']['batman']
+good_speech['po'] = speech_by_character['kung-fu-panda']['po']
+good_speech['bruce wayne'] = speech_by_character['batman']['bruce wayne']
+good_speech['joel'] = speech_by_character['eternal-sunshine']['joel']
+good_speech['clementine'] = speech_by_character['eternal-sunshine']['clementine']
+good_speech['caleb'] = speech_by_character['ex-machina']['caleb']
+good_speech['shifu'] = speech_by_character['kung-fu-panda']['shifu']
+good_speech['bob'] = speech_by_character['lost-in-translation']['bob']
+good_speech['charlotte'] = speech_by_character['lost-in-translation']['charlotte']
+good_speech['monica'] = speech_by_character['love-and-basketball']['monica']
+good_speech['quincy'] = speech_by_character['love-and-basketball']['quincy']
+good_speech['morpheus'] = speech_by_character['matrix']['morpheus']
+good_speech['billy'] = speech_by_character['midnight-express']['billy']
+good_speech['ethan hunt'] = speech_by_character['mission-impossible']['ethan']
+good_speech['luke'] = speech_by_character['new-hope']['luke']
+good_speech['leia'] = speech_by_character['new-hope']['leia']
+good_speech['sarah conners'] = speech_by_character['terminator']['sarah']
+good_speech['buzz lightyear'] = speech_by_character['toy-story']['buzz']
 
 # adding antagonist speech
 bad_speech = {}
-bad_speech['betelgeuse'] = (speech_by_character['beetlejuice']['betelgeuse'])
-bad_speech['mandible'] = (speech_by_character['antz']['mandible'])
-bad_speech['roth'] = (speech_by_character['godfather-2']['roth'])
-bad_speech['batty'] = (speech_by_character['blade-runner']['batty'])
-bad_speech['conklin'] = (speech_by_character['bourne-identity']['conklin'])
-bad_speech['john doe'] = (speech_by_character['seven']['john doe'])
-bad_speech['norton'] = (speech_by_character['shawshank-redemption']['norton'])
-bad_speech['bogs'] = (speech_by_character['shawshank-redemption']['bogs'])
-bad_speech['travis'] = (speech_by_character['taxi-driver']['travis'])
-bad_speech['christof'] = (speech_by_character['truman-show']['christof'])
-bad_speech['agent smith'] = (speech_by_character['matrix']['agent smith'])
-bad_speech['joker'] = (speech_by_character['batman']['joker'])
+bad_speech['betelgeuse'] = speech_by_character['beetlejuice']['betelgeuse']
+bad_speech['mandible'] = speech_by_character['antz']['mandible']
+bad_speech['roth'] = speech_by_character['godfather-2']['roth']
+bad_speech['batty'] = speech_by_character['blade-runner']['batty']
+bad_speech['conklin'] = speech_by_character['bourne-identity']['conklin']
+bad_speech['john doe'] = speech_by_character['seven']['john doe']
+bad_speech['norton'] = speech_by_character['shawshank-redemption']['norton']
+bad_speech['bogs'] = speech_by_character['shawshank-redemption']['bogs']
+bad_speech['travis'] = speech_by_character['taxi-driver']['travis']
+bad_speech['christof'] = speech_by_character['truman-show']['christof']
+bad_speech['agent smith'] = speech_by_character['matrix']['agent smith']
+bad_speech['joker'] = speech_by_character['batman']['joker']
+bad_speech['vader'] = speech_by_character['new-hope']['vader']
+bad_speech['nathan'] = speech_by_character['ex-machina']['nathan']
+bad_speech['jason'] = speech_by_character['friday-the-13th-VIII']['jason']
+bad_speech['tai lung'] = speech_by_character['kung-fu-panda']['tai lung']
+bad_speech['hamidou'] = speech_by_character['midnight-express']['hamidou']
+bad_speech['phelps'] = speech_by_character['mission-impossible']['phelps']
+bad_speech['ock'] = speech_by_character['spider-man']['ock']
+bad_speech['terminator'] = speech_by_character['terminator']['terminator']
+bad_speech['jack torrance'] = speech_by_character['the-shining']['jack']
+bad_speech['sid'] = speech_by_character['toy-story']['sid']
 
 print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech['deckard']))
 print("TRAVIS: " + str(bad_speech['travis']))
