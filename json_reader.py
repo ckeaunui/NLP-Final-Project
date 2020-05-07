@@ -82,7 +82,7 @@ def make_csv(good_speech, bad_speech):
 speech_by_character = {}
 
 for subdir, dirs, files in os.walk('json-scripts'):
-    for file in files:
+    for i, file in enumerate(files):
         with open("json-scripts/" + str(file)) as f:
             data = json.load(f)
             film_name = str(file)[:-5]
@@ -133,6 +133,11 @@ good_speech['luke'] = speech_by_character['new-hope']['luke']
 good_speech['leia'] = speech_by_character['new-hope']['leia']
 good_speech['sarah conners'] = speech_by_character['terminator']['sarah']
 good_speech['buzz lightyear'] = speech_by_character['toy-story']['buzz']
+good_speech['keating'] = speech_by_character['dead-poets-society']['keating']
+good_speech['mater'] = speech_by_character['cars-2']['mater']
+good_speech['lucy pevensie'] = speech_by_character['narnia']['lucy']
+good_speech['shrek'] = speech_by_character['shrek-3']['shrek']
+good_speech['roger rabbit'] = speech_by_character['who-shot-roger-rabbit']['roger rabbit']
 
 # adding antagonist speech
 bad_speech = {}
@@ -158,6 +163,14 @@ bad_speech['ock'] = speech_by_character['spider-man']['ock']
 bad_speech['terminator'] = speech_by_character['terminator']['terminator']
 bad_speech['jack torrance'] = speech_by_character['the-shining']['jack']
 bad_speech['sid'] = speech_by_character['toy-story']['sid']
+bad_speech['mr nolan'] = speech_by_character['dead-poets-society']['mr nolan']
+bad_speech['professor zundapp'] = speech_by_character['cars-2']['professor zundapp']
+bad_speech['miles axlerod'] = speech_by_character['cars-2']['miles axlerod']
+bad_speech['hannibal lecter'] = speech_by_character['hannibal']['hannibal']
+bad_speech['jason dean'] = speech_by_character['heathers']['jason']
+bad_speech['white witch'] = speech_by_character['narnia']['white witch']
+bad_speech['rumplestiltskin'] = speech_by_character['shrek-3']['rumplestiltskin']
+bad_speech['judge doom'] = speech_by_character['who-shot-roger-rabbit']['doom']
 
 print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech['deckard']))
 print("TRAVIS: " + str(bad_speech['travis']))
