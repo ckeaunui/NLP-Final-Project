@@ -96,8 +96,29 @@ for film in speech_by_character:
 
 print("Deckard speech: " + str(speech_by_character['blade-runner']['deckard']))
 
+
 # adding protagonist speech
 good_speech = {}
+good_speech['ambrose'] = speech_by_character['the-birds']['ambrose']
+good_speech['ethan'] = speech_by_character['mission-impossible-2']['ethan']
+good_speech['joey donner'] = speech_by_character['the-proposal']['joey donner']
+good_speech['cameron'] = speech_by_character['ten-things-i-hate-about-you']['cameron']
+good_speech['kat'] = speech_by_character['ten-things-i-hate-about-you']['kat']
+good_speech['grady'] = speech_by_character['wonder-boys']['grady']
+good_speech['steed'] = speech_by_character['the-avengers']['steed']
+good_speech['emma'] = speech_by_character['the-avengers']['emma']
+good_speech['bailey'] = speech_by_character['the-avengers']['bailey']
+good_speech['mother'] = speech_by_character['the-avengers']['mother']
+good_speech['nadia'] = speech_by_character['american-pie']['nadia']
+good_speech['finch'] = speech_by_character['american-pie']['finch']
+good_speech['jim'] = speech_by_character['american-pie']['jim']
+good_speech['stifler\'s mom'] = speech_by_character['american-pie']['stifler\'s mom']
+good_speech['sherman'] = speech_by_character['american-pie']['sherman']
+good_speech['vicky'] = speech_by_character['american-pie']['vicky']
+good_speech['michelle'] = speech_by_character['american-pie']['michelle']
+good_speech['jim\'s dad'] = speech_by_character['american-pie']['jim\'s dad']
+good_speech['kevin'] = speech_by_character['american-pie']['kevin']
+good_speech['heather'] = speech_by_character['american-pie']['heather']
 good_speech['deckard'] = speech_by_character['blade-runner']['deckard']
 good_speech['z'] = speech_by_character['antz']['z']
 good_speech['bourne'] = speech_by_character['bourne-identity']['bourne']
@@ -146,6 +167,12 @@ good_speech['ichabod'] = speech_by_character['sleepy-hollow']['ichabod']
 
 # adding antagonist speech
 bad_speech = {}
+bad_speech['ambrose'] = speech_by_character['mission-impossible-2']['ambrose']
+bad_speech['joey'] = speech_by_character['ten-things-i-hate-about-you']['joey']
+bad_speech['ed'] = speech_by_character['the-man-who-wasnt-there']['ed']
+bad_speech['dave'] = speech_by_character['the-man-who-wasnt-there']['dave']
+bad_speech['walter gaskell'] = speech_by_character['wonder-boys']['walter gaskell']
+bad_speech['steve stifler'] = speech_by_character['']['']
 bad_speech['betelgeuse'] = speech_by_character['beetlejuice']['betelgeuse']
 bad_speech['mandible'] = speech_by_character['antz']['mandible']
 bad_speech['roth'] = speech_by_character['godfather-2']['roth']
