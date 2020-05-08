@@ -12,7 +12,6 @@ def removePunctuation(wordFile):
     return content
 
 
-character_says = {}
 all_text = []
 
 for subdir, dirs, files in os.walk('json-scripts'):
@@ -25,15 +24,7 @@ for subdir, dirs, files in os.walk('json-scripts'):
                     dialogue = dictionary['text']
                     for word in word_tokenize(dialogue):
                         all_text.append(word.lower())
-                    character_says[char] = dialogue
 
-# character_says dictionary has character, dialogue pairings
-
-# clean the dictionary dialogue
-for k, v in character_says.items():
-    character_says[k] = clean(v)
-    character_says[k] = character_says[k].rstrip("\n")
-    character_says[k] = (character_says[k].split(' '))
 
 all_text = removePunctuation(all_text)
 
@@ -58,6 +49,3 @@ for i in range(50):
 
 for word in word_list:
     print(word, end=" ")
-
-# print(character_says)
-# print(all_text)
