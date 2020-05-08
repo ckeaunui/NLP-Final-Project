@@ -28,3 +28,35 @@ rfc.fit(X_train, y_train)
 
 predictions = rfc.predict(X_test)
 print(classification_report(y_test, predictions))
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+# THIS IS A PRELIMINARY TEST OF RANDOM FOREST CLASSIFIER WITH CSV
+# CHANGE TEST SIZE VARIABLE BELOW AS SIZE OF CSV IS INCREASED
+
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.metrics import accuracy_score
+import pandas as pd
+
+data = pd.read_csv('dialogue_data.csv')
+
+X = data['text']
+y = data['character role']
+
+vectorizer = CountVectorizer()
+vectorizer.fit(X)
+
+counts = vectorizer.fit_transform(X.values)
+targets = y.values
+
+rfc = MultinomialNB()
+rfc.fit(counts, targets)
+
+predictions = rfc.predict(counts)
+print(classification_report(targets, predictions))
+print(accuracy_score(predictions, targets))
+
+
+
