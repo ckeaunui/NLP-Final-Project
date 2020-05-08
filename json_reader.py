@@ -138,6 +138,11 @@ good_speech['mater'] = speech_by_character['cars-2']['mater']
 good_speech['lucy pevensie'] = speech_by_character['narnia']['lucy']
 good_speech['shrek'] = speech_by_character['shrek-3']['shrek']
 good_speech['roger rabbit'] = speech_by_character['who-shot-roger-rabbit']['roger rabbit']
+good_speech['adam'] = speech_by_character['5050']['adam']
+good_speech['josie'] = speech_by_character['never-been-kissed']['josie']
+good_speech['aldys'] = speech_by_character['never-been-kissed']['aldys']
+good_speech['enid'] = speech_by_character['ghost-world']['enid']
+good_speech['ichabod'] = speech_by_character['sleepy-hollow']['ichabod']
 
 # adding antagonist speech
 bad_speech = {}
@@ -171,6 +176,12 @@ bad_speech['jason dean'] = speech_by_character['heathers']['jason']
 bad_speech['white witch'] = speech_by_character['narnia']['white witch']
 bad_speech['rumplestiltskin'] = speech_by_character['shrek-3']['rumplestiltskin']
 bad_speech['judge doom'] = speech_by_character['who-shot-roger-rabbit']['doom']
+bad_speech['kirsten'] = speech_by_character['never-been-kissed']['kirsten']
+bad_speech['gibby'] = speech_by_character['never-been-kissed']['gibby']
+bad_speech['kristen'] = speech_by_character['never-been-kissed']['kristen']
+bad_speech['roberta'] = speech_by_character['ghost-world']['roberta']
+bad_speech['brom'] = speech_by_character['sleepy-hollow']['brom']
+bad_speech['lady van tassel'] = speech_by_character['sleepy-hollow']['lady van tassel']
 
 print("Deckard speech (stopwords, punctuation removed, lowercase, words lemmatized): " + str(good_speech['deckard']))
 print("TRAVIS: " + str(bad_speech['travis']))
