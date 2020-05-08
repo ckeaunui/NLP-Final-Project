@@ -39,6 +39,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 import pandas as pd
+import numpy as np
 
 data = pd.read_csv('dialogue_data.csv')
 
@@ -46,17 +47,33 @@ X = data['text']
 y = data['character role']
 
 vectorizer = CountVectorizer()
-vectorizer.fit(X)
-
 counts = vectorizer.fit_transform(X.values)
 targets = y.values
 
-rfc = MultinomialNB()
-rfc.fit(counts, targets)
 
-predictions = rfc.predict(counts)
-print(classification_report(targets, predictions))
+classifier = MultinomialNB()
+classifier.fit(counts, targets)
+
+predictions = classifier.predict(counts)
+print(classification_report(predictions, targets))
 print(accuracy_score(predictions, targets))
+
+user_input = pd.DataFrame(columns=['Input'])
+
+#Add inputs in this format: ['Speech', 'Speech', etc.] for as many characters as you want.
+#Include the full list of characters words for more accurate results
+user_input['Input'] = ['']
+
+v = vectorizer.transform(user_input['Input'].values)
+print(classifier.predict(v))
+
+
+
+
+
+
+
+
 
 
 
