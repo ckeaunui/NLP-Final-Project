@@ -10,7 +10,7 @@ def clean (string):
             no_punct = no_punct + char
     return no_punct
 
-def ngrams(input, n):         #currently not in use
+def ngrams(input, n):         #this is currently not in use
    input = input.split(' ')
    output = {}
    for i in range(len(input)-n+1):
